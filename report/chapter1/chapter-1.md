@@ -1,4 +1,25 @@
-# Registro de Versiones del Informe
+# CARÁTULA
+
+#### Universidad de Ciencias Aplicadas
+#### Ingeniería de Software
+#### Quinto ciclo
+#### Sección: SI729
+#### Docente: Angel Augusto Velasquez Nuñez
+#### "Informe del Trabajo Final"
+#### Closed Source
+#### PSYMED
+#### Relación de integrantes:
+- Maita Falckenheiner, Romina Guadalupe
+- Escalante Baygorrea, Franz Janiel
+- Cervantes Erequita, Sebastian Valentino
+- Noriega Suschenko, Analoty Andrey
+- Ccotarma Ttito, Eduardo Eusebio Sihuar
+
+#### Agosto 2024
+
+
+
+## Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
@@ -6,8 +27,15 @@
 
 
 # Project Report Collaboration Insights
+Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestionar el progreso grupal.
+En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
+
+Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
+[ClosedSource.com](https://github.com/WX55-Closed-Source)
+
 
 # Contenido
+
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Project Report Collaboration Insights](#project-report-collaboration-insights)
@@ -98,3 +126,15 @@
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
+
+# Student Outcome
+El criterio del 
+El curso tiene tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
+
+| Criterio Específico                                                  | Acciones realizadas | Conclusiones |
+|----------------------------------------------------------------------|---------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia  | TB1:                |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:                |              |
+
