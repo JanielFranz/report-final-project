@@ -98,3 +98,25 @@
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
+
+### Antecedentes y problematica: 
+Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general. En Perú, la saturación del sistema de salud mental es especialmente crítica.
+
+What: A pesar de las políticas de salud pública que han dado mayor importancia a la salud mental, el sistema sigue siendo incapaz de atender a la gran mayoría de la población afectada por trastornos mentales, como la depresión y la ansiedad.
+
+Where: Esta problemática es particularmente visible en Perú, donde el Ministerio de Salud y la Defensoría del Pueblo han documentado una grave falta de recursos en las instituciones de salud mental.
+
+When: El déficit en la atención de la salud mental ha sido un problema desde al menos 2016, y se ha agravado en los últimos años, especialmente desde 2021, cuando se reportaron más de un millón de casos de problemas de salud mental.
+
+Why: La saturación del sistema de salud y la falta de recursos humanos y financieros son las principales causas de este problema, lo que resulta en que 8 de cada 10 personas no reciban la atención que necesitan.
+
+How: El déficit se manifiesta en la escasez de profesionales especializados en salud mental (solo 2 a 3 médicos por cada 100,000 habitantes), y en la carga administrativa que enfrenta el personal médico, lo que dificulta aún más la prestación de atención adecuada.
+
+How Much: La magnitud del problema es alarmante, con más de 1 millón de personas afectadas que no reciben la atención necesaria, lo que representa un desafío urgente para el sistema de salud.
+
+Descripción de la Problemática
+El sistema de salud mental en Perú enfrenta una crisis significativa debido a la saturación y falta de recursos. A pesar del creciente número de casos de trastornos mentales, el sistema no cuenta con suficientes médicos especializados para atender a la población. Este déficit no solo afecta la calidad de la atención, sino que también impone una carga administrativa considerable sobre los médicos, limitando aún más su capacidad para proporcionar atención efectiva. La falta de herramientas que faciliten la gestión de citas, el seguimiento de historiales clínicos, y la comunicación eficiente entre médicos y pacientes agrava el problema, haciendo urgente la necesidad de soluciones tecnológicas que optimicen estos procesos y alivien la presión sobre el sistema de salud.
+
+ [Infobae](https://www.infobae.com/peru/2023/08/08/problemas-de-salud-mental-en-aumento-mas-de-3-millones-de-casos-se-registraron-desde-2021/#:~:text=Durante%20el%202021%2C%20se%20reportaron,un%20impactante%20aumento%20del%2019.21%25.)
+ [Revista Cielo](https://www.scielosp.org/article/rcsp/2020.v46n4/e2146/)
+ [world Healt Organization](https://apps.who.int/gho/data/node.main.MHHR?lang%20=%20en)
