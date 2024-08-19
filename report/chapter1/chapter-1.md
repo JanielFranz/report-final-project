@@ -64,6 +64,9 @@
 **- Panel de Control para Seguimiento:** Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
 
 - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
+
+![Lean UX Canvas](</assets/Lean UX Canvas.png>)
+
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
