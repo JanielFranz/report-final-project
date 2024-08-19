@@ -9,6 +9,7 @@
 #### Closed Source
 #### PSYMED
 #### Relación de integrantes:
+
 - Maita Falckenheiner, Romina Guadalupe
 - Escalante Baygorrea, Franz Janiel
 - Cervantes Erequita, Sebastian Valentino
