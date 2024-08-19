@@ -128,8 +128,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 ### [Anexos](#anexos-1)
 
 # Student Outcome
-El criterio del 
-El curso tiene tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
+El curso tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
 
 En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
 
