@@ -50,7 +50,64 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
     - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
+         *El problema que enfrentan muchas instituciones médicas especializadas en salud mental es la falta de herramientas tecnológicas integradas y específicas para la gestión eficiente de la información de sus pacientes. Los psiquiatras a menudo lidian con sistemas dispares que no se comunican entre sí, lo que resulta en un manejo fragmentado de los datos clínicos, dificultades para organizar y acceder a la información relevante durante las consultas, y problemas para programar y gestionar citas de manera eficiente.*
+
+         *Esta situación no solo genera una carga administrativa adicional para los profesionales, que deben dedicar tiempo extra a tareas que no aportan directamente a la atención del paciente, sino que también aumenta el riesgo de errores en el manejo de la información clínica, lo que podría afectar negativamente la calidad del cuidado que se proporciona. Además, la falta de un sistema centralizado dificulta la colaboración entre profesionales dentro de la misma institución, limitando la capacidad de ofrecer un enfoque de tratamiento multidisciplinario.*
+
+         >*Con base en los resultados del análisis de las funcionalidades médicas en línea de 200 hospitales en América Latina y el Caribe, se puede concluir que si bien existe una adopción significativa de la agenda en línea y la visualización de exámenes médicos, la implementación de servicios de telemedicina y otras funcionalidades adicionales aún presenta un margen considerable para el desarrollo y la mejora.
+        -(s. f.).* 
+
+         *En un contexto donde la demanda de servicios de salud mental sigue creciendo, es fundamental contar con una solución tecnológica que permita a los profesionales de la salud mental organizar de manera efectiva toda la información relacionada con sus pacientes, desde los datos clínicos hasta la gestión de citas. Una plataforma diseñada específicamente para este propósito no solo mejoraría la eficiencia operativa al reducir la carga administrativa, sino que también permitiría a los profesionales concentrarse más en la atención directa al paciente, mejorando la calidad del servicio y la satisfacción tanto de los pacientes como de los profesionales.*
+
+         *Esta plataforma debe ser segura, fácil de usar, y capaz de integrar todas las funcionalidades necesarias para la gestión diaria en un solo lugar, permitiendo así una mejora significativa en la organización de las consultas, el acceso a la información y la coordinación entre los diferentes profesionales y abriendo la posibilidad para integraciones de IOT dentro de la institución.*
+
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
+         **Business Assumptions:**
+
+         **Creemos que las instituciones de salud mental necesitan:** una plataforma centralizada para organizar y gestionar la información de los pacientes, citas, y datos clínicos de manera eficiente.
+
+         **Creemos que:** al ofrecer una plataforma específica para las necesidades de estas instituciones, podrán optimizar sus procesos internos, reducir errores y mejorar la calidad de la atención que ofrecen a sus pacientes.
+
+         **Estas necesidades se pueden satisfacer:** al proporcionar una solución integrada que permita a los profesionales de la salud mental gestionar toda la información de sus pacientes en un solo lugar, de manera segura y accesible.
+
+         **Creemos que podemos obtener ingresos mediante:** la venta de licencias de uso del software a las instituciones de salud mental, así como mediante el cobro de tarifas de suscripción mensuales.
+
+         **El mayor riesgo es:** que las instituciones no perciban un valor claro en la adopción de una nueva plataforma tecnológica.
+
+         **Lo resolveremos mediante:** demostraciones en vivo, pruebas gratuitas, y estudios de caso que muestren cómo nuestra plataforma mejora la eficiencia y la calidad del servicio en otras instituciones.
+
+         ---
+
+         **User Assumptions**
+
+         **Creemos que los profesionales de la salud mental necesitan:** una manera más eficiente y segura de gestionar la información de sus pacientes, incluyendo notas clínicas, programación de citas, y seguimiento de tratamientos.
+
+         **Creemos que:** al proporcionar una plataforma fácil de usar y accesible desde cualquier dispositivo, los profesionales estarán más dispuestos a adoptar esta solución para mejorar su flujo de trabajo.
+
+         **Estas necesidades se pueden satisfacer:** desarrollando una interfaz intuitiva que permita a los profesionales acceder a la información de sus pacientes rápidamente y sin complicaciones.
+
+         **Creemos que podemos obtener ingresos mediante:** la satisfacción de estos usuarios, quienes impulsarán la adopción de la plataforma dentro de sus instituciones, lo que se traduce en ventas recurrentes y retención a largo plazo.
+
+         **El mayor riesgo es:** que los profesionales encuentren la plataforma difícil de usar o que no se ajuste a su flujo de trabajo diario.
+
+         **Lo resolveremos mediante:** pruebas de usabilidad exhaustivas, personalización de la plataforma para diferentes tipos de usuarios, y soporte técnico constante.
+
+         ---
+
+         **Feature Assumptions**
+
+         **Creemos que los usuarios necesitan:** una funcionalidad de gestión de citas que esté completamente integrada con los registros de los pacientes y las notas clínicas.
+
+         **Creemos que:** al integrar esta funcionalidad, los profesionales de la salud mental podrán manejar sus horarios de manera más eficiente y reducir la probabilidad de errores administrativos.
+
+         **Estas necesidades se pueden satisfacer:** al desarrollar una función de gestión de citas que esté directamente conectada con los datos de los pacientes, permitiendo un acceso rápido y seguro a la información relevante durante la programación de consultas.
+
+         **Creemos que podemos obtener ingresos mediante:** la venta de módulos adicionales de la plataforma, como la integración con sistemas de facturación o la expansión de la capacidad de almacenamiento de datos.
+
+         **El mayor riesgo es:** que la funcionalidad de gestión de citas no se integre correctamente con el resto de la plataforma o que no cumpla con las expectativas de los usuarios.
+
+         **Lo resolveremos mediante:** pruebas piloto con un grupo selecto de usuarios y ajustes iterativos basados en su retroalimentación.
+         
         - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
