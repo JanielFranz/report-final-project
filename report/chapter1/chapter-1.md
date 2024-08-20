@@ -1,3 +1,31 @@
+<h1 style="text-align: center;">Carátula</h1>
+<div style="text-align: center;">
+    <img src="/assets/logo.png"></img><br>
+</div>
+
+**<center>Universidad Peruana de Ciencias Aplicadas</center>**
+**<center>Ingeniería de Software</center>**
+**<center>Quinto ciclo</center>**
+**<center>Sección: SI729</center>**
+**<center>Docente: Angel Augusto Velasquez Nuñez</center>**
+
+**<center>"Informe del Trabajo Final"</center>**
+**<center>Closed Source</center>**
+**<center>PSYMED</center>**
+
+**<center> Relación de integrantes: </center>**
+
+|Nombre| Código     |
+|------|------------|
+|Maita Falckenheiner, Romina Guadalupe| u202213765 |
+|Escalante Baygorrea, Franz Janiel   |   |
+|Cervantes Erequita, Sebastian Valentino||
+|Noriega Suschenko, Analoty Andrey||
+|Ccotarma Ttito, Eduardo Eusebio Sihuar||
+
+**<center> Agosto 2024 </center>**
+
+
 # Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
