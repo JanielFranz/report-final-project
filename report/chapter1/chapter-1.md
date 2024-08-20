@@ -1,3 +1,27 @@
+# CARÁTULA
+
+#### Universidad de Ciencias Aplicadas
+#### Ingeniería de Software
+#### Quinto ciclo
+#### Sección: SI729
+#### Docente: Angel Augusto Velasquez Nuñez
+#### "Informe del Trabajo Final"
+#### Closed Source
+#### PSYMED
+#### Relación de integrantes:
+
+- Maita Falckenheiner, Romina Guadalupe
+- Escalante Baygorrea, Franz Janiel
+- Cervantes Erequita, Sebastian Valentino
+- Noriega Suschenko, Analoty Andrey
+- Ccotarma Ttito, Eduardo Eusebio Sihuar
+
+#### Agosto 2024
+
+
+
+
+
 # Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
