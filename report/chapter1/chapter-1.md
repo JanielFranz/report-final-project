@@ -121,6 +121,21 @@ La situación se ve agravada por la ausencia de herramientas tecnológicas adecu
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
 
+### Segmentos objetivo
+- Psiquiatras y Profesionales de la Salud Mental:
+Psiquiatras, que trabajan tanto en el sector público como en el privado. Generalmente, se encuentran en las principales ciudades del país, como Lima, Arequipa y Trujillo. En Perú, hay un déficit significativo de profesionales especializados en salud mental, con solo 2 a 3 psiquiatras por cada 100,000 habitantes. Esta escasez genera una sobrecarga de trabajo, afectando la calidad de la atención y la eficiencia en el manejo de casos clínicos.
+
+- Pacientes con Trastornos Mentales:
+Individuos de todas las edades y géneros, pero con un mayor enfoque en adultos jóvenes (18-35 años) y mujeres, quienes son más propensas a buscar atención para trastornos como la depresión y la ansiedad. Más de un millón de personas en Perú padecen trastornos mentales, y 8 de cada 10 no reciben la atención que necesitan. Los casos han aumentado significativamente desde 2021, reflejando la gravedad de la crisis en la salud mental en el país.
+
+- Familias y Cuidadores de Pacientes:
+Familiares y cuidadores de pacientes con trastornos mentales, residentes en áreas urbanas y suburbanas. Este grupo juega un papel crucial en el apoyo diario y la gestión de la atención de los pacientes,Las familias en Perú, especialmente en zonas urbanas, son frecuentemente responsables del cuidado continuo de los pacientes debido a la insuficiencia del sistema de salud pública. La falta de apoyo profesional y herramientas adecuadas para la gestión de la atención incrementa el estrés y la carga sobre estos cuidadores.
+
+<!-- -Instituciones de Salud Pública
+Hospitales y centros de salud pública en Perú, particularmente en áreas urbanas con alta demanda de servicios de salud mental. Este segmento incluye tanto a instituciones grandes en ciudades principales como a centros de salud en áreas rurales donde los recursos son aún más limitados.Según el Ministerio de Salud y la Defensoría del Pueblo, las instituciones de salud mental en Perú están gravemente subfinanciadas, con una falta crítica de recursos tanto humanos como financieros, lo que contribuye a la ineficiencia en la prestación de servicios.  -->
+
+## Referencias
+
  [Infobae](https://www.infobae.com/peru/2023/08/08/problemas-de-salud-mental-en-aumento-mas-de-3-millones-de-casos-se-registraron-desde-2021/#:~:text=Durante%20el%202021%2C%20se%20reportaron,un%20impactante%20aumento%20del%2019.21%25.)
  [Revista Cielo](https://www.scielosp.org/article/rcsp/2020.v46n4/e2146/)
  [world Healt Organization](https://apps.who.int/gho/data/node.main.MHHR?lang%20=%20en)
