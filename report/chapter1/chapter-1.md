@@ -56,58 +56,8 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
     - [1.2.2 Lean UX Process](#122-lean-ux-process)
         - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
         - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
-
-**User Outcomes:**
-
-**Acceso a Asistencia Especializada:** Los usuarios, tanto psiquiatras como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
-
-**Mejora en la Atención al Paciente:** Para los pacientes, el outcome deseado es recibir una atención más organizada y eficiente, facilitada por una plataforma que centraliza toda la información relevante sobre su tratamiento. Esto incluye el seguimiento de citas, acceso a su historial clínico, y una comunicación más efectiva con sus proveedores de salud mental. El éxito se mide por la satisfacción del paciente y la mejora en la calidad del cuidado recibido.
-
-**Colaboración y Coordinación Profesional:** Para los profesionales de la salud mental que trabajan en equipo, el outcome deseado es una mejor colaboración y coordinación en el tratamiento multidisciplinario de los pacientes. Esto incluye el fácil acceso compartido a notas clínicas, la organización de citas conjuntas, y la capacidad de monitorear el progreso de los pacientes en tiempo real. El éxito se evalúa por la eficiencia en la coordinación de tratamientos y la satisfacción de los profesionales con la colaboración facilitada por la plataforma.
-
----
-
-**Business Outcomes:**
-
-**Desarrollo de una Comunidad Especializada:** Con una base de usuarios en instituciones de salud mental, esperamos que el 10% de ellos inicie sesión dentro del primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas para la gestión de la salud mental, la plataforma puede convertirse en un punto de referencia para psiquiatras, psicólogos, y otros profesionales interesados en mejorar la eficiencia operativa y la calidad del cuidado. Esto puede fomentar el intercambio de conocimientos y mejores prácticas dentro de la comunidad de salud mental.
-
-**Generación de Ingresos Sostenibles:** A medida que la plataforma gane tracción, esperamos que un porcentaje significativo de instituciones de salud mental y profesionales independientes adquieran nuestras suscripciones pagadas. Esto garantizará la capacidad de generar ingresos recurrentes, proporcionando una base financiera estable para el crecimiento y la expansión a largo plazo. La retención de usuarios y la satisfacción con las opciones de suscripción serán claves para el éxito financiero del proyecto.
-
-**Impacto Positivo en la Salud Mental:** Al proporcionar acceso a herramientas integradas que mejoran la gestión de la salud mental, la plataforma puede contribuir significativamente a reducir la carga administrativa, minimizar errores clínicos y mejorar la calidad de la atención proporcionada a los pacientes. El éxito se medirá por el impacto positivo en la eficiencia operativa de las instituciones y la satisfacción general de los pacientes y profesionales de la salud mental.
-
----
-
-**Features Outcomes:**
-
-**1. Acceso a Herramientas de Gestión Especializadas:**
-
-**- Gestión de Citas y Tratamientos:** Implementar una funcionalidad que permita a los usuarios organizar y gestionar citas de manera eficiente, directamente integrada con los registros de los pacientes y las notas clínicas. Esto facilitará la planificación y el seguimiento de los tratamientos, reduciendo la posibilidad de errores administrativos.
-
-**- Historial Clínico Accesible:** Desarrollar una funcionalidad que permita a los profesionales de la salud mental acceder de manera rápida y segura al historial clínico completo de los pacientes, garantizando que toda la información relevante esté disponible durante las consultas.
-
-**2. Mejora en la Atención al Paciente:**
-
-**- Portal de Pacientes:** Crear un portal dedicado para los pacientes donde puedan revisar su historial, seguir sus tratamientos, y comunicarse con sus psiquiatras y otros profesionales de manera segura. Este portal incluirá recordatorios de citas y acceso a recursos educativos sobre su salud mental.
-
-**- Encuestas de Satisfacción:** Implementar encuestas automatizadas que se envíen a los pacientes después de las consultas o tratamientos, permitiendo a los profesionales de la salud mental recopilar retroalimentación directa y mejorar la calidad de la atención.
-
-**3. Colaboración y Coordinación Profesional:**
-
-**- Plataforma de Colaboración Multidisciplinaria:** Desarrollar una herramienta de colaboración que permita a psiquiatras, psicólogos, y otros profesionales de la salud mental compartir notas, discutir casos, y coordinar tratamientos de manera integrada. Esta herramienta facilitará un enfoque de tratamiento más cohesivo y efectivo para los pacientes.
-
-**- Panel de Control para Seguimiento:** Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
-
-- [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
-1. **Creemos que lograremos** un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario **si** los problemas de gestión de la información de los pacientes se ven solucionados o         atendidos. **Al ofrecer** una plataforma centralizada que permita a los profesionales de la salud mental gestionar toda la información de los pacientes de manera integrada y eficiente, **con la implementación** de funcionalidades específicas para la gestión de citas, notas clínicas y seguimiento de tratamientos, se podrá mejorar significativamente la organización y el acceso a los datos clínicos.
-2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los profesionales de la salud mental valoran la facilidad de uso y la seguridad en la gestión de la información. **Al proporcionar** una interfaz intuitiva y accesible desde cualquier dispositivo, con opciones de personalización y soporte técnico constante, **con la optimización** de la usabilidad después de realizar pruebas piloto con diferentes flujos de trabajo y entender las necesidades de los usuarios, se facilitará la adopción y el uso continuo de la plataforma.
-3. **Creemos que lograremos** fortalecer nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** estos perciben que nuestra plataforma ofrece valor adicional a través de integraciones tecnológicas avanzadas. **Al establecer** integraciones con otros sistemas utilizados en las instituciones de salud mental, como sistemas de facturación o de registro médico electrónico, **con la identificación** y el desarrollo de módulos adicionales, y la realización de pruebas piloto para garantizar la compatibilidad, se ofrecerá un valor añadido que diferenciará a nuestra plataforma de las opciones existentes.
-4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra plataforma y el boca a boca positivo **si** los usuarios experimentan una reducción en la carga administrativa y una mejora en la coordinación entre profesionales. **Al mejorar** la funcionalidad de gestión de citas y la visualización de información clínica de manera integrada, basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras que simplifiquen las tareas administrativas y fomenten la colaboración multidisciplinaria, se mejorará la experiencia general del usuario.
-5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los profesionales de la salud mental se familiarizan con nuestra solución a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a instituciones de salud mental y profesionales independientes, **con la realización** de presentaciones en conferencias y la adaptación de nuestra estrategia de marketing según los resultados obtenidos, se logrará una mayor adopción de la plataforma.
-
-- [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
-
-![Lean UX Canvas](</assets/Lean UX Canvas.png>)
-
+        - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
+        - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
 ### [Capítulo II: Requirements Elicitation & Analysis](#capc3adtulo-ii-requirements-elicitation--analysis-1)
@@ -227,6 +177,60 @@ El sistema de salud mental en Perú enfrenta una crisis crítica caracterizada p
 La situación se ve agravada por la ausencia de herramientas tecnológicas adecuadas que podrían automatizar y optimizar estos procesos. Sin soluciones que mejoren la eficiencia en la administración de las citas, la actualización de historiales y la comunicación, el sistema seguirá siendo incapaz de atender adecuadamente a la mayoría de la población que necesita apoyo en salud mental.
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
+
+### 1.2.2.2. Lean UX Assumptions
+
+**User Outcomes:**
+
+**Acceso a Asistencia Especializada:** Los usuarios, tanto psiquiatras como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
+
+**Mejora en la Atención al Paciente:** Para los pacientes, el outcome deseado es recibir una atención más organizada y eficiente, facilitada por una plataforma que centraliza toda la información relevante sobre su tratamiento. Esto incluye el seguimiento de citas, acceso a su historial clínico, y una comunicación más efectiva con sus proveedores de salud mental. El éxito se mide por la satisfacción del paciente y la mejora en la calidad del cuidado recibido.
+
+**Colaboración y Coordinación Profesional:** Para los profesionales de la salud mental que trabajan en equipo, el outcome deseado es una mejor colaboración y coordinación en el tratamiento multidisciplinario de los pacientes. Esto incluye el fácil acceso compartido a notas clínicas, la organización de citas conjuntas, y la capacidad de monitorear el progreso de los pacientes en tiempo real. El éxito se evalúa por la eficiencia en la coordinación de tratamientos y la satisfacción de los profesionales con la colaboración facilitada por la plataforma.
+
+---
+
+**Business Outcomes:**
+
+**Desarrollo de una Comunidad Especializada:** Con una base de usuarios en instituciones de salud mental, esperamos que el 10% de ellos inicie sesión dentro del primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas para la gestión de la salud mental, la plataforma puede convertirse en un punto de referencia para psiquiatras, psicólogos, y otros profesionales interesados en mejorar la eficiencia operativa y la calidad del cuidado. Esto puede fomentar el intercambio de conocimientos y mejores prácticas dentro de la comunidad de salud mental.
+
+**Generación de Ingresos Sostenibles:** A medida que la plataforma gane tracción, esperamos que un porcentaje significativo de instituciones de salud mental y profesionales independientes adquieran nuestras suscripciones pagadas. Esto garantizará la capacidad de generar ingresos recurrentes, proporcionando una base financiera estable para el crecimiento y la expansión a largo plazo. La retención de usuarios y la satisfacción con las opciones de suscripción serán claves para el éxito financiero del proyecto.
+
+**Impacto Positivo en la Salud Mental:** Al proporcionar acceso a herramientas integradas que mejoran la gestión de la salud mental, la plataforma puede contribuir significativamente a reducir la carga administrativa, minimizar errores clínicos y mejorar la calidad de la atención proporcionada a los pacientes. El éxito se medirá por el impacto positivo en la eficiencia operativa de las instituciones y la satisfacción general de los pacientes y profesionales de la salud mental.
+
+---
+
+**Features Outcomes:**
+
+**1. Acceso a Herramientas de Gestión Especializadas:**
+
+**- Gestión de Citas y Tratamientos:** Implementar una funcionalidad que permita a los usuarios organizar y gestionar citas de manera eficiente, directamente integrada con los registros de los pacientes y las notas clínicas. Esto facilitará la planificación y el seguimiento de los tratamientos, reduciendo la posibilidad de errores administrativos.
+
+**- Historial Clínico Accesible:** Desarrollar una funcionalidad que permita a los profesionales de la salud mental acceder de manera rápida y segura al historial clínico completo de los pacientes, garantizando que toda la información relevante esté disponible durante las consultas.
+
+**2. Mejora en la Atención al Paciente:**
+
+**- Portal de Pacientes:** Crear un portal dedicado para los pacientes donde puedan revisar su historial, seguir sus tratamientos, y comunicarse con sus psiquiatras y otros profesionales de manera segura. Este portal incluirá recordatorios de citas y acceso a recursos educativos sobre su salud mental.
+
+**- Encuestas de Satisfacción:** Implementar encuestas automatizadas que se envíen a los pacientes después de las consultas o tratamientos, permitiendo a los profesionales de la salud mental recopilar retroalimentación directa y mejorar la calidad de la atención.
+
+**3. Colaboración y Coordinación Profesional:**
+
+**- Plataforma de Colaboración Multidisciplinaria:** Desarrollar una herramienta de colaboración que permita a psiquiatras, psicólogos, y otros profesionales de la salud mental compartir notas, discutir casos, y coordinar tratamientos de manera integrada. Esta herramienta facilitará un enfoque de tratamiento más cohesivo y efectivo para los pacientes.
+
+**- Panel de Control para Seguimiento:** Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que lograremos** un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario **si** los problemas de gestión de la información de los pacientes se ven solucionados o         atendidos. **Al ofrecer** una plataforma centralizada que permita a los profesionales de la salud mental gestionar toda la información de los pacientes de manera integrada y eficiente, **con la implementación** de funcionalidades específicas para la gestión de citas, notas clínicas y seguimiento de tratamientos, se podrá mejorar significativamente la organización y el acceso a los datos clínicos.
+2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los profesionales de la salud mental valoran la facilidad de uso y la seguridad en la gestión de la información. **Al proporcionar** una interfaz intuitiva y accesible desde cualquier dispositivo, con opciones de personalización y soporte técnico constante, **con la optimización** de la usabilidad después de realizar pruebas piloto con diferentes flujos de trabajo y entender las necesidades de los usuarios, se facilitará la adopción y el uso continuo de la plataforma.
+3. **Creemos que lograremos** fortalecer nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** estos perciben que nuestra plataforma ofrece valor adicional a través de integraciones tecnológicas avanzadas. **Al establecer** integraciones con otros sistemas utilizados en las instituciones de salud mental, como sistemas de facturación o de registro médico electrónico, **con la identificación** y el desarrollo de módulos adicionales, y la realización de pruebas piloto para garantizar la compatibilidad, se ofrecerá un valor añadido que diferenciará a nuestra plataforma de las opciones existentes.
+4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra plataforma y el boca a boca positivo **si** los usuarios experimentan una reducción en la carga administrativa y una mejora en la coordinación entre profesionales. **Al mejorar** la funcionalidad de gestión de citas y la visualización de información clínica de manera integrada, basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras que simplifiquen las tareas administrativas y fomenten la colaboración multidisciplinaria, se mejorará la experiencia general del usuario.
+5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los profesionales de la salud mental se familiarizan con nuestra solución a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a instituciones de salud mental y profesionales independientes, **con la realización** de presentaciones en conferencias y la adaptación de nuestra estrategia de marketing según los resultados obtenidos, se logrará una mayor adopción de la plataforma.
+
+### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](</assets/Lean UX Canvas.png>)
 
 ### Segmentos objetivo
 - Psiquiatras y Profesionales de la Salud Mental:
