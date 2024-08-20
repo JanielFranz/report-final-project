@@ -13,7 +13,8 @@
 **<center>Closed Source</center>**
 **<center>PSYMED</center>**
 
-#### Relación de integrantes:
+**<center> Relación de integrantes: </center>**
+
 |Nombre| Código     |
 |------|------------|
 |Maita Falckenheiner, Romina Guadalupe| u202213765 |
