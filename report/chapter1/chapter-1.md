@@ -18,10 +18,10 @@
 |Nombre| Código     |
 |------|------------|
 |Maita Falckenheiner, Romina Guadalupe| u202213765 |
-|Escalante Baygorrea, Franz Janiel   |   |
-|Cervantes Erequita, Sebastian Valentino||
-|Noriega Suschenko, Analoty Andrey||
-|Ccotarma Ttito, Eduardo Eusebio Sihuar||
+|Escalante Baygorrea, Franz Janiel   | uu201912668 |
+|Cervantes Erequita, Sebastian Valentino| u202110140 |
+|Noriega Suschenko, Analoty Andrey| u202211813 |
+|Ccotarma Ttito, Eduardo Eusebio Sihuar| u20211c736 |
 
 **<center> Agosto 2024 </center>**
 
