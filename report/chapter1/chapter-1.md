@@ -1,27 +1,3 @@
-# CARÁTULA
-![upc_image](C:\Users\r0mh7\Documents\UPC\2024-2\OpenSource\proyecto_open_source\assets\logo.png)
-#### Universidad de Ciencias Aplicadas
-#### Ingeniería de Software
-#### Quinto ciclo
-#### Sección: SI729
-#### Docente: Angel Augusto Velasquez Nuñez
-#### "Informe del Trabajo Final"
-#### Closed Source
-#### PSYMED
-#### Relación de integrantes:
-
-- Maita Falckenheiner, Romina Guadalupe
-- Escalante Baygorrea, Franz Janiel
-- Cervantes Erequita, Sebastian Valentino
-- Noriega Suschenko, Analoty Andrey
-- Ccotarma Ttito, Eduardo Eusebio Sihuar
-
-#### Agosto 2024
-
-
-
-
-
 # Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
@@ -152,3 +128,43 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
 | ![Profile Picture](../../assets/romina.jpg)    | **Nombre y Apellido:**<br>Romina Guadalupe Maita Falckenheiner<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                                                                                                                         |
 | ![Profile Picture](../../assets/franz.jpg)     | **Nombre y Apellido:**<br>Janiel Franz Escalante Baygorrea<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar música.                                                                           |
 
+### Antecedentes y problematica:
+Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general. En Perú, la saturación del sistema de salud mental es especialmente crítica.
+
+What: A pesar de las políticas de salud pública que han dado mayor importancia a la salud mental, el sistema sigue siendo incapaz de atender a la gran mayoría de la población afectada por trastornos mentales, como la depresión y la ansiedad.
+
+Where: Esta problemática es particularmente visible en Perú, donde el Ministerio de Salud y la Defensoría del Pueblo han documentado una grave falta de recursos en las instituciones de salud mental.
+
+When: El déficit en la atención de la salud mental ha sido un problema desde al menos 2016, y se ha agravado en los últimos años, especialmente desde 2021, cuando se reportaron más de un millón de casos de problemas de salud mental.
+
+Why: La saturación del sistema de salud y la falta de recursos humanos y financieros son las principales causas de este problema, lo que resulta en que 8 de cada 10 personas no reciban la atención que necesitan.
+
+How: El déficit se manifiesta en la escasez de profesionales especializados en salud mental (solo 2 a 3 médicos por cada 100,000 habitantes), y en la carga administrativa que enfrenta el personal médico, lo que dificulta aún más la prestación de atención adecuada.
+
+How Much: La magnitud del problema es alarmante, con más de 1 millón de personas afectadas que no reciben la atención necesaria, lo que representa un desafío urgente para el sistema de salud.
+
+Descripción de la Problemática
+El sistema de salud mental en Perú enfrenta una crisis crítica caracterizada por la saturación y la escasez de recursos. A pesar del incremento en la incidencia de trastornos mentales, como la depresión y la ansiedad, el país no cuenta con un número adecuado de médicos especializados para cubrir la demanda creciente. Esta carencia no solo impacta negativamente la calidad de la atención, sino que también sobrecarga a los profesionales médicos con una alta carga administrativa. La falta de personal especializado se combina con un sistema de gestión ineficiente, que dificulta la programación de citas, el seguimiento detallado de historiales clínicos, y la comunicación efectiva entre médicos y pacientes.
+
+La situación se ve agravada por la ausencia de herramientas tecnológicas adecuadas que podrían automatizar y optimizar estos procesos. Sin soluciones que mejoren la eficiencia en la administración de las citas, la actualización de historiales y la comunicación, el sistema seguirá siendo incapaz de atender adecuadamente a la mayoría de la población que necesita apoyo en salud mental.
+
+¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
+
+### Segmentos objetivo
+- Psiquiatras y Profesionales de la Salud Mental:
+  Psiquiatras, que trabajan tanto en el sector público como en el privado. Generalmente, se encuentran en las principales ciudades del país, como Lima, Arequipa y Trujillo. En Perú, hay un déficit significativo de profesionales especializados en salud mental, con solo 2 a 3 psiquiatras por cada 100,000 habitantes. Esta escasez genera una sobrecarga de trabajo, afectando la calidad de la atención y la eficiencia en el manejo de casos clínicos.
+
+- Pacientes con Trastornos Mentales:
+  Individuos de todas las edades y géneros, pero con un mayor enfoque en adultos jóvenes (18-35 años) y mujeres, quienes son más propensas a buscar atención para trastornos como la depresión y la ansiedad. Más de un millón de personas en Perú padecen trastornos mentales, y 8 de cada 10 no reciben la atención que necesitan. Los casos han aumentado significativamente desde 2021, reflejando la gravedad de la crisis en la salud mental en el país.
+
+- Familias y Cuidadores de Pacientes:
+  Familiares y cuidadores de pacientes con trastornos mentales, residentes en áreas urbanas y suburbanas. Este grupo juega un papel crucial en el apoyo diario y la gestión de la atención de los pacientes,Las familias en Perú, especialmente en zonas urbanas, son frecuentemente responsables del cuidado continuo de los pacientes debido a la insuficiencia del sistema de salud pública. La falta de apoyo profesional y herramientas adecuadas para la gestión de la atención incrementa el estrés y la carga sobre estos cuidadores.
+
+<!-- -Instituciones de Salud Pública
+Hospitales y centros de salud pública en Perú, particularmente en áreas urbanas con alta demanda de servicios de salud mental. Este segmento incluye tanto a instituciones grandes en ciudades principales como a centros de salud en áreas rurales donde los recursos son aún más limitados.Según el Ministerio de Salud y la Defensoría del Pueblo, las instituciones de salud mental en Perú están gravemente subfinanciadas, con una falta crítica de recursos tanto humanos como financieros, lo que contribuye a la ineficiencia en la prestación de servicios.  -->
+
+## Referencias
+
+[Infobae](https://www.infobae.com/peru/2023/08/08/problemas-de-salud-mental-en-aumento-mas-de-3-millones-de-casos-se-registraron-desde-2021/#:~:text=Durante%20el%202021%2C%20se%20reportaron,un%20impactante%20aumento%20del%2019.21%25.)  
+[Revista Cielo](https://www.scielosp.org/article/rcsp/2020.v46n4/e2146/)  
+[world Healt Organization](https://apps.who.int/gho/data/node.main.MHHR?lang%20=%20en)  
