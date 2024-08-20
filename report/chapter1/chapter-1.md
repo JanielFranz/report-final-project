@@ -1,25 +1,28 @@
-# CARÁTULA
-![upc_image](C:\Users\r0mh7\Documents\UPC\2024-2\OpenSource\proyecto_open_source\assets\logo.png)
-#### Universidad de Ciencias Aplicadas
-#### Ingeniería de Software
-#### Quinto ciclo
-#### Sección: SI729
-#### Docente: Angel Augusto Velasquez Nuñez
-#### "Informe del Trabajo Final"
-#### Closed Source
-#### PSYMED
+<h1 style="text-align: center;">Carátula</h1>
+<div style="text-align: center;">
+    <img src="/assets/logo.png"></img><br>
+</div>
+
+**<center>Universidad Peruana de Ciencias Aplicadas</center>**
+**<center>Ingeniería de Software</center>**
+**<center>Quinto ciclo</center>**
+**<center>Sección: SI729</center>**
+**<center>Docente: Angel Augusto Velasquez Nuñez</center>**
+
+**<center>"Informe del Trabajo Final"</center>**
+**<center>Closed Source</center>**
+**<center>PSYMED</center>**
+
 #### Relación de integrantes:
+|Nombre| Código     |
+|------|------------|
+|Maita Falckenheiner, Romina Guadalupe| u202213765 |
+|Escalante Baygorrea, Franz Janiel   |   |
+|Cervantes Erequita, Sebastian Valentino||
+|Noriega Suschenko, Analoty Andrey||
+|Ccotarma Ttito, Eduardo Eusebio Sihuar||
 
-- Maita Falckenheiner, Romina Guadalupe
-- Escalante Baygorrea, Franz Janiel
-- Cervantes Erequita, Sebastian Valentino
-- Noriega Suschenko, Analoty Andrey
-- Ccotarma Ttito, Eduardo Eusebio Sihuar
-
-#### Agosto 2024
-
-
-
+**<center> Agosto 2024 </center>**
 
 
 # Registro de Versiones del Informe
