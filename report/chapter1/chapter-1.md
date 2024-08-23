@@ -18,10 +18,10 @@
 |Nombre| Código     |
 |------|------------|
 |Maita Falckenheiner, Romina Guadalupe| u202213765 |
-|Escalante Baygorrea, Franz Janiel   |   |
-|Cervantes Erequita, Sebastian Valentino||
-|Noriega Suschenko, Analoty Andrey||
-|Ccotarma Ttito, Eduardo Eusebio Sihuar||
+|Escalante Baygorrea, Franz Janiel   | uu201912668 |
+|Cervantes Erequita, Sebastian Valentino| u202110140 |
+|Noriega Suschenko, Analoty Andrey| u202211813 |
+|Ccotarma Ttito, Eduardo Eusebio Sihuar| u20211c736 |
 
 **<center> Agosto 2024 </center>**
 
@@ -156,3 +156,94 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
 | ![Profile Picture](../../assets/romina.jpg)    | **Nombre y Apellido:**<br>Romina Guadalupe Maita Falckenheiner<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                                                                                                                         |
 | ![Profile Picture](../../assets/franz.jpg)     | **Nombre y Apellido:**<br>Janiel Franz Escalante Baygorrea<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar música.                                                                           |
 
+### Antecedentes y problematica:
+Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general.
+
+What: A pesar de las políticas de salud pública que han dado mayor importancia a la salud mental, el sistema sigue siendo incapaz de atender a la gran mayoría de la población afectada por trastornos mentales, como la depresión y la ansiedad.
+
+Where: Esta problemática es particularmente visible en Perú, donde el Ministerio de Salud y la Defensoría del Pueblo han documentado una grave falta de recursos en las instituciones de salud mental.
+
+When: El déficit en la atención de la salud mental ha sido un problema desde al menos 2016, y se ha agravado en los últimos años, especialmente desde 2021, cuando se reportaron más de un millón de casos de problemas de salud mental.
+
+Why: La saturación del sistema de salud y la falta de recursos humanos y financieros son las principales causas de este problema, lo que resulta en que 8 de cada 10 personas no reciban la atención que necesitan.
+
+How: El déficit se manifiesta en la escasez de profesionales especializados en salud mental (solo 2 a 3 médicos por cada 100,000 habitantes), y en la carga administrativa que enfrenta el personal médico, lo que dificulta aún más la prestación de atención adecuada.
+
+How Much: La magnitud del problema es alarmante, con más de 1 millón de personas afectadas que no reciben la atención necesaria, lo que representa un desafío urgente para el sistema de salud.
+
+Descripción de la Problemática
+El sistema de salud mental en Perú enfrenta una crisis crítica caracterizada por la saturación y la escasez de recursos. A pesar del incremento en la incidencia de trastornos mentales, como la depresión y la ansiedad, el país no cuenta con un número adecuado de médicos especializados para cubrir la demanda creciente. Esta carencia no solo impacta negativamente la calidad de la atención, sino que también sobrecarga a los profesionales médicos con una alta carga administrativa. La falta de personal especializado se combina con un sistema de gestión ineficiente, que dificulta la programación de citas, el seguimiento detallado de historiales clínicos, y la comunicación efectiva entre médicos y pacientes.
+
+La situación se ve agravada por la ausencia de herramientas tecnológicas adecuadas que podrían automatizar y optimizar estos procesos. Sin soluciones que mejoren la eficiencia en la administración de las citas, la actualización de historiales y la comunicación, el sistema seguirá siendo incapaz de atender adecuadamente a la mayoría de la población que necesita apoyo en salud mental.
+
+¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
+
+### 1.2.2.2. Lean UX Assumptions
+
+**User Outcomes:**
+
+**Acceso a Asistencia Especializada:** Los usuarios, tanto psiquiatras como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
+
+**Mejora en la Atención al Paciente:** Para los pacientes, el outcome deseado es recibir una atención más organizada y eficiente, facilitada por una plataforma que centraliza toda la información relevante sobre su tratamiento. Esto incluye el seguimiento de citas, acceso a su historial clínico, y una comunicación más efectiva con sus proveedores de salud mental. El éxito se mide por la satisfacción del paciente y la mejora en la calidad del cuidado recibido.
+
+**Colaboración y Coordinación Profesional:** Para los profesionales de la salud mental que trabajan en equipo, el outcome deseado es una mejor colaboración y coordinación en el tratamiento multidisciplinario de los pacientes. Esto incluye el fácil acceso compartido a notas clínicas, la organización de citas conjuntas, y la capacidad de monitorear el progreso de los pacientes en tiempo real. El éxito se evalúa por la eficiencia en la coordinación de tratamientos y la satisfacción de los profesionales con la colaboración facilitada por la plataforma.
+
+---
+
+**Business Outcomes:**
+
+**Desarrollo de una Comunidad Especializada:** Con una base de usuarios en instituciones de salud mental, esperamos que el 10% de ellos inicie sesión dentro del primer mes después del lanzamiento de la plataforma. Al proporcionar herramientas especializadas para la gestión de la salud mental, la plataforma puede convertirse en un punto de referencia para psiquiatras, psicólogos, y otros profesionales interesados en mejorar la eficiencia operativa y la calidad del cuidado. Esto puede fomentar el intercambio de conocimientos y mejores prácticas dentro de la comunidad de salud mental.
+
+**Generación de Ingresos Sostenibles:** Esperamos que, dentro de los primeros seis meses después del lanzamiento, al menos el 25% de las instituciones de salud mental y profesionales independientes que utilicen la versión gratuita de la plataforma se conviertan en suscriptores de pago. Este éxito se medirá a través de la tasa de conversión de usuarios gratuitos a usuarios pagos y por el aumento en los ingresos recurrentes mensuales. La satisfacción del usuario y la retención de suscripciones a largo plazo serán indicadores clave para evaluar la sostenibilidad financiera de la plataforma.
+
+**Impacto Positivo en la Salud Mental:** A lo largo del primer año de operación, se espera que el uso de la plataforma reduzca la carga administrativa en un 30% para los profesionales de salud mental que la utilicen activamente, medido a través de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que al menos el 20% de los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
+
+---
+
+**Features Outcomes:**
+
+**1. Acceso a Herramientas de Gestión Especializadas:**
+
+**- Gestión de Citas y Tratamientos:** Implementar una funcionalidad que permita a los usuarios organizar y gestionar citas de manera eficiente, directamente integrada con los registros de los pacientes y las notas clínicas. Esto facilitará la planificación y el seguimiento de los tratamientos, reduciendo la posibilidad de errores administrativos.
+
+**- Historial Clínico Accesible:** Desarrollar una funcionalidad que permita a los profesionales de la salud mental acceder de manera rápida y segura al historial clínico completo de los pacientes, garantizando que toda la información relevante esté disponible durante las consultas.
+
+**2. Mejora en la Atención al Paciente:**
+
+**- Portal de Pacientes:** Crear un portal dedicado para los pacientes donde puedan revisar su historial, seguir sus tratamientos, y comunicarse con sus psiquiatras y otros profesionales de manera segura. Este portal incluirá recordatorios de citas y acceso a recursos educativos sobre su salud mental.
+
+**- Encuestas de Satisfacción:** Implementar encuestas automatizadas que se envíen a los pacientes después de las consultas o tratamientos, permitiendo a los profesionales de la salud mental recopilar retroalimentación directa y mejorar la calidad de la atención.
+
+**3. Colaboración y Coordinación Profesional:**
+
+**- Plataforma de Colaboración Multidisciplinaria:** Desarrollar una herramienta de colaboración que permita a psiquiatras, psicólogos, y otros profesionales de la salud mental compartir notas, discutir casos, y coordinar tratamientos de manera integrada. Esta herramienta facilitará un enfoque de tratamiento más cohesivo y efectivo para los pacientes.
+
+**- Panel de Control para Seguimiento:** Crear un panel de control que permita a los profesionales monitorear el progreso de los pacientes en tiempo real, facilitando la coordinación y el seguimiento de los tratamientos multidisciplinarios.
+
+### 1.2.2.3. Lean UX Hypothesis Statements
+
+1. **Creemos que lograremos** un aumento en la aceptación de nuestra plataforma y una mejor satisfacción del usuario **si** los problemas de gestión de la información de los pacientes se ven solucionados o         atendidos. **Al ofrecer** una plataforma centralizada que permita a los profesionales de la salud mental gestionar toda la información de los pacientes de manera integrada y eficiente, **con la implementación** de funcionalidades específicas para la gestión de citas, notas clínicas y seguimiento de tratamientos, se podrá mejorar significativamente la organización y el acceso a los datos clínicos.
+2. **Creemos que lograremos** una mayor retención de usuarios y una mayor rentabilidad del negocio **si** los profesionales de la salud mental valoran la facilidad de uso y la seguridad en la gestión de la información. **Al proporcionar** una interfaz intuitiva y accesible desde cualquier dispositivo, con opciones de personalización y soporte técnico constante, **con la optimización** de la usabilidad después de realizar pruebas piloto con diferentes flujos de trabajo y entender las necesidades de los usuarios, se facilitará la adopción y el uso continuo de la plataforma.
+3. **Creemos que lograremos** fortalecer nuestra posición en el mercado y aumentaremos la confianza de los usuarios **si** estos perciben que nuestra plataforma ofrece valor adicional a través de integraciones tecnológicas avanzadas. **Al establecer** integraciones con otros sistemas utilizados en las instituciones de salud mental, como sistemas de facturación o de registro médico electrónico, **con la identificación** y el desarrollo de módulos adicionales, y la realización de pruebas piloto para garantizar la compatibilidad, se ofrecerá un valor añadido que diferenciará a nuestra plataforma de las opciones existentes.
+4. **Creemos que lograremos** aumentar la satisfacción del usuario, la fidelidad a nuestra plataforma y el boca a boca positivo **si** los usuarios experimentan una reducción en la carga administrativa y una mejora en la coordinación entre profesionales. **Al mejorar** la funcionalidad de gestión de citas y la visualización de información clínica de manera integrada, basándonos en pruebas de usabilidad y recopilación de testimonios directos de usuarios, **con la implementación** de mejoras que simplifiquen las tareas administrativas y fomenten la colaboración multidisciplinaria, se mejorará la experiencia general del usuario.
+5. **Creemos que** impulsaremos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma **si** los profesionales de la salud mental se familiarizan con nuestra solución a través de campañas de marketing dirigidas. **Al realizar** campañas de marketing piloto dirigidas a instituciones de salud mental y profesionales independientes, **con la realización** de presentaciones en conferencias y la adaptación de nuestra estrategia de marketing según los resultados obtenidos, se logrará una mayor adopción de la plataforma.
+
+### 1.2.2.4. Lean UX Canvas
+
+![Lean UX Canvas](</assets/Lean UX Canvas.png>)
+
+### Segmentos objetivo
+- Psiquiatras y Profesionales de la Salud Mental:
+  Psiquiatras, que trabajan tanto en el sector público como en el privado. Generalmente, se encuentran en las principales ciudades del país, como Lima, Arequipa y Trujillo. En Perú, hay un déficit significativo de profesionales especializados en salud mental, con solo 2 a 3 psiquiatras por cada 100,000 habitantes. Esta escasez genera una sobrecarga de trabajo, afectando la calidad de la atención y la eficiencia en el manejo de casos clínicos.
+
+- Pacientes con Trastornos Mentales:
+  Individuos de todas las edades y géneros, pero con un mayor enfoque en adultos jóvenes (18-35 años) y mujeres, quienes son más propensas a buscar atención para trastornos como la depresión y la ansiedad. Más de un millón de personas en Perú padecen trastornos mentales, y 8 de cada 10 no reciben la atención que necesitan. Los casos han aumentado significativamente desde 2021, reflejando la gravedad de la crisis en la salud mental en el país.
+
+<!-- -Instituciones de Salud Pública
+Hospitales y centros de salud pública en Perú, particularmente en áreas urbanas con alta demanda de servicios de salud mental. Este segmento incluye tanto a instituciones grandes en ciudades principales como a centros de salud en áreas rurales donde los recursos son aún más limitados.Según el Ministerio de Salud y la Defensoría del Pueblo, las instituciones de salud mental en Perú están gravemente subfinanciadas, con una falta crítica de recursos tanto humanos como financieros, lo que contribuye a la ineficiencia en la prestación de servicios.  -->
+
+## Referencias
+
+[Infobae](https://www.infobae.com/peru/2023/08/08/problemas-de-salud-mental-en-aumento-mas-de-3-millones-de-casos-se-registraron-desde-2021/#:~:text=Durante%20el%202021%2C%20se%20reportaron,un%20impactante%20aumento%20del%2019.21%25.)  
+[Revista Cielo](https://www.scielosp.org/article/rcsp/2020.v46n4/e2146/)  
+[world Healt Organization](https://apps.who.int/gho/data/node.main.MHHR?lang%20=%20en)  
