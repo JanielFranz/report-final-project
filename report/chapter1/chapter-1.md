@@ -167,6 +167,22 @@ La situación se ve agravada por la ausencia de herramientas tecnológicas adecu
 *Esta plataforma debe ser segura, fácil de usar, y capaz de integrar todas las funcionalidades necesarias para la gestión diaria en un solo lugar, permitiendo así una mejora significativa en la organización de las consultas, el acceso a la información y la coordinación entre los diferentes profesionales y abriendo la posibilidad para integraciones de IOT dentro de la institución.*
 
 
+### **Customer Segments**
+Los usuarios principales de esta plataforma serán los profesionales de la salud mental, y otros especialistas que trabajan en instituciones médicas dedicadas a la salud mental. También incluye al personal administrativo encargado de la gestión de citas y la organización de información clínica.
+
+### **Pain Points**
+Las herramientas tecnológicas actuales en estas instituciones no cumplen con las necesidades específicas de gestión, resultando en un manejo fragmentado de los datos clínicos. Esto causa dificultades para organizar y acceder a la información relevante durante las consultas y problemas para programar y gestionar citas de manera eficiente. Esta situación genera una carga administrativa adicional para los profesionales de la salud mental, aumenta el riesgo de errores en el manejo de la información clínica, y limita la capacidad de ofrecer un enfoque de tratamiento multidisciplinario.
+
+### **Gap**
+Existe una brecha significativa en el mercado en cuanto a soluciones tecnológicas integradas y especializadas para la gestión de información en instituciones de salud mental. Aunque muchas instituciones han adoptado herramientas básicas como agendas en línea, aún no se ha implementado una plataforma que integre todas las funcionalidades necesarias para la gestión eficiente y segura de la información clínica.
+
+### **Vision/Strategy**
+Nuestra visión es desarrollar una plataforma que centralice todas las funcionalidades necesarias para la gestión diaria en un solo lugar, asegurando que sea segura, fácil de usar, y capaz de mejorar la organización de consultas, el acceso a la información, y la coordinación entre los diferentes profesionales. La estrategia incluye integrar funcionalidades como la gestión de citas, acceso a datos clínicos, y soporte para tratamientos multidisciplinarios, con la posibilidad de futuras integraciones de IoT dentro de las instituciones.
+
+### **Initial Segment**
+El segmento inicial para la implementación de esta plataforma estará compuesto por instituciones médicas de salud mental en América Latina que ya muestran un interés en modernizar su gestión interna y que han adoptado parcialmente herramientas digitales, pero carecen de una solución integrada que cubra todas sus necesidades.
+
+
 ## Lean UX Assumptions
 
 **Bussiness Assumptions**
