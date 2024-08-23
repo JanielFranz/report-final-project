@@ -106,6 +106,52 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 ### [Anexos](#anexos-1)
 
 
+# Student Outcome
+El curso tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
+
+| Criterio Específico                                                  | Acciones realizadas | Conclusiones |
+|----------------------------------------------------------------------|---------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia  | TB1:                |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:                |              |
+
+
+# Capítulo I: Introducción
+## 1.1. StartUp Profile
+### 1.1.1. Description de la StartUp
+PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimiento de pacientes en centros psiquiátricos. La aplicación facilita la comunicación continua entre psiquiatras y pacientes, permitiendo un monitoreo integral del progreso, el seguimiento personalizado de tratamientos, y la gestión eficiente de citas y notas clínicas en un entorno seguro y accesible. PsyMed se enfoca en mejorar la calidad de la atención al proporcionar herramientas que permiten a los profesionales de la salud mental mantenerse conectados con sus pacientes de manera efectiva y con información actualizada en todo momento.
+### 1.1.2. Perfiles de integrantes del equipo
+| ![Profile Picture](../../assets/yisusxd.jpg)   | **Nombre y Apellido:**<br>Anatoly Andrey Noriega Suschenko<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Mi nombre es Anatoly Andrey Noriega Suschenko, tengo 20 años. Estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro en el sexto ciclo de mi carrera. Me gustan mucho los videojuegos, las computadoras y manejo lenguajes como C++, Python, HTML, entre otros. También soy bueno trabajando con grupos y estoy dispuesto a apoyar a mi grupo en cualquier cosa. |
+|:-----------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Profile Picture](../../assets/valentino.jpg) | **Nombre y Apellido:**<br>Valentino Sebastián Cervantes Erequita<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy un estudiante de 6 ciclo de la UPC, me especializo en frontend y base de datos, me gusta la música y los videojuegos.                                                                                                                                                                                                                                                            |
+| ![Profile Picture](../../assets/sihuar.jpg)    | **Nombre y Apellido:**<br>Sihuar Ccotarma Ttito<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Me gusta mucho el mundo de la informática, tecnología y los videojuegos. Me gustan los shooters y mobas. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible.                                                                           |
+| ![Profile Picture](../../assets/romina.jpg)    | **Nombre y Apellido:**<br>Romina Guadalupe Maita Falckenheiner<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                                                                                                                         |
+| ![Profile Picture](../../assets/franz.jpg)     | **Nombre y Apellido:**<br>Janiel Franz Escalante Baygorrea<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar música.                                                                           |
+
+### Antecedentes y problematica:
+- Who: El problema afecta a los psiquiatras, pacientes con trastornos mentales, y al sistema de salud en general.
+
+- What: A pesar de las políticas de salud pública que han dado mayor importancia a la salud mental, el sistema sigue siendo incapaz de atender a la gran mayoría de la población afectada por trastornos mentales, como la depresión y la ansiedad.
+
+- Where: Esta problemática es particularmente visible en Perú, donde el Ministerio de Salud y la Defensoría del Pueblo han documentado una grave falta de recursos en las instituciones de salud mental.
+
+- When: El déficit en la atención de la salud mental ha sido un problema desde al menos 2016, y se ha agravado en los últimos años, especialmente desde 2021, cuando se reportaron más de un millón de casos de problemas de salud mental.
+
+- Why: La saturación del sistema de salud y la falta de recursos humanos y financieros son las principales causas de este problema, lo que resulta en que 8 de cada 10 personas no reciban la atención que necesitan.
+
+- How: El déficit se manifiesta en la escasez de profesionales especializados en salud mental (solo 2 a 3 médicos por cada 100,000 habitantes), y en la carga administrativa que enfrenta el personal médico, lo que dificulta aún más la prestación de atención adecuada.
+
+- How Much: La magnitud del problema es alarmante, con más de 1 millón de personas afectadas que no reciben la atención necesaria, lo que representa un desafío urgente para el sistema de salud.
+
+[//]: # (llevar cambiar)
+#### Descripción de la Problemática
+El sistema de salud mental en Perú enfrenta una crisis crítica caracterizada por la saturación y la escasez de recursos. A pesar del incremento en la incidencia de trastornos mentales, como la depresión y la ansiedad, el país no cuenta con un número adecuado de médicos especializados para cubrir la demanda creciente. Esta carencia no solo impacta negativamente la calidad de la atención, sino que también sobrecarga a los profesionales médicos con una alta carga administrativa. La falta de personal especializado se combina con un sistema de gestión ineficiente, que dificulta la programación de citas, el seguimiento detallado de historiales clínicos, y la comunicación efectiva entre médicos y pacientes.
+
+La situación se ve agravada por la ausencia de herramientas tecnológicas adecuadas que podrían automatizar y optimizar estos procesos. Sin soluciones que mejoren la eficiencia en la administración de las citas, la actualización de historiales y la comunicación, el sistema seguirá siendo incapaz de atender adecuadamente a la mayoría de la población que necesita apoyo en salud mental.
+
+¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
+
 
 ## Lean UX Problem Statements
 
