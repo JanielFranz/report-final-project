@@ -188,20 +188,6 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
    que los profesionales encuentren la plataforma difícil de usar o que no se ajuste a su flujo de trabajo diario.
 
 
- **Feature Assumptions**
-
- **Creemos que los usuarios necesitan:** una funcionalidad de gestión de citas que esté completamente integrada con los registros de los pacientes y las notas clínicas.
-
- **Creemos que:** al integrar esta funcionalidad, los profesionales de la salud mental podrán manejar sus horarios de manera más eficiente y reducir la probabilidad de errores administrativos.
-
- **Estas necesidades se pueden satisfacer:** al desarrollar una función de gestión de citas que esté directamente conectada con los datos de los pacientes, permitiendo un acceso rápido y seguro a la información relevante durante la programación de consultas.
-
- **Creemos que podemos obtener ingresos mediante:** la venta de módulos adicionales de la plataforma, como la integración con sistemas de facturación o la expansión de la capacidad de almacenamiento de datos.
-
- **El mayor riesgo es:** que la funcionalidad de gestión de citas no se integre correctamente con el resto de la plataforma o que no cumpla con las expectativas de los usuarios.
-
- **Lo resolveremos mediante:** pruebas piloto con un grupo selecto de usuarios y ajustes iterativos basados en su retroalimentación.
-
 **User Outcomes:**
 
 **Acceso a Asistencia Especializada:** Los usuarios, tanto psiquiatras como otros profesionales de la salud mental, buscan un acceso fácil y rápido a herramientas que les permitan gestionar de manera eficiente la información de sus pacientes. Este outcome se centra en la capacidad de los usuarios para acceder a una plataforma integrada que optimice la organización de citas, notas clínicas y tratamientos, lo que les proporciona confianza y apoyo en la prestación de un cuidado de calidad.
@@ -221,7 +207,7 @@ Se puede acceder al contenido de la organización en GitHub mediante el siguient
 **Impacto Positivo en la Salud Mental:** A lo largo del primer año de operación, se espera que el uso de la plataforma reduzca la carga administrativa en un 30% para los profesionales de salud mental que la utilicen activamente, medido a través de encuestas de usuario y estudios de tiempo dedicados a tareas administrativas antes y después de la adopción de la plataforma. Además, se busca que al menos el 20% de los pacientes tratados a través de la plataforma reporten mejoras en la satisfacción con la atención recibida, lo que se evaluará mediante encuestas periódicas a los pacientes.
 
 ---
-**Features Outcomes:**
+**Features Assumptions:**
 
 **1. Acceso a Herramientas de Gestión Especializadas:**
 
