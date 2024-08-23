@@ -10,7 +10,7 @@
 **<center>Docente: Angel Augusto Velasquez Nuñez</center>**
 
 **<center>"Informe del Trabajo Final"</center>**
-**<center>Closed Source</center>**
+**<center>Closed Source</center>** 
 **<center>PSYMED</center>**
 
 **<center> Relación de integrantes: </center>**
