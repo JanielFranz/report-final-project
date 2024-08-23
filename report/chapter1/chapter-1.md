@@ -181,6 +181,4 @@
 9. **El mayor riesgo para el usuario es:**  
    que los profesionales encuentren la plataforma difícil de usar o que no se ajuste a su flujo de trabajo diario.
 
-10. **Lo resolveremos mediante:**  
-    pruebas de usabilidad exhaustivas, personalización de la plataforma para diferentes tipos de usuarios, y soporte técnico constante.
 
