@@ -27,9 +27,11 @@
 
 ### 2.2.2. Registro de entrevistas.
 
-Segmento 1: Profesionales de la salud mental.
+##### Segmento 1: Profesionales de la salud mental.
 
 Entrevistado 1:
+
+![Interview_Professional](/assets/Interview1PR.jpeg)
 
 | Nombre               | Luis             |
 |----------------------|------------------|
@@ -39,10 +41,19 @@ Entrevistado 1:
 | URL                  |                  |
 | Inicio de entrevista ||
 | Fin de entrevista    ||
-| Resumen              |                  |
+
+Resumen:
+
+El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole médico que le ayudan en su trabajo, sin embargo, ninguna de esas herramientas le brinda un seguimiento de sus pacientes. Suele atender personas con depresión, ansiedad, esquizofrenia, bipolaridad, etc. Comenta que lo que más le dificulta es agendar sus citas y el registrar la información de manera automatizada. Además, el profesional realiza un examen mental psicopatológico después de sus sesiones para poder realizar un diagnóstico de acuerdo a las normas regidas por la OMS. Considera importante hacerle seguimiento a sus pacientes ya que eso ayuda a ver un progreso real y tangible. El doctor nos brindó feedback sobre el proyecto, aportando las siguientes ideas:
+
+- Notificaciones para que el paciente recuerde tomar su medicación
+- Tener una función donde el paciente registra a qué hora y cuándo ha tomado su medicación
+- Un espacio donde el paciente marque la intensidad de sus emociones
+- Un seguimiento de funciones biológicas (sueño, hambre, etc)
 
 Entrevistado 2:
 
+![Interview_Professional2](/assets/Interview2.jpeg)
 
 | Nombre               | Alberto    |
 |----------------------|------------|
@@ -52,9 +63,18 @@ Entrevistado 2:
 | URL                  |            |
 | Inicio de entrevista |            |
 | Fin de entrevista    |            |
-| Resumen              |            |
+
+Resumen:
+
+El entrevistado utiliza plataformas diariamente por su trabajo y no ha utilizado anteriormente alguna herramienta que lo ayude a gestionar pacientes. Menciona que la información se registra mediante un sistema de historia clínica informatizada. Explicó que una sesión toma 45 minutos y las terapias no deben pasar de una hora ya que puede generar agotamiento tanto para el paciente como para el profesional. Además, recalcó la necesidad de hacer seguimiento a los pacientes, sobre todo a aquellos que están en crisis. No obstante, la información del paciente no puede pasar a terceras personas a menos que tenga alguna discapacidad o psicosis. En esos casos se asigna a una persona responsable del paciente.
+Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro proyecto:
+
+- Botón de emergencia
+- Grabar y comparar comportamientos del paciente
 
 Entrevistado 3:
+
+![Interview_Professional3](/assets/Interview3.jpeg)
 
 | Nombre               | Karina            |
 |----------------------|-------------------|
@@ -64,11 +84,23 @@ Entrevistado 3:
 | URL                  |                   |
 | Inicio de entrevista |                   |
 | Fin de entrevista    |                   |
-| Resumen              |                   |
 
-Segmento 2: Pacientes 
+Resumen: 
+
+La entrevistada afirmó estar familiarizada con las plataformas digitales, usa frecuentemente Chrome como navegador predeterminado y está interesada en tener una plataforma que le ayude a gestionar sus pacientes ya que ella lo realiza de por vía virtual y papel.
+
+La licenciada Ramirez atiende pacientes con trastornos de ansiedad, depresión y obsesivos compulsivos. Además, le preocupa dejar pasar detalles importantes en sus sesiones. 
+
+Nos comenta que la primera sesión es muy importante porque se establece la confianza con el paciente y se evalúa qué tratamiento puede necesitar. En adición a ello, la información del paciente no se puede revelar a terceras personas por una cuestión legal.
+
+Finalmente, la entrevistada menciona que nuestra plataforma debería tener una sección donde pueda anotar lo necesario en sus sesiones y una manera de guardar datos del paciente de manera dinámica para consultarlos cuando realice el plan de trabajo.
+
+
+#### Segmento 2: Pacientes 
 
 Entrevistado 1:
+
+![Interview_1_Patient](/assets/Interview1.jpeg)
 
 | Nombre               | Ximena        |
 |----------------------|---------------|
@@ -78,7 +110,15 @@ Entrevistado 1:
 | URL                  |               |
 | Inicio de entrevista |               |
 | Fin de entrevista    |               |
-| Resumen              |               |
+
+Resumen:
+
+La entrevistada menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando se percató que no afrontaba ciertas situaciones como de costumbre. La entrevistada solamente se comunica con su psiquiatra en las sesiones y estaría interesada en usar una plataforma que la acompañe en su proceso de tratamiento. Finalmente, nos brindó feedback sobre el proyecto con las siguientes ideas:
+- Un tablero de emociones
+- Registro y recordatorio de medicamentos
+- Agendación de sesiones
+- Poder comunicarse con el terapeuta
+- Tener precaución con exponer los datos personales
 
 
 ### 2.2.3. Análisis de entrevistas.
