@@ -27,15 +27,59 @@
 
 ### 2.2.2. Registro de entrevistas.
 
-Segmento 1:
+Segmento 1: Profesionales de la salud mental.
 
-| Nombre   |  |
-|----------|--|
-| Apellido |  |
-| Edad     |  |
-| Distrito |  |
-| URL      |  |
-| Resumen  |  |
+Entrevistado 1:
+
+| Nombre               | Luis             |
+|----------------------|------------------|
+| Apellido             | Mena             |
+| Edad                 | 37               |
+| Distrito             | Magdalena del Mar |
+| URL                  |                  |
+| Inicio de entrevista ||
+| Fin de entrevista    ||
+| Resumen              |                  |
+
+Entrevistado 2:
+
+
+| Nombre               | Alberto    |
+|----------------------|------------|
+| Apellido             | Casas      |
+| Edad                 | 51 años    |
+| Distrito             | San Isidro |
+| URL                  |            |
+| Inicio de entrevista |            |
+| Fin de entrevista    |            |
+| Resumen              |            |
+
+Entrevistado 3:
+
+| Nombre               | Karina            |
+|----------------------|-------------------|
+| Apellido             | Ramirez           |
+| Edad                 | 51 años           |
+| Distrito             | Magdalena del Mar |
+| URL                  |                   |
+| Inicio de entrevista |                   |
+| Fin de entrevista    |                   |
+| Resumen              |                   |
+
+Segmento 2: Pacientes 
+
+Entrevistado 1:
+
+| Nombre               | Ximena        |
+|----------------------|---------------|
+| Apellido             | Falckenheiner |
+| Edad                 | 23 años       |
+| Distrito             | Jesús María   |
+| URL                  |               |
+| Inicio de entrevista |               |
+| Fin de entrevista    |               |
+| Resumen              |               |
+
 
 ### 2.2.3. Análisis de entrevistas.
 
