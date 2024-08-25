@@ -243,3 +243,10 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 ![Texto alternativo](../../assets/Graphics/EMMedico.png)
 ### **Segmento 2: Pacientes**
 ![Texto alternativo](../../assets/Graphics/EMPaciente.png)
+
+
+### 2.3.5 As-is Scenario Mapping
+- **Segmento objetivo:** Pisquiatra  
+  ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
+- **Segmento objetivo:** Paciente    
+  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
