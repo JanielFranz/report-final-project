@@ -22,6 +22,7 @@ En el desarrollo de un sitio web para mejorar la calidad de trabajo de los médi
 Las fichas de User Persona que se presentarán a continuación reflejan estas necesidades, mostrando cómo una administración más eficiente puede mejorar tanto la experiencia del médico como el bienestar del paciente. Estas herramientas nos ayudarán a diseñar una plataforma que realmente responda a las expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
-![Segmeto O-Mental Medic Camilo.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSegmeto%20O-Mental%20Medic%20Camilo.png)
+![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+
 **Segmento Objetivo: Paciente**
-![Segmento O-Patient Pablo.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSegmento%20O-Patient%20Pablo.png)
+![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
