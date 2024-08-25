@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3faa6e57-a717-4250-a42b-d24fbf34d50c" name="Changes" comment="docs: add section titles and table for Chapter 2 in the report" />
+    <list default="true" id="238d1c7b-d509-420b-b87f-f4f3930df712" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/report/chapter2/chapter-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/report/chapter2/chapter-2.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,14 +32,13 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/WX55-Closed-Source/report-final-project.git&quot;,
-    &quot;accountId&quot;: &quot;3a0a243c-5728-4eac-9077-c3bdd3a9a489&quot;
+    &quot;accountId&quot;: &quot;99c16faf-a964-4936-849d-2f470711a9d8&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2l4t3kjwbpPoRCVeBLkwmuG6CQV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2l7xKKnCYxtHtVmhtLdLqAz7T9K" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
