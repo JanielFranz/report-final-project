@@ -144,17 +144,15 @@ PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimien
 
 - How Much: La magnitud del problema es alarmante, con más de 1 millón de personas afectadas que no reciben la atención necesaria, lo que representa un desafío urgente para el sistema de salud.
 
-[//]: # (llevar cambiar)
-#### Descripción de la Problemática
-El sistema de salud mental en Perú enfrenta una crisis crítica caracterizada por la saturación y la escasez de recursos. A pesar del incremento en la incidencia de trastornos mentales, como la depresión y la ansiedad, el país no cuenta con un número adecuado de médicos especializados para cubrir la demanda creciente. Esta carencia no solo impacta negativamente la calidad de la atención, sino que también sobrecarga a los profesionales médicos con una alta carga administrativa. La falta de personal especializado se combina con un sistema de gestión ineficiente, que dificulta la programación de citas, el seguimiento detallado de historiales clínicos, y la comunicación efectiva entre médicos y pacientes.
+#### Descripción de la Problemática:
 
-La situación se ve agravada por la ausencia de herramientas tecnológicas adecuadas que podrían automatizar y optimizar estos procesos. Sin soluciones que mejoren la eficiencia en la administración de las citas, la actualización de historiales y la comunicación, el sistema seguirá siendo incapaz de atender adecuadamente a la mayoría de la población que necesita apoyo en salud mental.
+El sistema de salud mental en Perú enfrenta una crisis debido a la sobrecarga administrativa que limita la capacidad de los profesionales para atender a los pacientes. La creciente demanda de atención en salud mental, impulsada por trastornos como la depresión y la ansiedad, ha llevado a un sistema que lucha por gestionar de manera eficiente las citas, los historiales clínicos y la comunicación entre médicos y pacientes.
+
+Para superar este desafío, es esencial implementar soluciones tecnológicas que optimicen la administración de los pacientes. Automatizar tareas para liberar tiempo para los profesionales de la salud, permitiéndoles enfocarse más en la atención directa y mejorando así el acceso y la calidad de la atención en salud mental en Perú
 
 ¿Cómo pueden las soluciones tecnológicas mejorar la gestión y administración del servicio de salud mental en Perú?
 
-
 ## Lean UX Problem Statements
-
 
 *Estamos planificando el desarrollo de una plataforma de software para instituciones médicas especializadas en salud mental, diseñada para facilitar la gestión integrada y eficiente de la información de pacientes y médicos. Sin embargo, hemos identificado que las herramientas tecnológicas actuales en estas instituciones no están cumpliendo con las necesidades específicas de gestión, lo que causa un manejo fragmentado de los datos clínicos, dificultades para organizar y acceder a la información relevante durante las consultas, y problemas para programar y gestionar citas de manera eficiente. Esta situación genera una carga administrativa adicional para los profesionales de salud mental, aumenta el riesgo de errores en el manejo de la información clínica, y limita la capacidad de ofrecer un enfoque de tratamiento multidisciplinario.*
 
