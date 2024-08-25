@@ -169,7 +169,9 @@ ayudarán a diseñar una plataforma que realmente responda a las
 expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
+
 ![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
+
 ![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
