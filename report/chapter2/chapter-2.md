@@ -113,20 +113,43 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 
 #### Preguntas para el segmento de profesionales de la salud mental:
 
-- ¿Qué tan familiarizado está con el uso de plataformas digitales?
+##### _Preguntas Objetivas_
+
 - ¿Cuál es el navegador que más utilizas?
 - ¿Ha pagado por herramientas que le ayuden a hacer un seguimiento de sus pacientes en el pasado? ¿Cuáles y por qué?
-- Actualmente ¿Cómo manejas la información de tus pacientes?
+- Actualmente, ¿Cómo manejas la información de tus pacientes?
+- ¿Qué tipo de información no se puede revelar a los pacientes y cuál sí está permitido?
+- ¿Qué precio mensual o anual considerarías razonable para un servicio como este?
+
+##### _Preguntas Subjetivas_
+
+- ¿Qué tan familiarizado está con el uso de plataformas digitales?
 - ¿Cuál es el perfil de pacientes que usted atiende?
 - ¿Qué dificultades tienes al atender a tus pacientes?
-- ¿Qué factores determinan que un paciente  busque ayuda psicológica y cual es la diferencia  con el manejo con un psiquiatra?
+- ¿Qué factores determinan que un paciente busque ayuda psicológica y cuál es la diferencia con el manejo con un psiquiatra?
 - ¿Cómo se lleva a cabo la evaluación de un paciente nuevo?
 - ¿Cómo se determina un diagnóstico y cuánto tiempo toma?
 - ¿Cómo se decide el plan de tratamiento para un paciente?
 - ¿Qué tan importante es hacer un seguimiento del paciente?
-- ¿Qué tipo de información no se puede revelar a los pacientes y cuál sí está permitido?
 - ¿Qué funciones crees que la plataforma deba tener además de las mencionadas?
-- ¿Qué precio mensual o anual considerarías razonable para un servicio como este?
+
+#### Preguntas para el segmento de pacientes:
+
+#### _Preguntas Objetivas_
+
+- ¿Cuál es el navegador que más utilizas?
+- ¿Qué herramienta usas más seguido? Tablets, celulares, laptops, smartwatch, etc.
+- ¿Qué tan seguido interactúas con tu terapeuta, psicólogo o psiquiatra? (Sesiones, chats, llamadas, etc.)
+- ¿Has utilizado alguna vez una plataforma digital para gestionar tus citas o tratamientos médicos? Si es así, ¿cómo fue tu experiencia? ¿Qué aspectos te resultaron más útiles o frustrantes?
+- ¿Te sentirías cómodo utilizando una plataforma digital para interactuar con tu profesional de la salud mental?
+- ¿Qué información te gustaría tener visible en la plataforma? Por ejemplo, citas, recordatorios de medicamentos, notas de las sesiones, etc.
+- ¿Te gustaría poder comunicarte con tu profesional de salud mental a través de la plataforma? ¿Qué tipo de comunicación preferirías (mensajes, videollamadas, etc.)?
+
+#### _Preguntas Subjetivas_
+
+- ¿Estás familiarizado con las plataformas digitales?
+- ¿Cuándo y por qué motivo decidiste buscar ayuda profesional para tu salud mental?
+- ¿Tienes alguna preocupación en cuanto a la privacidad y seguridad de tu información personal al usar una plataforma digital? ¿Qué te haría sentir más seguro al usarla?
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -134,16 +157,18 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 
 Entrevistado 1:
 
-![Interview_Professional](/assets/Interview1PR.jpeg)
+<div align="center">
+  <img src="/assets/Interview1PR.jpeg">
+</div>
 
-| Nombre               | Luis             |
-|----------------------|------------------|
-| Apellido             | Mena             |
-| Edad                 | 37               |
-| Distrito             | Magdalena del Mar |
-| URL                  |                  |
-| Inicio de entrevista ||
-| Fin de entrevista    ||
+| Nombre               | Luis                                                                                                                                           |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Mena                                                                                                                                           |
+| Edad                 | 37                                                                                                                                             |
+| Distrito             | Magdalena del Mar                                                                                                                              |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq) |
+| Inicio de entrevista | 0:01 minutos                                                                                                                                   |
+| Fin de entrevista    | 26:45 minutos                                                                                                                                  |
 
 Resumen:
 
@@ -156,16 +181,18 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 
 Entrevistado 2:
 
-![Interview_Professional2](/assets/Interview2.jpeg)
+<div align="center">
+  <img src="/assets/Interview2.jpeg">
+</div>
 
-| Nombre               | Alberto    |
-|----------------------|------------|
-| Apellido             | Casas      |
-| Edad                 | 51 años    |
-| Distrito             | San Isidro |
-| URL                  |            |
-| Inicio de entrevista |            |
-| Fin de entrevista    |            |
+| Nombre               | Alberto                                                                                                                                        |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Casas                                                                                                                                          |
+| Edad                 | 51 años                                                                                                                                        |
+| Distrito             | San Isidro                                                                                                                                     |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq) |
+| Inicio de entrevista | 26:56 minutos                                                                                                                                  |
+| Fin de entrevista    | 44:43 minutos                                                                                                                                  |
 
 Resumen:
 
@@ -177,16 +204,18 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 
 Entrevistado 3:
 
-![Interview_Professional3](/assets/Interview3.jpeg)
+<div align="center">
+  <img src="/assets/Interview3.jpeg">
+</div>
 
-| Nombre               | Karina            |
-|----------------------|-------------------|
-| Apellido             | Ramirez           |
-| Edad                 | 51 años           |
-| Distrito             | Magdalena del Mar |
-| URL                  |                   |
-| Inicio de entrevista |                   |
-| Fin de entrevista    |                   |
+| Nombre               | Karina                                                                                                                                         |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Ramirez                                                                                                                                        |
+| Edad                 | 51 años                                                                                                                                        |
+| Distrito             | Magdalena del Mar                                                                                                                              |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq) |
+| Inicio de entrevista | 44:53 minutos                                                                                                                                  |
+| Fin de entrevista    | 1:07:47 minutos                                                                                                                                |
 
 Resumen:
 
@@ -198,19 +227,20 @@ Nos comenta que la primera sesión es muy importante porque se establece la conf
 
 Finalmente, la entrevistada menciona que nuestra plataforma debería tener una sección donde pueda anotar lo necesario en sus sesiones y una manera de guardar datos del paciente de manera dinámica para consultarlos cuando realice el plan de trabajo.
 
-
 #### Segmento 2: Pacientes
 
 Entrevistado 1:
 
-![Interview_1_Patient](/assets/Interview1.jpeg)
+<div align=center>
+    <img src="/assets/Interview1.jpeg"/></img>
+</div>
 
 | Nombre               | Ximena        |
 |----------------------|---------------|
 | Apellido             | Falckenheiner |
 | Edad                 | 23 años       |
 | Distrito             | Jesús María   |
-| URL                  |               |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq)              |
 | Inicio de entrevista |               |
 | Fin de entrevista    |               |
 
@@ -222,8 +252,6 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 - Agendación de sesiones
 - Poder comunicarse con el terapeuta
 - Tener precaución con exponer los datos personales
-
-
 
 ### 2.2.3 Análisis de entrevistas
 
