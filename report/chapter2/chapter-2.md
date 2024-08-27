@@ -290,7 +290,7 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 
 Se procede a recopilar las estadísticas de las respuestas de los
 entrevistados para representarlas mediante gráficos proporcionados
-por la herramienta, Google Forms.
+por las entrevistas
 - **Segmento 1: Medicos de la salud mental:**
 
 Según los datos que hemos analizado, se observa que una mayoría 
@@ -397,10 +397,12 @@ En la matriz presentada, se pueden observar las siguientes tareas con mayor frec
 - **Médicos de la salud mental**:
   - La gestión y actualización de historias clínicas, la programación y gestión de citas, el registro de notas de sesiones, y el acceso a la información médica relevante se destacan por su alta importancia y su frecuencia "Siempre", ya que son esenciales para el desempeño diario de los profesionales.
   - La generación de reportes clínicos y la coordinación de reuniones de equipo multidisciplinario, aunque importantes, tienen una frecuencia menor, ya que estas tareas no son realizadas de manera continua.
+  - Las tareas de gestionar citas, el seguimiento de citas y recordatorios, y la comunicación con el médico, aunque de alta importancia, varían en frecuencia, con algunas realizadas "Siempre" y otras "A veces". 
 
 - **Pacientes**:
-  - Las tareas de agendar y gestionar citas, el seguimiento de citas y recordatorios, y la comunicación con el médico, aunque de alta importancia, varían en frecuencia, con algunas realizadas "Siempre" y otras "A veces". 
-  - Otras tareas, como la participación en encuestas de seguimiento de salud y la revisión de facturas y pagos, tienen una frecuencia "Nunca", lo que refleja su menor impacto en el día a día de los pacientes.
+  -Comunicarse con su medico
+  -Aceso a sus recomendaciones
+ 
 
 Las coincidencias entre los segmentos destacan la importancia de una solución integrada que facilite la gestión tanto para médicos como para pacientes. Las principales diferencias se reflejan en la naturaleza de las tareas, donde los médicos tienen un enfoque más administrativo y clínico, mientras que los pacientes se centran en la gestión personal de su atención médica.
 
