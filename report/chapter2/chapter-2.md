@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/PsyMed.png" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/spymed.jpg/" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/public/imagenes/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/public/imagenes/competidores/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/public/imagenes/competidores/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -158,7 +158,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/Interview1PR.jpeg">
+  <img src="/assets/public/imagenes/Interviews/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                           |
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/Interview2.jpeg">
+  <img src="/assets/public/imagenes/Interviews/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="/assets/public/imagenes/Interviews/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/Interview1.jpeg"/></img>
+    <img src="/assets/public/imagenes/Interviews/Interview1.jpeg"/></img>
 </div>
 
 | Nombre               | Ximena        |
@@ -240,9 +240,42 @@ Entrevistado 1:
 | Apellido             | Falckenheiner |
 | Edad                 | 23 años       |
 | Distrito             | Jesús María   |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq)              |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq)|
 | Inicio de entrevista |               |
 | Fin de entrevista    |               |
+
+Entrevistado 2:
+
+<div align=center>
+    <img src="/assets/public/imagenes/Interviews/Interview2PT.png"/></img>
+</div>
+
+
+| Nombre               | Alejandra                                                                                                    |
+|----------------------|--------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                       |
+| Edad                 | 20 años                                                                                                      |
+| Distrito             | Lince                                                                                                        |
+| URL                  | |
+| Inicio de entrevista |                                                                                                              |
+| Fin de entrevista    |                                                                                                              |
+
+Entrevistado 3:
+
+<div align=center>
+    <img src="/assets/public/imagenes/Interviews/Interview3PT.png"/></img>
+</div>
+
+
+| Nombre               | Sebastian                                                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | muñiz                                                                                                                                          |
+| Edad                 | 21 años                                                                                                                                        |
+| Distrito             | Pueblo libre                                                                                                                                   |
+| URL                  |  |
+| Inicio de entrevista |  |
+
+
 
 Resumen:
 
@@ -270,11 +303,12 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
-![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
-![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
-![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
-![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+![AL-medic1.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
+![AL-medic2.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
+![AL-medic3.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
+![AL-medic4.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
+![Al-medic5.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento 
@@ -286,10 +320,12 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran 
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
-![Al-Pat1.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
-![Al-pat2.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
-![Al-pat3.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
-![Al-pat4.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+
+![Al-Pat1.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
+![Al-pat2.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
+![Al-pat3.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
+![Al-pat4.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -317,11 +353,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+![So-Mental Medic.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-Patient.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-Patient.png)
 
 ## **User Task Matrix**
 
@@ -375,9 +411,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/UJMMedico.png)
+![Texto alternativo](../../assets/public/imagenes/Graphics/UJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/UJMPaciente.png)
+![Texto alternativo](../../assets/public/imagenes/Graphics/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -386,13 +422,12 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/EMMedico.png)
+![Texto alternativo](../../assets/public/imagenes/Graphics/EMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/EMPaciente.png)
-
+![Texto alternativo](../../assets/public/imagenes/Graphics/EMPaciente.png)
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Pisquiatra  
-  ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
+ ![AS-IS Pisquiatra.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
-  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+  ![AS-IS Cliente.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Cliente.jpg)
