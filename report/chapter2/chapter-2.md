@@ -276,8 +276,26 @@ Entrevistado 2:
 | URL                  | |
 | Inicio de entrevista |                                                                                                              |
 | Fin de entrevista    |                                                                                                              |
- 
 **Resumen:**
+
+La entrevistada menciona que utiliza plataformas digitales 
+diariamente y que su navegador predeterminado es Chrome. 
+Comentó que empezó a buscar ayuda profesional cuando comenzó
+a tener problemas familiares y personales. Después de un 
+tiempo, sintió cierto desinterés por parte de su terapeuta 
+y experimentó cambios frecuentes de terapeuta, lo que 
+dificultaba el seguimiento de su caso en el lugar donde 
+se atendía. Solo usaban un bot de WhatsApp para agendar 
+citas, lo que resultaba inadecuado. Ella gustaría contar 
+con una plataforma que le ayude a llevar un control de sus 
+sesiones y tratamiento. Finalmente, brindó feedback sobre 
+el proyecto con las siguientes ideas:
+
+- Informacion sobre tips de auto-ayuda.
+- Interacciones virtuales para momentos de crisis.
+- Recordatorios de citas.
+- Información general sobre el terapeuta.
+- Cifrado de datos personales.
 
 
 Entrevistado 3:
@@ -295,8 +313,26 @@ Entrevistado 3:
 | URL                  |  |
 | Inicio de entrevista |  |
 
-Resumen:
+**Resumen:**
 
+El entrevistado menciona que utiliza plataformas digitales 
+diariamente y que su navegador predeterminado es Chrome o 
+Firefox. Comentó que empezó a buscar ayuda profesional después
+de la pandemia debido a problemas de sueño, estrés y 
+ansiedad. Además, mencionó que su psicólogo le envía 
+mensajes de texto para recordarle la información y los 
+acuerdos de la sesión anterior. Lleva un control de sus 
+sesiones y tratamiento.Finalmente, brindó observaciones 
+sobre otras plataformas que ha experimentado. Comentó que 
+eran accesibles, amigables y buenas para una gestión 
+adecuada, pero que eran muy malas en el redireccionamiento 
+y el pago en el sistema. Brindó feedback sobre el proyecto 
+con las siguientes ideas:
+
+- Recordatorios de citas.
+- Citas o reuniones web.
+- Seguridad mediante cifrado y solo visible para el terapeuta.
+- Seguridad con la información personal médica.
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -430,14 +466,13 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 ![Texto alternativo](../../assets/public/imagenes/Graphics/UJMPaciente.png)
 
 ## **Emphaty Mapping**
-
-
 Para la creación del Empathy Map, hemos utilizado la información obtenida de nuestros dos User Personas que representan nuestro segmento objetivo. Este mapa nos permite profundizar en la comprensión de las necesidades, pensamientos, emociones y comportamientos de los usuarios, ayudándonos a diseñar soluciones más alineadas con sus expectativas y experiencias reales.
 
 
 ### **Segmento 1: Medicos de la salud mental**
 ![Texto alternativo](../../assets/public/imagenes/Graphics/EMMedico.png)
 ### **Segmento 2: Pacientes**
+![EMPaciente.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FEMPaciente.png)
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Pisquiatra  
  ![AS-IS Pisquiatra.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Pisquiatra.jpg)
