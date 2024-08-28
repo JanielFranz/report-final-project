@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/spymed.jpg/" alt="PsyMed"></td>
+    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/PSYMED.png/" alt="PsyMed"></td>
     <td>TherapyNotes<br><img src="/assets/public/imagenes/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
     <td>Teladoc<br><img src="/assets/public/imagenes/competidores/Teladoc.png" alt="Teladoc"></td>
     <td>Talkspace<br><img src="/assets/public/imagenes/competidores/Talkspace.png" alt="Talkspace"></td>
@@ -243,6 +243,23 @@ Entrevistado 1:
 | URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/Ebl5gU4j1JdKqG1UvciHCpgBfa0EbZSA2uCYyP8QxuMm9Q?e=6dryZq)|
 | Inicio de entrevista |               |
 | Fin de entrevista    |               |
+**Resumen:**
+
+La entrevistada menciona utilizar diariamente plataformas
+digitales y usar con frecuencia el navegador Chrome.
+Comentó que empezó a buscar ayuda profesional cuando
+se percató que no afrontaba ciertas situaciones como
+de costumbre. La entrevistada solamente se comunica con
+su psiquiatra en las sesiones y estaría interesada en
+usar una plataforma que la acompañe en su proceso de
+tratamiento. Finalmente, nos brindó feedback sobre el
+proyecto con las siguientes ideas:
+
+- Un tablero de emociones
+- Registro y recordatorio de medicamentos
+- Agendación de sesiones
+- Poder comunicarse con el terapeuta
+- Tener precaución con exponer los datos personales
 
 Entrevistado 2:
 
@@ -259,6 +276,9 @@ Entrevistado 2:
 | URL                  | |
 | Inicio de entrevista |                                                                                                              |
 | Fin de entrevista    |                                                                                                              |
+ 
+**Resumen:**
+
 
 Entrevistado 3:
 
@@ -275,16 +295,8 @@ Entrevistado 3:
 | URL                  |  |
 | Inicio de entrevista |  |
 
-
-
 Resumen:
 
-La entrevistada menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando se percató que no afrontaba ciertas situaciones como de costumbre. La entrevistada solamente se comunica con su psiquiatra en las sesiones y estaría interesada en usar una plataforma que la acompañe en su proceso de tratamiento. Finalmente, nos brindó feedback sobre el proyecto con las siguientes ideas:
-- Un tablero de emociones
-- Registro y recordatorio de medicamentos
-- Agendación de sesiones
-- Poder comunicarse con el terapeuta
-- Tener precaución con exponer los datos personales
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -357,7 +369,7 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-patient.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-patient.png)
 
 ## **User Task Matrix**
 
@@ -426,10 +438,8 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 ### **Segmento 1: Medicos de la salud mental**
 ![Texto alternativo](../../assets/public/imagenes/Graphics/EMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/public/imagenes/Graphics/EMPaciente.png)
-
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Pisquiatra  
  ![AS-IS Pisquiatra.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
-  ![AS-IS Cliente.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Cliente.jpg)
+ ![AS-IS Cliente.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Cliente.jpg)
