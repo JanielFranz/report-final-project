@@ -5,10 +5,44 @@ la aplicación, para proporcionar a nuestros usuarios una interfaz amigable
 y funcional. Con este propósito en mente, hemos optado por compartir un proyecto
 Figma en el que hemos trabajado todos y el cual todos pueden editar y usar los
 Assets,fonts y demas.
-[Enlace al Figma](https://www.figma.com/design/WdMYexswCo2IFZE3tdsAJs/Open-Source-y-App-Web?node-id=61-79&t=ajW613l5JyQTJqL4-1)
 ### 4.1.1. General Style Guidelines
-## Nuestra Paleta de Colores
+- **Branding:** El branding del logo de nuestra aplicación "PSYMED" representa un cerebro
+  sobre un fondo verde, simbolizando la fusión entre la salud mental
+  y el soporte administrativo eficiente. El cerebro es un emblema
+  universal del conocimiento y la mente humana, lo que lo convierte
+  en la elección ideal para una plataforma dedicada a apoyar a los
+  médicos en el campo de la salud mental.El fondo verde añade una sensación de equilibrio, serenidad
+y crecimiento, reflejando el entorno calmado y profesional
+que nuestra aplicación busca ofrecer. Este diseño visual
+transmite confianza y un enfoque moderno, asegurando que
+tanto los médicos como sus pacientes se sientan apoyados en
+cada etapa de su interacción con la plataforma.
+<div style="text-align: center;">
+  <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2Fcompetidores%2FPSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+</div>
 
+
+- **Typography:Roboto:** 
+Para nuestra plataforma, hemos elegido **Roboto** como la tipografía
+  principal, por su diseño moderno, limpio y altamente legible. Esta
+  fuente nos permite presentar la información de manera clara y
+  profesional, garantizando que tanto los psiquiatras como los
+  pacientes puedan interactuar con la aplicación de forma intuitiva
+  y sin esfuerzo. 
+Roboto se utilizará para todos los textos de la plataforma,
+desde encabezados y títulos hasta cuerpos de texto y botones de
+acción. Su versatilidad en cuanto a pesos nos permitirá destacar
+la información crítica, mientras que su geometría precisa asegurará
+una experiencia de lectura cómoda y agradable en cualquier dispositivo.
+Esta elección refuerza nuestro compromiso de ofrecer un entorno 
+digital que no solo sea funcional, sino también estéticamente 
+atractivo y accesible para todos los usuarios.
+
+<div style="text-align: center;">
+  <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2FTypografia%2Fimages.png" alt="slide de Roboto" style="max-width: 100%; height: auto;">
+</div>
+
+- Colors:
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 
 los psiquiatras como para sus pacientes. El objetivo principal de 
@@ -19,58 +53,48 @@ en la selección de colores, que buscan transmitir calma, confiabilidad y
 profesionalismo. A continuación, se presenta una breve descripción de los 
 colores que se utilizarán en nuestra aplicación:
 
-### Chromatic Colors
 <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #308C83;"></div>
+  <div style="width: 90px; height: 90px; background-color: #091133;"></div>
 </div>
--#308C83 (Teal Profundo) Este color actúa como el tono principal de la 
-plataforma, evocando tranquilidad y estabilidad, cualidades esenciales 
-en el ámbito de la salud mental. Es ideal para encabezados, botones de 
-acción y elementos que requieren destacar, asegurando que el profesional 
-pueda navegar y tomar decisiones de manera confiable.<br><br>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #69BFB7;"></div>
-</div>
-- #69BFB7 (Teal Suave) Utilizado para elementos secundarios y destacados 
-sutiles, este tono complementa el color primario, aportando una sensación
-de frescura y modernidad, sin desviar la atención de la información crítica. Es ideal para 
-secciones como el registro de síntomas y la visualización de citas.<br><br>
+**#091133 (Azul Profundo)** Este color aporta un nivel de 
+profundidad y seriedad a la plataforma, lo que lo convierte en una 
+excelente elección para textos clave y elementos que requieren un 
+alto contraste. Su tonalidad oscura asegura una legibilidad superior 
+y destaca información crucial, permitiendo a los usuarios concentrarse 
+en los detalles más importantes con facilidad. Es ideal para títulos, 
+subtítulos, y enlaces que guían la experiencia del usuario de manera 
+efectiva y profesional.
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100px;">
-  <div style="width: 90px; height: 90px; background-color: #C2F2ED;"></div>
+  <div style="width: 90px; height: 90px; background-color: #FFFFFF;"></div>
 </div>
--#C2F2ED (Aqua Ligero): Este color se utilizará principalmente en los fondos y áreas extensas,
-proporcionando un entorno relajante y libre de distracciones. Su 
-suavidad ayuda a reducir la carga visual, permitiendo que tanto 
-los profesionales como los pacientes se concentren en el contenido 
-relevante, como los signos vitales y comentarios diarios.<br><br>
 
-Estos colores son aquellos que tienen una tonalidad distintiva y están 
-en el espectro del arcoíris. En este caso, el color teal y aqua son 
-ejemplos de colores cromáticos. Estos colores aportan viveza y expresión
-a la paleta, representando distintas cualidades y emociones.
+**#FFFFFF (Blanco):** Este color ofrece una apariencia limpia y 
+minimalista, siendo ideal para fondos y áreas de contenido que 
+requieren claridad y simplicidad. Su neutralidad ayuda a crear 
+un espacio visualmente relajante y despejado, permitiendo que 
+otros colores y elementos destacados resalten de manera efectiva.
+El blanco es fundamental para proporcionar contraste y asegurar 
+que el contenido sea fácil de leer y navegar, especialmente en 
+secciones de la plataforma que buscan ofrecer una experiencia 
+de usuario sin distracciones.
 
-### Achromatic Colors
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <div style="width: 90px; height: 90px; background-color: #10BEAE;"></div>
+</div>
 
-- <span style="color:#F2F2F2;">**#F2F2F2 (Gris Claro):**</span> Este tono neutro es ideal para separar y organizar la información de manera clara y ordenada. Se empleará en fondos y separadores, garantizando que los datos privados, como diagnósticos y medicaciones, sean fácilmente accesibles, pero visualmente discretos.
+**#10BEAE (Teal Brillante):** Este color vibrante y refrescante 
+aporta energía y modernidad a la plataforma. Es ideal para 
+elementos que requieren un toque de frescura, como botones 
+de acción o enlaces destacados. Su tonalidad brillante y alegre 
+asegura que los usuarios se sientan motivados y comprometidos, 
+creando un ambiente visual que equilibra tanto la funcionalidad 
+como la estética. Este color es perfecto para destacar 
+información que debe ser notada rápidamente, sin comprometer 
+la armonía general de la interfaz.
 
-- <span style="color:#0D0D0D;">**#0D0D0D (Negro Intenso):**</span> Utilizado principalmente para texto y detalles cruciales, este color asegura una máxima legibilidad y contraste. Es perfecto para mostrar información crítica como diagnósticos, medicación, y alertas de signos vitales, brindando al usuario una experiencia precisa y enfocada.
-
-Estos colores no tienen una tonalidad cromática específica y están formados por variaciones de blanco, negro y grises. En esta paleta, el blanco y el negro son ejemplos de colores acromáticos. Estos colores proporcionan equilibrio, contraste y neutralidad, sirviendo como base y permitiendo que los colores cromáticos destaquen.
-
-## Color Palette
-
-### Typography: Roboto
-
-Para nuestra plataforma, hemos elegido **Roboto** como la tipografía principal, por su diseño moderno, limpio y altamente legible. Esta fuente nos permite presentar la información de manera clara y profesional, garantizando que tanto los psiquiatras como los pacientes puedan interactuar con la aplicación de forma intuitiva y sin esfuerzo.
-
-Roboto se utilizará para todos los textos de la plataforma, desde encabezados y títulos hasta cuerpos de texto y botones de acción. Su versatilidad en cuanto a pesos nos permitirá destacar la información crítica, mientras que su geometría precisa asegurará una experiencia de lectura cómoda y agradable en cualquier dispositivo.
-
-Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no solo sea funcional, sino también estéticamente atractivo y accesible para todos los usuarios.
-
-### Scale
-
+**Scale:**
 - **Base:** El tamaño base es de 18px.
 - **Ratio:** Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
 
@@ -101,40 +125,177 @@ Esta elección refuerza nuestro compromiso de ofrecer un entorno digital que no 
 
     - **Body 1 / 10px / Regular**  
       Uso: Detalles secundarios, notas, etiquetas pequeñas o textos de ayuda.
-
-### Imágenes
-
-Este esquema tipográfico utilizando Roboto garantiza que la jerarquía y estructura de la información sean claras y fáciles de seguir para los usuarios, asegurando una experiencia de usuario coherente y agradable.
-
-## Icon
-
-El logo de **PSYMED** está diseñado para capturar la esencia de nuestra plataforma psiquiátrica, centrada en el cuidado y seguimiento integral de los pacientes. El emblema en forma de corazón, combinado con la figura humana en el centro, simboliza la conexión empática y el apoyo constante que ofrecemos entre médicos y pacientes.
-
-Los tonos de teal reflejan calma, serenidad y profesionalismo, cualidades fundamentales en el ámbito de la salud mental. La tipografía utilizada en "PSYMED" es fuerte y moderna, transmitiendo seguridad y confiabilidad, mientras que el subtítulo "Psychiatric Platform" en un estilo más ligero, enfatiza la precisión y delicadeza con la que manejamos información crítica y personal.
-
-Este logo no solo representa la identidad visual de PSYMED, sino que también encarna nuestra misión de brindar un espacio seguro, eficiente y accesible para la gestión de la salud mental.
-
+- **Tipo de lenguaje**
+        
 
 ### 4.1.2. Web Style Guidelines
-    
+
+-**Colors:**
+Los colores de la aplicación web se eligieron para crear un 
+entorno que promueva tranquilidad y confianza en la gestión 
+de la salud mental. **#308C83 (Teal Profundo)** ofrece 
+estabilidad, **#69BFB7 (Teal Suave)** aporta frescura y 
+destaca información clave, y **#C2F2ED (Aqua Ligero)** 
+proporciona un fondo relajante. Estos colores, en conjunto, 
+aseguran una experiencia visual armoniosa y profesional en la 
+plataforma.
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <div style="width: 90px; height: 90px; background-color: #308C83;"></div>
+</div>
+
+**#308C83 (Teal Profundo):** Este color actúa como el tono 
+principal de la plataforma, evocando tranquilidad y estabilidad,
+cualidades esenciales en el ámbito de la salud mental. Es ideal
+para encabezados, botones de acción y elementos que requieren 
+destacar, asegurando que el profesional pueda navegar y tomar 
+decisiones de manera confiable.
+
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <div style="width: 90px; height: 90px; background-color: #69BFB7;"></div>
+</div>
+
+**#69BFB7 (Teal Suave):** Utilizado para elementos secundarios y 
+destacados sutiles, este tono complementa el color primario, 
+aportando una sensación de frescura y modernidad, sin desviar 
+la atención de la información crítica. Es ideal para secciones
+como el registro de síntomas y la visualización de citas.
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100px;">
+  <div style="width: 90px; height: 90px; background-color: #C2F2ED;"></div>
+</div>
+
+**#C2F2ED (Aqua Ligero):** Este color se utilizará principalmente 
+en los fondos y áreas extensas, proporcionando un entorno 
+relajante y libre de distracciones. Su suavidad ayuda a reducir 
+la carga visual, permitiendo que tanto los profesionales como 
+los pacientes se concentren en el contenido relevante, como los
+signos vitales y comentarios diarios.
+
 ## 4.2. Information Architecture
+La sección de arquitectura de la información se centra en 
+estructurar el contenido tanto de la aplicación web como 
+de la página principal de **PSYMED**. Esta sección 
+abarca los siguientes aspectos clave:
 
 ### 4.2.1. Organization Systems
+Para asegurar una jerarquía clara y precisa en nuestra 
+aplicación, es crucial facilitar una navegación satisfactoria 
+para el usuario. La estructura que hemos definido es la 
+siguiente:<br>
+
+**Psiquiatras:**
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Perfil" y "Ajustes".
+
+En la sección "Pacientes", los profesionales pueden ver una lista de sus pacientes actuales y seleccionar un paciente para acceder a su perfil detallado, que incluye historial de citas, notas clínicas por sesión y tratamientos en curso. En la opción de "Tratamientos en curso" se puede acceder a opciones tales como diagnósticos, datos fisiológicos, registro de estados de ánimo y tareas asignadas.
+
+La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y enviar recordatorios.
+
+En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
+
+---
+**Pacientes:**
+Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
+
+En la sección "Lista de Tareas" se pueden visualizar los conjuntos de actividades designados por el profesional de la salud mental en cada sesión. Dentro de esta vista, se puede acceder a opciones tales como ver tareas y marcar como completadas.
+
+En la sección "Tratamiento Actual" se puede acceder a opciones tales como "Prescripciones", "Diagnóstico Actual", "Formulario de Estados de Ánimo", "Registro de Estados Fisiológicos" y ver datos estadísticos de su estado a lo largo del tratamiento.
+
+En la sección "Citas" se pueden visualizar las citas programadas por el profesional de la salud mental, y se puede acceder a opciones tales como ver detalles de la cita.
+
+En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
 ### 4.2.2. Labeling Systems
 
+**Psiquiatras:**
+**inicio**
+- Iniciar sesión
+- Registrarse 
+- Recuperar su contraseña .
+
+**Pagina principal**
+- pacientes
+- Agenda
+- Perfil
+- Ajustes
+
+**Pacientes** 
+  - lista de sus pacientes
+      - Historial de citas
+      - Notas clínicas por sesión
+      - Tratamientos en curso
+          - Diagnósticos
+          - Datos fisiológicos
+          - Registro de estados de ánimo
+          - Tareas asignadas
+
+**Agenda:** 
+- Agendar nuevas consultas
+- Modificar horarios
+- Enviar recordatorios
+
+**Perfil:** 
+- Datos de contacto
+- Especialidad
+
+**Ajustes:** 
+- Cambiar contraseñas
+
+---
+**Pacientes:**
+
+**Inicio** 
+- Iniciar sesión 
+- Cambiar la contraseña
+
+**Pagina principal**
+- Perfil
+- Citas
+- Lista de Tareas
+- Tratamiento Actual
+
+**Perfil:** 
+- Datos de contacto
+- Datos de salud
+
+**Citas:** 
+- Ver detalles de la cita
+
+**Lista de Tareas:** 
+- Ver tareas
+- Marcar como completadas
+
+**Tratamiento Actual:** 
+- Prescripciones
+- Diagnóstico Actual
+- Formulario de Estados de Ánimo
+    - Registro de Estados Fisiológicos
+    - Ver datos estadísticos de su estado a lo largo del tratamiento
+
+
 ### 4.2.3. SEO Tags and Meta Tags
+Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Landing Page como el Sitio Web. Han sido creadas para mejorar la visibilidad de nuestro proyecto en los principales motores de búsqueda, lo que permitirá a los usuarios encontrar fácilmente nuestra aplicacion de PSYMED.
+
+Para la landing page:
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED es una plataforma de gestión de salud mental que conecta a psiquiatras y pacientes para mejorar la atención y el seguimiento de los tratamientos. Regístrate hoy y descubre una nueva forma de cuidar tu salud mental.
 
 ### 4.2.4. Searching Systems
+- busqueda de motas por fechas
+- busqueda de sesiones por fecha
+- busqueda de diagnosticos por fecha
+- busqueda de tareas por ID
+- busqueda de prescripciones por fecha
+- ver sessiones por fecha
+- confirmacion de tareas por ID
 
 ### 4.2.5. Navigation Systems
+floro por ver 
 
 ## 4.3. Landing Page UI Design
-
 ### 4.3.1. Landing Page Wireframe
-
 ### 4.3.2. Landing Page Mock-up
-
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
