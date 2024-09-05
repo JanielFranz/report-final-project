@@ -39,10 +39,10 @@ digital que no solo sea funcional, sino también estéticamente
 atractivo y accesible para todos los usuarios.
 
 <div style="text-align: center;">
-  <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2FTypografia%2Fimages.png" alt="slide de Roboto" style="max-width: 100%; height: auto;">
+  <img src="..%2F..%2Fassets%2Ftypograifa.png" alt="slide de Roboto" style="max-width: 100%; height: auto;">
 </div>
 
-- Colors:
+- **Colors:**
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 
 los psiquiatras como para sus pacientes. El objetivo principal de 
@@ -98,7 +98,7 @@ la armonía general de la interfaz.
 - **Base:** El tamaño base es de 18px.
 - **Ratio:** Utilizaremos un ratio de escala (por ejemplo, 1.2) que definirá la relación entre los tamaños de texto, creando una jerarquía visual consistente y armoniosa en la aplicación.
 
-**Tipografía:** Roboto  
+
 **Line Spacing (Espaciado entre líneas):** Entre 1.4 y 1.6, dependiendo del tamaño de la fuente y el contexto de uso. Esto asegurará una legibilidad óptima, especialmente en textos más largos.
 
 ### Nomenclature
@@ -126,7 +126,10 @@ la armonía general de la interfaz.
     - **Body 1 / 10px / Regular**  
       Uso: Detalles secundarios, notas, etiquetas pequeñas o textos de ayuda.
 - **Tipo de lenguaje**
-        
+  Utilizamos un lenguaje formal para garantizar que los usuarios comprendan 
+claramente la información proporcionada. Este enfoque también refleja nuestro 
+compromiso con la seriedad y profesionalismo en el tratamiento de la salud 
+mental.
 
 ### 4.1.2. Web Style Guidelines
 
@@ -279,19 +282,46 @@ Las etiquetas reflejan el contenido de nuestro proyecto, abarcando tanto la Land
 
 Para la landing page:
 - **Título:** PSYMED - Plataforma de Gestión de Salud Mental
-- **Descripción:** PSYMED es una plataforma de gestión de salud mental que conecta a psiquiatras y pacientes para mejorar la atención y el seguimiento de los tratamientos. Regístrate hoy y descubre una nueva forma de cuidar tu salud mental.
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - LandingPage .
+- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes. 
+- **Author:** closedSource
+para el Web Side: 
+- **Título:** PSYMED - Plataforma de Gestión de Salud Mental
+- **Descripción:** PSYMED - plataforma de gestión de salud mental - Web Side .
+- **keywords:** Salud Mental,Psiquiatras, Software, Citas Médicas, Historial Clínico, Plataforma Psicólogos, Registro Pacientes, Tratamiento Psicológico, Seguimiento Pacientes.
+- **Author:** closedSource
 
 ### 4.2.4. Searching Systems
-- busqueda de motas por fechas
-- busqueda de sesiones por fecha
-- busqueda de diagnosticos por fecha
-- busqueda de tareas por ID
-- busqueda de prescripciones por fecha
-- ver sessiones por fecha
-- confirmacion de tareas por ID
+Los médicos pueden utilizar los métodos de búsqueda por:
+
+- Filtrado de Información por Fechas:
+    - Búsqueda de notas por fecha
+    - Búsqueda de sesiones por fecha
+    - Búsqueda de diagnósticos por fecha
+    - Búsqueda de prescripciones por fecha
+    - Ver sesiones por fecha
+  
+Los pacientes pueden utilizar los metodos de busqueda por: 
+- Filtrado de informacion por ID
+    - busqueda de tareas por ID
+    - confirmacion de tareas por ID
 
 ### 4.2.5. Navigation Systems
-floro por ver 
+Claro, aquí tienes una versión más concisa del sistema de navegación:
+
+---
+
+**4.2.5. Sistemas de Navegación**
+
+**Para Psiquiatras:**
+
+En la plataforma para profesionales de salud mental, tras iniciar sesión, los usuarios acceden a un panel de control con un menú superior que incluye "Inicio", "Pacientes", "Agenda", "Perfil" y "Ajustes". En "Pacientes", pueden ver y gestionar perfiles detallados de los pacientes, incluyendo historial de citas y tratamientos. "Agenda" muestra un calendario con citas programadas y permite agendar nuevas, modificar horarios y enviar recordatorios. En "Perfil", se actualiza la información personal y en "Ajustes", se gestionan aspectos de seguridad de la cuenta.
+
+**Para Pacientes:**
+
+Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
+
+Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
