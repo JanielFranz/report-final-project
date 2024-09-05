@@ -418,7 +418,7 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 - Biological Functions (Funciones Biológicas): Indicadores físicos del paciente (como sueño, apetito, nivel de energía, etc.) que se registran diariamente en la aplicación.
 
 
-- Emotional State (Estado Emocional): Escala del 1 al 10 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
+- Emotional State (Estado Emocional): Escala del 1 al 5 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
 
 
 - Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental.
