@@ -265,10 +265,14 @@ Entrevistado 2:
 
 Resumen:
 
-La entrevistada menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando comenzó a tener problemas personales con su familia. Comenta que las sesiones no fueron de su agrado, que las interacciones con el terapeuta después de las sesiones no eran frecuentes, que le cambiaban de terapeuta constantemente y que no le gustaba la forma en que usaban un bot de WhatsApp para agendarle las citas. Finalmente, nos brindó feedback:
-- Un botón de emergencia para situaciones de crisis.
-- Un chat en tiempo real con el terapeuta.
-- Una mejor forma de agendar las citas.
+La entrevistada mencionó que utiliza plataformas digitales diariamente y que su navegador predeterminado es Chrome. Comentó que empezó a buscar ayuda profesional debido a problemas familiares y personales. Con el tiempo, sintió desinterés por parte de su terapeuta y experimentó cambios frecuentes de profesional, lo que dificultaba el seguimiento de su caso en el centro donde se atendía. Solo utilizaban un bot de WhatsApp para agendar citas, lo cual resultaba inadecuado. Le gustaría contar con una plataforma que le permita llevar un control adecuado de sus sesiones y tratamiento.
+Finalmente, ofreció sugerencias para mejorar el proyecto, incluyendo:
+
+- Información sobre tips de autoayuda.
+- Interacciones virtuales para momentos de crisis.
+- Recordatorios de citas.
+- Información general sobre el terapeuta.
+- Cifrado de datos personales.
 
 Entrevistado 3:
 
@@ -285,10 +289,13 @@ Entrevistado 3:
 
 Resumen:
 
-El entrevistado menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando tuvo problemas de sueño y de concentración. Comenta que las sesiones con el terapeuta fueron de su agrado, que se sintió cómodo en todo momento con la comunicación que tuvo con su terapeuta, quien le enviaba recordatorios de la sesión por correo y que tuvo sesiones virtuales cuando viajaba a otros lugares. Comenta que ha usado plataformas médicas para gestionar algunos de sus problemas de salud y que lo que más le molestaba era realizar pagos por la aplicación. Finalmente, nos brindó feedback:
-- Un chat en tiempo real con el terapeuta.
-- Una mejor forma de agendar las citas.
-- Una mejor forma para realizar los pagos.
+El entrevistado mencionó que utiliza plataformas digitales diariamente y que su navegador predeterminado es Chrome o Firefox. Comentó que comenzó a buscar ayuda profesional después de la pandemia debido a problemas de sueño, estrés y ansiedad. Además, señaló que su psicólogo le envía mensajes de texto para recordarle la información y los acuerdos de la sesión anterior, y lleva un control de sus sesiones y tratamiento.
+Por último, ofreció observaciones sobre otras plataformas que ha utilizado, destacando que eran accesibles, amigables y eficaces para la gestión, pero con fallas en el redireccionamiento y los pagos en el sistema. También proporcionó retroalimentación sobre el proyecto, sugiriendo las siguientes mejoras:
+
+- Recordatorios de citas.
+- Reuniones o citas web.
+- Seguridad mediante cifrado, visible solo para el terapeuta.
+- Protección de la información personal médica.
 
 ### 2.2.3 Análisis de entrevistas
 
