@@ -21,27 +21,6 @@ cada etapa de su interacción con la plataforma.
   <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2Fcompetidores%2FPSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
 
-
-- **Typography:Roboto:** 
-Para nuestra plataforma, hemos elegido **Roboto** como la tipografía
-  principal, por su diseño moderno, limpio y altamente legible. Esta
-  fuente nos permite presentar la información de manera clara y
-  profesional, garantizando que tanto los psiquiatras como los
-  pacientes puedan interactuar con la aplicación de forma intuitiva
-  y sin esfuerzo. 
-Roboto se utilizará para todos los textos de la plataforma,
-desde encabezados y títulos hasta cuerpos de texto y botones de
-acción. Su versatilidad en cuanto a pesos nos permitirá destacar
-la información crítica, mientras que su geometría precisa asegurará
-una experiencia de lectura cómoda y agradable en cualquier dispositivo.
-Esta elección refuerza nuestro compromiso de ofrecer un entorno 
-digital que no solo sea funcional, sino también estéticamente 
-atractivo y accesible para todos los usuarios.
-
-<div style="text-align: center;">
-  <img src="..%2F..%2Fassets%2Ftypograifa.png" alt="slide de Roboto" style="max-width: 100%; height: auto;">
-</div>
-
 - **Colors:**
 Nuestra paleta de colores se ha seleccionado para proporcionar un 
 entorno digital de apoyo a la salud mental y el bienestar, tanto para 
@@ -197,7 +176,7 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-![OrgSistMedicos.png](..%2F..%2Fassets%2FOrgSistMedicos.png)
+![OrgSistMedicos.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistMedicos.png)
 ---
 **Pacientes:**
 Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
@@ -210,7 +189,7 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-![OrgSistPacientes.png](..%2F..%2Fassets%2FOrgSistPacientes.png)
+![OrgSistPacientes.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 **Medicos:**
@@ -311,11 +290,6 @@ Los pacientes pueden utilizar los metodos de busqueda por:
     - confirmacion de tareas por ID
 
 ### 4.2.5. Navigation Systems
-Claro, aquí tienes una versión más concisa del sistema de navegación:
-
----
-
-**4.2.5. Sistemas de Navegación**
 
 **Para Psiquiatras:**
 
