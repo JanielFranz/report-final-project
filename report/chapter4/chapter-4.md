@@ -188,7 +188,7 @@ aplicación, es crucial facilitar una navegación satisfactoria
 para el usuario. La estructura que hemos definido es la 
 siguiente:<br>
 
-**Psiquiatras:**
+**Medicos:**
 Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Perfil" y "Ajustes".
 
 En la sección "Pacientes", los profesionales pueden ver una lista de sus pacientes actuales y seleccionar un paciente para acceder a su perfil detallado, que incluye historial de citas, notas clínicas por sesión y tratamientos en curso. En la opción de "Tratamientos en curso" se puede acceder a opciones tales como diagnósticos, datos fisiológicos, registro de estados de ánimo y tareas asignadas.
@@ -197,6 +197,7 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
+![OrgSistMedicos.png](..%2F..%2Fassets%2FOrgSistMedicos.png)
 ---
 **Pacientes:**
 Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
@@ -209,16 +210,18 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
+![OrgSistPacientes.png](..%2F..%2Fassets%2FOrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
-**Psiquiatras:**
+**Medicos:**
+
 **inicio**
 - Iniciar sesión
 - Registrarse 
-- Recuperar su contraseña .
+- Recuperar su contraseña
 
 **Pagina principal**
-- pacientes
+- Pacientes
 - Agenda
 - Perfil
 - Ajustes
@@ -232,6 +235,7 @@ En la sección "Perfil" se puede visualizar y actualizar la información persona
           - Datos fisiológicos
           - Registro de estados de ánimo
           - Tareas asignadas
+          - Asignar Medicamentos
 
 **Agenda:** 
 - Agendar nuevas consultas
@@ -270,7 +274,7 @@ En la sección "Perfil" se puede visualizar y actualizar la información persona
 - Marcar como completadas
 
 **Tratamiento Actual:** 
-- Prescripciones
+- Registro de Medicamentos
 - Diagnóstico Actual
 - Formulario de Estados de Ánimo
     - Registro de Estados Fisiológicos
