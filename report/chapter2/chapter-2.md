@@ -270,11 +270,12 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
+![AL-medic1.jpg](/assets/public/imagenes/Estadisticas%20Forms/Mental%20Medic/AL-medic1.jpg)
 ![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
 ![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
 ![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
 ![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+- 
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento 
@@ -321,7 +322,7 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-Patient.png](/assets/public/imagenes/Segmentos%20Obj/So-patient.png)
 
 ## **User Task Matrix**
 
@@ -417,7 +418,7 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 - Biological Functions (Funciones Biológicas): Indicadores físicos del paciente (como sueño, apetito, nivel de energía, etc.) que se registran diariamente en la aplicación.
 
 
-- Emotional State (Estado Emocional): Escala del 1 al 10 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
+- Emotional State (Estado Emocional): Escala del 1 al 5 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
 
 
 - Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental.
