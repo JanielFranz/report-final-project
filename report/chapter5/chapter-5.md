@@ -374,13 +374,13 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
+Para el despliegue de la Landing Page, utilizamos la herramienta GitHub Pages para realizar el deployment. Creamos un repositorio en el cual almacenamos el código de nuestra Landing Page.
 
-![alt text](<../assets/imgs/Github Repositorio.png>)
+![alt text](</assets/Github Repositorio.png>)
 
-Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web.
 
-![alt text](<../assets/imgs/Github Pages.png>)
+![alt text](</assets/Github Pages.png>)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
