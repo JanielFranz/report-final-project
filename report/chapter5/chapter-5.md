@@ -213,62 +213,32 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">5</td>
-    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">1</td>
-    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
-    <td colspan="3">Como visitador del alding page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Fabricio</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Anatoly, Valentino, Romina, Franz y Sihuar</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">16</td>
-    <td colspan="2">Sección de Creadores</td>
+    <td colspan="1">US03</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Mathias</td>
+    <td colspan="2">Sihuar</td>
     <td colspan="1">Done</td>
 <tr>
-    <td colspan="1">13</td>
-    <td colspan="2">Visualización de servicios</td>
+    <td colspan="1">US04</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
     <td colspan="1">3</td>
-    <td colspan="2">Añadir sección de servicios</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">14</td>
-    <td colspan="2">Sección de contacto</td>
-    <td colspan="1">4</td>
-    <td colspan="2">Añadir sección de contacto</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Gabriel</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">15</td>
-    <td colspan="2">Sección nosotros</td>
-    <td colspan="1">5</td>
-    <td colspan="2">Añadir sección nosotros</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">16</td>
-    <td colspan="2">Sección de inicio</td>
-    <td colspan="1">6</td>
-    <td colspan="2">Añadir sección de inicio</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Diego</td>
+    <td colspan="2">Valentino</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
