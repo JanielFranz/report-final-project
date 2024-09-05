@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/PSYMED.png" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/public/imagenes/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/public/imagenes/competidores/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/public/imagenes/competidores/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/PSYMED.png" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -158,7 +158,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/public/imagenes/Interviews/Interview1PR.jpeg">
+  <img src="/assets/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                           |
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/public/imagenes/Interviews/Interview2.jpeg">
+  <img src="/assets/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/public/imagenes/InterviewsInterview3.jpeg">
+  <img src="/assets/InterviewsInterview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/public/imagenes/Interviews/Interview1.jpeg"/></img>
+    <img src="/assets/Interview1.jpeg"/></img>
 </div>
 
 | Nombre               | Ximena        |
@@ -270,11 +270,11 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](/assets/public/imagenes/Estadisticas%20Forms/Mental%20Medic/AL-medic1.jpg)
-![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
-![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
-![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
-![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+![AL-medic1.jpg](/assets/AL-medic1.jpg)
+![AL-medic2.jpg](/assets/AL-medic2.jpg)
+![AL-medic3.jpg](/assets/AL-medic3.jpg)
+![AL-medic4.jpg](/assets/AL-medic4.jpg)
+![Al-medic5.jpg](/assets/AL-medic5.jpg)
 - 
 - **Segmento 2: Pacientes**
 
@@ -287,10 +287,10 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran 
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
-![Al-Pat1.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
-![Al-pat2.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
-![Al-pat3.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
-![Al-pat4.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+![Al-Pat1.png](/assets/Al-Pat1.png)
+![Al-pat2.png](/assets/Al-Pat2.png)
+![Al-pat3.png](/assets/Al-Pat3.png)
+![Al-pat4.png](/assets/Al-Pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -318,11 +318,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+![So-Mental Medic.png](..%2F../assets/So-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](/assets/public/imagenes/Segmentos%20Obj/So-patient.png)
+![So-Patient.png](..%2F../assets/So-patient.png)
 
 ## **User Task Matrix**
 
@@ -376,9 +376,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/UJMMedico.png)
+![Texto alternativo](../../assets/UJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/UJMPaciente.png)
+![Texto alternativo](../../assets/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -387,9 +387,9 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/EMMedico.png)
+![Texto alternativo](../../assets/EMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/EMPaciente.png)
+![Texto alternativo](../../assets/EMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
