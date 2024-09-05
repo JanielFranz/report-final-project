@@ -322,7 +322,7 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-Patient.png](/assets/public/imagenes/Segmentos%20Obj/So-patient.png)
 
 ## **User Task Matrix**
 
