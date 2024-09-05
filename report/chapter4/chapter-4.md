@@ -314,43 +314,43 @@ floro por ver
 
 #### System Context Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ContextDiagram.png)
+![C4Model](/assets/public/imagenes/c4Model/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ContainerDiagram.png)
+![C4Model](/assets/public/imagenes/c4Model/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramAccess.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramAccess.png)
 
 #### Bounded Context Sessions Management Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramSession.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramSession.png)
 
 #### Bounded Context Task Management Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramTask.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTask.png)
 
 #### Bounded Context Clinical Management Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramClinical.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramClinical.png)
 
 #### Bounded Context Tracking Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramTracking.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTracking.png)
 
 #### Bounded Context Payment Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramPayment.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramPayment.png)
 
 #### Bounded Context Communication Diagram
 
-![alt text](/assets/public/imagenes/c4 model/ComponentDiagramCommunication.png)
+![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
