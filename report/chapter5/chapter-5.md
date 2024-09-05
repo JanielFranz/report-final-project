@@ -388,8 +388,17 @@ Para el desarrollo de este primer sprint, todos los miembros del equipo desarrol
 
 Commits:
 
-![alt text](../assets/imgs/Insights.png)
+![alt text](/assets/imgs/Insights.png)
 
 Analiticas de Colaboración:
 
-![alt text](../assets/imgs/AnaliticasLanding.png)
+![alt text](/assets/imgs/AnaliticasLanding.png)
+
+# Conclusiones 
+
+En conclusión, PsyMed se posiciona como una solución esencial en un entorno donde la gestión eficiente de pacientes y la colaboración entre profesionales de la salud mental son cada vez más necesarias. La plataforma aborda la falta de herramientas tecnológicas integradas en los centros psiquiátricos, ofreciendo una solución que centraliza y organiza la información clínica, facilitando el seguimiento de los pacientes y mejorando la calidad del tratamiento.
+
+# Bibliografia
+- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
