@@ -1,3 +1,27 @@
+# CARÁTULA
+
+#### Universidad de Ciencias Aplicadas
+#### Ingeniería de Software
+#### Quinto ciclo
+#### Sección: SI729
+#### Docente: Angel Augusto Velasquez Nuñez
+#### "Informe del Trabajo Final"
+#### Closed Source
+#### PSYMED
+#### Relación de integrantes:
+
+- Maita Falckenheiner, Romina Guadalupe
+- Escalante Baygorrea, Franz Janiel
+- Cervantes Erequita, Sebastian Valentino
+- Noriega Suschenko, Analoty Andrey
+- Ccotarma Ttito, Eduardo Eusebio Sihuar
+
+#### Agosto 2024
+
+
+
+
+
 # Registro de Versiones del Informe
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
@@ -6,6 +30,12 @@
 
 
 # Project Report Collaboration Insights
+Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestionar el progreso grupal.
+En Trello hemos organizado las tareas de cada integrante y con ello se puede visualizar el avance de cada asignación.
+
+Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
+[ClosedSource.com](https://github.com/WX55-Closed-Source)
+
 
 # Contenido
 ## Tabla de Contenidos
@@ -98,3 +128,26 @@
 
 ### [Bibliografía](#bibliografc3ada-1)
 ### [Anexos](#anexos-1)
+
+# Student Outcome
+El curso tiene el Student Outcome 3, el cual consiste en la capacidad de de comunicarse efectivamente con un rango de audiencias.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones reralizadas de manera grupal.
+
+| Criterio Específico                                                  | Acciones realizadas | Conclusiones |
+|----------------------------------------------------------------------|---------------------|--------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia  | TB1:                |              |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia | TB1:                |              |
+
+
+# Capítulo I: Introducción
+## 1.1. StartUp Profile
+### 1.1.1. Description de la StartUp
+PsyMed es una plataforma web diseñada para optimizar la gestión y el seguimiento de pacientes en centros psiquiátricos. La aplicación facilita la comunicación continua entre psiquiatras y pacientes, permitiendo un monitoreo integral del progreso, el seguimiento personalizado de tratamientos, y la gestión eficiente de citas y notas clínicas en un entorno seguro y accesible. PsyMed se enfoca en mejorar la calidad de la atención al proporcionar herramientas que permiten a los profesionales de la salud mental mantenerse conectados con sus pacientes de manera efectiva y con información actualizada en todo momento.
+### 1.1.2. Perfiles de integrantes del equipo
+| ![yisusxd.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FPerfiles%20del%20equipo%2Fyisusxd.jpg)      | **Nombre y Apellido:**<br>Anatoly Andrey Noriega Suschenko<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Mi nombre es Anatoly Andrey Noriega Suschenko, tengo 20 años. Estoy estudiando la carrera de Ingeniería de Software y actualmente me encuentro en el sexto ciclo de mi carrera. Me gustan mucho los videojuegos, las computadoras y manejo lenguajes como C++, Python, HTML, entre otros. También soy bueno trabajando con grupos y estoy dispuesto a apoyar a mi grupo en cualquier cosa. |
+|:--------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![valentino.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FPerfiles%20del%20equipo%2Fvalentino.jpg)  | **Nombre y Apellido:**<br>Valentino Sebastián Cervantes Erequita<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy un estudiante de 6 ciclo de la UPC, me especializo en frontend y base de datos, me gusta la música y los videojuegos.                                                                                                                                                                                                                                                            |
+| ![sihuar.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FPerfiles%20del%20equipo%2Fsihuar.jpg)        | **Nombre y Apellido:**<br>Sihuar Ccotarma Ttito<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Me gusta mucho el mundo de la informática, tecnología y los videojuegos. Me gustan los shooters y mobas. De vez en cuando diseño pequeños proyectos de juegos como replicar mecánicas o interfaces que me parecen interesantes. También me gusta viajar y la música. Estoy comprometido a apoyar al grupo lo mejor posible.                                                                           |
+| ![romina.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FPerfiles%20del%20equipo%2Fromina.jpg)        | **Nombre y Apellido:**<br>Romina Guadalupe Maita Falckenheiner<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy estudiante a tiempo completo, me apasiona programar y me gustaría especializarme en Data Science o Desarrollo de Videojuegos en un futuro.                                                                                                                                                                                                                                         |
+| ![franz.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FPerfiles%20del%20equipo%2Ffranz.jpg)          | **Nombre y Apellido:**<br>Janiel Franz Escalante Baygorrea<br>**Carrera:**<br>Ing. de Software<br>**Acerca de:**<br>Soy Franz Escalante, actualmente estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas UPC. Me considero una persona responsable y perseverante. En mis ratos libres me gusta practicar deporte y escuchar música.                                                                           
