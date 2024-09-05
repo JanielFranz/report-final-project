@@ -307,3 +307,54 @@ floro por ver
 ### 4.4.4. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
+
+## 4.6. Domain-Driven Software Architecture
+
+### 4.6.1. Software Architecture Context Diagram
+
+#### System Context Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ContextDiagram.png)
+
+### 4.6.2. Software Architecture Container Diagrams
+
+#### Container Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ContainerDiagram.png)
+
+### 4.6.3. Software Architecture Components Diagrams
+
+#### Bounded Context Access Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramAccess.png)
+
+#### Bounded Context Sessions Management Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramSession.png)
+
+#### Bounded Context Task Management Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramTask.png)
+
+#### Bounded Context Clinical Management Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramClinical.png)
+
+#### Bounded Context Tracking Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramTracking.png)
+
+#### Bounded Context Payment Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramPayment.png)
+
+#### Bounded Context Communication Diagram
+
+![alt text](/assets/public/imagenes/c4 model/ComponentDiagramCommunication.png)
+
+## 4.7. Software Object-Oriented Design.
+### 4.7.1. Class Diagrams.
+### 4.7.2. Class Dictionary.
+
+## 4.8. Database Design.
+### 4.8.1. Database Diagram.
