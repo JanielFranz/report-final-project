@@ -396,3 +396,40 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
   ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
   ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+
+## 2.4. Ubiquitous Language
+
+- Patient (Paciente): Persona que recibe atención de un profesional de salud mental y cuyo progreso es monitoreado mediante la aplicación. El paciente puede ingresar información sobre sus funciones biológicas y estado emocional.
+
+
+- Mental Health Professional (Profesional de la Salud Mental): Persona encargada de la gestión y seguimiento de uno o varios pacientes. Este profesional puede registrar y actualizar información clínica, citas, medicamentos, y realizar un seguimiento del progreso del paciente.
+
+
+- Session (Sesión): Interacción entre el profesional de la salud mental y el paciente. Cada sesión puede generar notas, diagnósticos y actualizaciones en el historial clínico del paciente.
+
+
+- Medical History (Historial Clínico): Registro acumulativo de información médica relevante sobre el paciente, incluyendo diagnósticos, tratamientos, y antecedentes.
+
+
+- Medication (Medicamento): Tratamiento prescrito al paciente por el profesional de la salud mental. El estado de los medicamentos puede ser monitoreado y ajustado a lo largo del tiempo.
+
+
+- Biological Functions (Funciones Biológicas): Indicadores físicos del paciente (como sueño, apetito, nivel de energía, etc.) que se registran diariamente en la aplicación.
+
+
+- Emotional State (Estado Emocional): Escala del 1 al 10 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
+
+
+- Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental.
+
+
+- Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones y en el historial clínico del paciente.
+
+
+- Clinical Notes (Notas Clínicas): Observaciones y comentarios registrados por el profesional de la salud mental durante o después de una sesión con el paciente.
+
+
+- Follow-up (Seguimiento): Proceso mediante el cual el profesional de la salud mental revisa y ajusta el tratamiento y plan del paciente, basándose en los datos recolectados (estado emocional, funciones biológicas, y otros).
+
+
+- Dashboard (Panel de Control): Vista donde el profesional de la salud mental puede ver información relevante de los pacientes, como próximos seguimientos, estado de las funciones biológicas, y citas programadas
