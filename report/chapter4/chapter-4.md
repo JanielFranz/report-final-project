@@ -531,3 +531,5 @@ Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-be
 
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+
+![DataBase.jpg](/assets/DataBase.jpeg)
