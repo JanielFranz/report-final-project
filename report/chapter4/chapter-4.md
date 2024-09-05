@@ -365,6 +365,12 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
+
+Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-bea1-8a983beb6583/edit?viewport_loc=-19574%2C-3813%2C32805%2C14350%2C0_0&invitationId=inv_8d161d3e-822a-4e4e-a73f-f13b83d9a00d
+
+![Class Diagram](/assets/public/imagenes/SoftwareOOD/ClassDiagram.png)
+
+
 ### 4.7.2. Class Dictionary.
 
 ## 4.8. Database Design.
