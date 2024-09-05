@@ -255,52 +255,76 @@ una de las tareas identificadas para el sprint.
         <th colspan="2">Commited on (Date)</th>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">b6d10b1</td>
-        <td colspan="2">feat: added contact section</td>
+        <td colspan="2">e82274c</td>
+        <td colspan="2">chore: first commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">4808ace</td>
-        <td colspan="2">feat: Added "Our Services" code</td>
+        <td colspan="2">50b05f3</td>
+        <td colspan="2">feat(html): hero created</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">168d5f0</td>
-        <td colspan="2">chore: initial commit</td>
+        <td colspan="2">515afa7</td>
+        <td colspan="2">feat(html): structure of about us created</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">7ace2eb</td>
-        <td colspan="2">fix: updated image errors</td>
+        <td colspan="2">2ec2ab5</td>
+        <td colspan="2">refactor(html): members html restructured</td>
         <td colspan="2">-</td>
-        <td colspan="2">10/04/2024</td>
+        <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">b96e52c</td>
-        <td colspan="2">fix: updated menu.js</td>
+        <td colspan="2">6efcffd</td>
+        <td colspan="2">add div PSYMED</td>
         <td colspan="2">-</td>
-        <td colspan="2">10/04/2024</td>
+        <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
-        <td colspan="2">Open-Source-Grupo-Testigos-de-Jehova/Landing-page-MedicDefense</td>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
         <td colspan="2">Main</td>
-        <td colspan="2">0ad72ce</td>
-        <td colspan="2">feat: add 'About Us' and 'Our Services' sections to landing page</td>
+        <td colspan="2">ec63485</td>
+        <td colspan="2">feat: added the 3 suscriptions plans.</td>
         <td colspan="2">-</td>
-        <td colspan="2">06/04/2024</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">d9bf7cb</td>
+        <td colspan="2">feat(about-us): added about us section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c325e96</td>
+        <td colspan="2">feat(about-the-product): added about the product section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/landing-page</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">c152499</td>
+        <td colspan="2">refactor: updating Images</td>
+        <td colspan="2">-</td>
+        <td colspan="2">04/09/2024</td>
     </tr>
 </table>
 
