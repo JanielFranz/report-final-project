@@ -297,7 +297,7 @@ El segmento inicial para la implementación de esta plataforma estará compuesto
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](</assets/Lean UX Canvas.png>)
+![Lean UX Canvas](</assets/Lean UX Canvas2.png>)
 
 ### Segmentos objetivo
 - Psiquiatras y Profesionales de la Salud Mental:
