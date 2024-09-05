@@ -18,7 +18,7 @@ transmite confianza y un enfoque moderno, asegurando que
 tanto los médicos como sus pacientes se sientan apoyados en
 cada etapa de su interacción con la plataforma.
 <div style="text-align: center;">
-  <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2Fcompetidores%2FPSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+  <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
 
 - **Colors:**
@@ -176,7 +176,7 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-![OrgSistMedicos.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistMedicos.png)
+![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
 **Pacientes:**
 Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
@@ -189,7 +189,7 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-![OrgSistPacientes.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistPacientes.png)
+![OrgSistPacientes.png](/assets/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 **Medicos:**
@@ -303,9 +303,9 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-![Fidelidad 2.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FWireframes%2FFidelidad%202.jpg)
+![Fidelidad 2.jpg](/assets/Fidelidad2.jpg)
 ### 4.3.2. Landing Page Mock-up
-![Mockups Landing.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FMockups%2FMockups%20Landing.jpg)
+![Mockups Landing.jpg](/assets/MockupsLanding.jpg)
 
 ## 4.4. Web Applications UX/UI Design
 

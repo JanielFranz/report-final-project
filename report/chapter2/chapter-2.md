@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/PSYMED.png/" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/public/imagenes/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/public/imagenes/competidores/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/public/imagenes/competidores/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/PSYMED.png/" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -158,7 +158,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/public/imagenes/Interviews/Interview1PR.jpeg">
+  <img src="/assets/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                           |
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/public/imagenes/Interviews/Interview2.jpeg">
+  <img src="/assets/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/public/imagenes/Interviews/Interview3.jpeg">
+  <img src="/assets/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/public/imagenes/Interviews/Interview1.jpeg"/></img>
+    <img src="/assets/Interview1.jpeg"/></img>
 </div>
 
 | Nombre               | Ximena        |
@@ -264,7 +264,7 @@ proyecto con las siguientes ideas:
 Entrevistado 2:
 
 <div align=center>
-    <img src="/assets/public/imagenes/Interviews/Interview2PT.png"/></img>
+    <img src="/assets/Interview2PT.png"/></img>
 </div>
 
 
@@ -301,7 +301,7 @@ el proyecto con las siguientes ideas:
 Entrevistado 3:
 
 <div align=center>
-    <img src="/assets/public/imagenes/Interviews/Interview3PT.png"/></img>
+    <img src="/assets/Interview3PT.png"/></img>
 </div>
 
 
@@ -461,16 +461,16 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/public/imagenes/Graphics/UJMMedico.png)
+![Texto alternativo](../../assets/UJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/public/imagenes/Graphics/UJMPaciente.png)
+![Texto alternativo](../../assets/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 Para la creación del Empathy Map, hemos utilizado la información obtenida de nuestros dos User Personas que representan nuestro segmento objetivo. Este mapa nos permite profundizar en la comprensión de las necesidades, pensamientos, emociones y comportamientos de los usuarios, ayudándonos a diseñar soluciones más alineadas con sus expectativas y experiencias reales.
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/public/imagenes/Graphics/EMMedico.png)
+![Texto alternativo](../../assets/EMMedico.png)
 ### **Segmento 2: Pacientes**
 ![EMPaciente.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FEMPaciente.png)
 ### 2.3.5 As-is Scenario Mapping
