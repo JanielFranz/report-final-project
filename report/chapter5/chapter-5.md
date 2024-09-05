@@ -336,22 +336,41 @@ Para la entrega de este primer Sprint se realizó el desarrollo de la Landing Pa
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
-Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+Para este primer entregable, hemos elaborado la Landing Page del proyecto de "PsyMed". De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
 
-**Sección de inicio**: Se implementó el Header de nuestra Landing Page.
-![alt text](../assets/imgs/header.png)
-**Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
-![alt text](../assets/imgs/nosotros.png)
+**Sección de Inicio**: Se implementó el Header y la página principal de nuestra Landing Page.
+
+![alt text](assets/Landing1.png)
+
+**Sección de Aplicación**: Se implementó la sección de la aplicación detallando el propósito de la misma.
+
+![alt text](assets/Landing2.png)
+
 **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
-![alt text](../assets/imgs/servicios.png)
+
+![alt text](assets/Landing3.png)
+
+![alt text](assets/Landing4.png)
+
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
-![alt text](<../assets/imgs/nuestros planes.png>)
-**Sección de contacto y creadores**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios y la información de los creadores.
-![alt text](../assets/imgs/footer.png)
+
+![alt text](assets/Landing5.png)
+
+**Sección de Creadores**: Se añadió la sección de información sobre los desarrolladores de la plataforma.
+
+![alt text](assets/Landing6.png)
+
+**Sección de About the Team**: Se implementó la sección del About the Team
+
+![alt text](assets/Landing7.png)
+
+**Sección de About the Product**: Se implementó la sección del About the Product
+
+![alt text](assets/Landing8.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En este sprint solo se trabajó el landing page.
+En el presente sprint solo se desarrollo la Landing Page.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
