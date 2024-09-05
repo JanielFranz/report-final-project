@@ -311,9 +311,49 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ### 4.4.1. Web Applications Wireframes
 
+![Agenda](/assets/public/imagenes/WebWireframe/Agenda.png)
+![Agregarpaciente](/assets/public/imagenes/WebWireframe/Agregar%20paciente.png)
+![Cambio](/assets/public/imagenes/WebWireframe/Cambio%20de%20contraseña.png)
+![Citas-1](/assets/public/imagenes/WebWireframe/Citas-1.png)
+![Citas](/assets/public/imagenes/WebWireframe/Citas.png)
+![datos](/assets/public/imagenes/WebWireframe/datos%20del%20paciente.png)
+![Group](/assets/public/imagenes/WebWireframe/Group23.png)
+![HOME](/assets/public/imagenes/WebWireframe/HOME.png)
+![leading-icon](/assets/public/imagenes/WebWireframe/leading-icon.png)
+![ListaPacientes](/assets/public/imagenes/WebWireframe/Lista%20Pacientes.png)
+![LOGIN](/assets/public/imagenes/WebWireframe/LOGIN.png)
+![Perfil](/assets/public/imagenes/WebWireframe/Perfil.png)
+![Psiquiatra](/assets/public/imagenes/WebWireframe/Psiquiatra%20config%20paciente.png)
+![Psiquiatras](/assets/public/imagenes/WebWireframe/Psiquiatras%20Home.png)
+![REGISTER](/assets/public/imagenes/WebWireframe/REGISTER.png)
+![Registro](/assets/public/imagenes/WebWireframe/Registro%20de%20documentacion%20medica.png)
+![Test](/assets/public/imagenes/WebWireframe/Test%20Interidario.png)
+
+
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
+
+![Agenda](/assets/public/imagenes/WebMockUp/Agenda.png)
+![Agregar_paciente](/assets/public/imagenes/WebMockUp/Agregar%20paciente.png)
+![Cambio_de_contraseña](/assets/public/imagenes/WebMockUp/Cambio%20de%20contraseña.png)
+![Citas-1](/assets/public/imagenes/WebMockUp/Citas-1.png)
+![Citas](/assets/public/imagenes/WebMockUp/Citas.png)
+![datos_del_paciente](/assets/public/imagenes/WebMockUp/datos%20del%20paciente.png)
+![Diagrama_Clases_1](/assets/public/imagenes/WebMockUp/Diagrama%20Clases%20(1).png)
+![Group_23](/assets/public/imagenes/WebMockUp/Group%2023.png)
+![HOME](/assets/public/imagenes/WebMockUp/HOME.png)
+![leading-icon](/assets/public/imagenes/WebMockUp/leading-icon.png)
+![Lista_Pacientes](/assets/public/imagenes/WebMockUp/Lista%20Pacientes.png)
+![LOGIN](/assets/public/imagenes/WebMockUp/LOGIN.png)
+![Perfil](/assets/public/imagenes/WebMockUp/Perfil.png)
+![Psiquiatra_config_paciente](/assets/public/imagenes/WebMockUp/Psiquiatra%20config%20paciente.png)
+![Psiquiatras_Home](/assets/public/imagenes/WebMockUp/Psiquiatras%20Home.png)
+![REGISTER](/assets/public/imagenes/WebMockUp/REGISTER.png)
+![Registro_de_documentacion_medica](/assets/public/imagenes/WebMockUp/Registro%20de%20documentacion%20medica.png)
+![Test_Interidiario](/assets/public/imagenes/WebMockUp/Test%20Interidario.png)
+
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
