@@ -203,10 +203,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 - Grabar y comparar comportamientos del paciente
 
 Entrevistado 3:
-
-<div align="center">
-  <img src="/assets/public/imagenes/InterviewsInterview3.jpeg">
-</div>
+![Interview3.jpeg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FInterviews%2FInterview3.jpeg)
 
 | Nombre               | Karina                                                                                                                                         |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -235,14 +232,14 @@ Entrevistado 1:
     <img src="/assets/public/imagenes/Interviews/Interview1.jpeg"/></img>
 </div>
 
-| Nombre               | Ximena        |
-|----------------------|---------------|
-| Apellido             | Falckenheiner |
-| Edad                 | 23 años       |
-| Distrito             | Jesús María   |
-| URL                  | [Entrevistas](hhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo)              |
-| Inicio de entrevista |               |
-| Fin de entrevista    |               |
+| Nombre               | Ximena                                                                                                                                         |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                                  |
+| Edad                 | 23 años                                                                                                                                        |
+| Distrito             | Jesús María                                                                                                                                    |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:07:47 min                                                                                                                                    |
+| Fin de entrevista    | 1:14:21 min                                                                                                                                    |
 
 Resumen:
 
@@ -252,6 +249,46 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 - Agendación de sesiones
 - Poder comunicarse con el terapeuta
 - Tener precaución con exponer los datos personales
+
+Entrevistado 2:
+
+![Interview2PT.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FInterviews%2FInterview2PT.png)
+
+| Nombre               | Ximena                                                                                                                                         |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                                                         |
+| Edad                 | 20 años                                                                                                                                        |
+| Distrito             | Lince                                                                                                                                          |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:14:21 min                                                                                                                                    |
+| Fin de entrevista    | 1:24:32 min                                                                                                                                    |
+
+Resumen:
+
+La entrevistada menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando comenzó a tener problemas personales con su familia. Comenta que las sesiones no fueron de su agrado, que las interacciones con el terapeuta después de las sesiones no eran frecuentes, que le cambiaban de terapeuta constantemente y que no le gustaba la forma en que usaban un bot de WhatsApp para agendarle las citas. Finalmente, nos brindó feedback:
+- Un botón de emergencia para situaciones de crisis.
+- Un chat en tiempo real con el terapeuta.
+- Una mejor forma de agendar las citas.
+
+Entrevistado 3:
+
+![Interview3PT.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FInterviews%2FInterview3PT.png)
+
+| Nombre               | Sebastian                                                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Muñiz                                                                                                                                          |
+| Edad                 | 21 años                                                                                                                                        |
+| Distrito             | Pueblo Libre                                                                                                                                   |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:24:32 min                                                                                                                                    |
+| Fin de entrevista    | 1:39:32 min                                                                                                                                    |
+
+Resumen:
+
+El entrevistado menciona utilizar diariamente plataformas digitales y usar con frecuencia el navegador Chrome. Comentó que empezó a buscar ayuda profesional cuando tuvo problemas de sueño y de concentración. Comenta que las sesiones con el terapeuta fueron de su agrado, que se sintió cómodo en todo momento con la comunicación que tuvo con su terapeuta, quien le enviaba recordatorios de la sesión por correo y que tuvo sesiones virtuales cuando viajaba a otros lugares. Comenta que ha usado plataformas médicas para gestionar algunos de sus problemas de salud y que lo que más le molestaba era realizar pagos por la aplicación. Finalmente, nos brindó feedback:
+- Un chat en tiempo real con el terapeuta.
+- Una mejor forma de agendar las citas.
+- Una mejor forma para realizar los pagos.
 
 ### 2.2.3 Análisis de entrevistas
 
@@ -270,13 +307,12 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
-![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
-![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
-![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
-![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+![AL-medic1.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
+![AL-medic2.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
+![AL-medic3.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
+![AL-medic4.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
+![Al-medic5.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
 - **Segmento 2: Pacientes**
-
 Según los datos recolectados para el análisis de nuestro segmento 
 de pacientes, hemos observado que dos tercios son de género 
 masculino. La mayoría de estos pacientes tienen entre 18 y 30 
@@ -286,10 +322,10 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran 
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
-![Al-Pat1.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
-![Al-pat2.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
-![Al-pat3.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
-![Al-pat4.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+![Al-Pat1.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
+![Al-pat2.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
+![Al-pat3.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
+![Al-pat4.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -317,11 +353,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+![So-Mental Medic.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-patient.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FSegmentos%20Obj%2FSo-patient.png)
 
 ## **User Task Matrix**
 
@@ -375,10 +411,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/UJMMedico.png)
+![UJMMedico.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FUJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/UJMPaciente.png)
-
+![UJMPaciente.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FUJMPaciente.png)
 ## **Emphaty Mapping**
 
 
@@ -386,16 +421,16 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/EMMedico.png)
+![EMMedico.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FEMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/EMPaciente.png)
+![EMPaciente.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FEMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
-- **Segmento objetivo:** Pisquiatra  
-  ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
+- **Segmento objetivo:** Medico 
+![AS-IS Cliente.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Cliente.jpg)
 - **Segmento objetivo:** Paciente    
-  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+![AS-IS Pisquiatra.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FGraphics%2FAS-IS%20Pisquiatra.jpg)
 
 ## 2.4. Ubiquitous Language
 
