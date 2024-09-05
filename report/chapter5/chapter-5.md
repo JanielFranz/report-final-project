@@ -340,33 +340,33 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 
 **Sección de Inicio**: Se implementó el Header y la página principal de nuestra Landing Page.
 
-![alt text](assets/Landing1.png)
+![alt text](/assets/Landing1.png)
 
 **Sección de Aplicación**: Se implementó la sección de la aplicación detallando el propósito de la misma.
 
-![alt text](assets/Landing2.png)
+![alt text](/assets/Landing2.png)
 
 **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
 
-![alt text](assets/Landing3.png)
+![alt text](/assets/Landing3.png)
 
-![alt text](assets/Landing4.png)
+![alt text](/assets/Landing4.png)
 
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
 
-![alt text](assets/Landing5.png)
+![alt text](/assets/Landing5.png)
 
 **Sección de Creadores**: Se añadió la sección de información sobre los desarrolladores de la plataforma.
 
-![alt text](assets/Landing6.png)
+![alt text](/assets/Landing6.png)
 
 **Sección de About the Team**: Se implementó la sección del About the Team
 
-![alt text](assets/Landing7.png)
+![alt text](/assets/Landing7.png)
 
 **Sección de About the Product**: Se implementó la sección del About the Product
 
-![alt text](assets/Landing8.png)
+![alt text](/assets/Landing8.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
