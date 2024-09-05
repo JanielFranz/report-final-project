@@ -300,10 +300,13 @@ En la plataforma para profesionales de salud mental, tras iniciar sesión, los u
 Al ingresar, los pacientes ven un panel con opciones como "Inicio", "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual". En "Lista de Tareas", pueden ver y marcar tareas asignadas como completadas. "Tratamiento Actual" ofrece detalles sobre prescripciones, diagnósticos, estados de ánimo y datos estadísticos. "Citas" permite ver y gestionar citas programadas, mientras que "Perfil" facilita la actualización de la información personal.
 
 Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave tanto para psiquiatras como para pacientes.
-
 ## 4.3. Landing Page UI Design
+
 ### 4.3.1. Landing Page Wireframe
+![Fidelidad 2.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FWireframes%2FFidelidad%202.jpg)
 ### 4.3.2. Landing Page Mock-up
+![Mockups Landing.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FMockups%2FMockups%20Landing.jpg)
+
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
