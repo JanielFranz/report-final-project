@@ -311,6 +311,84 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 ### 4.4.1. Web Applications Wireframes
 
+En esta sección se presentan los Wireframes de la Aplicación Web, con cada pantalla teniendo un nombre y un propósito definido.
+
+Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
+
+![Wireframes.jpg](/assets/Wireframes(9).png)
+
+Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
+
+![Wireframes.jpg](/assets/Wireframes(15).png)
+
+Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
+
+![Wireframes.jpg](/assets/Wireframes(11).png)
+
+Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso de haberla olvidado o de desear cambiarla por motivos de seguridad.
+
+![Wireframes.jpg](/assets/Wireframes(4).png)
+
+Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
+
+![Wireframes.jpg](/assets/Wireframes(14).png)
+
+Perfil Profesional: Sección donde los profesionales pueden ver y editar su información personal y profesional, como nombre, especialidad y datos de contacto.
+
+![Wireframes.jpg](/assets/Wireframes(12).png)
+
+Agregar Paciente: Función que permite a los profesionales registrar nuevos pacientes, ingresando datos personales y clínicos para su seguimiento.
+
+![Wireframes.jpg](/assets/Wireframes(3).png)
+
+Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
+
+![Wireframes.jpg](/assets/Wireframes(10).png)
+
+Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
+
+![Wireframes.jpg](/assets/Wireframes(13).png)
+
+Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
+
+![Wireframes.jpg](/assets/Wireframes(5).png)
+
+Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
+
+![Wireframes.jpg](/assets/Wireframes(6).png)
+
+Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
+
+![Wireframes.jpg](/assets/Wireframes(16).png)
+
+Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
+
+![Wireframes.jpg](/assets/Wireframes(2).png)
+
+Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
+
+![Wireframes.jpg](/assets/Wireframes(7).png)
+
+Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
+
+![Wireframes.jpg](/assets/Wireframes(8).png)
+
+Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
+
+![Wireframes.jpg](/assets/Wireframes(1).png)
+
+Pacientes Home: Pantalla principal de los pacientes, desde la cual pueden acceder a sus funciones, como el registro diario y la visualización de su agenda.
+
+![Wireframes.jpg](/assets/Wireframes(17).png)
+
+Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
+
+![Wireframes.jpg](/assets/Wireframes(18).png)
+
+Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
+
+![Wireframes.jpg](/assets/Wireframes(19).png)
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
@@ -325,50 +403,50 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 #### System Context Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ContextDiagram.png)
+![C4Model](/assets/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ContainerDiagram.png)
+![C4Model](/assets/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramAccess.png)
+![C4Model](/assets/ComponentDiagramAccess.png)
 
 #### Bounded Context Sessions Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramSession.png)
+![C4Model](/assets/ComponentDiagramSession.png)
 
 #### Bounded Context Task Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTask.png)
+![C4Model](/assets/ComponentDiagramTask.png)
 
 #### Bounded Context Clinical Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramClinical.png)
+![C4Model](/assets/ComponentDiagramClinical.png)
 
 #### Bounded Context Tracking Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTracking.png)
+![C4Model](/assets/ComponentDiagramTracking.png)
 
 #### Bounded Context Payment Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramPayment.png)
+![C4Model](/assets/ComponentDiagramPayment.png)
 
 #### Bounded Context Communication Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramCommunication.png)
+![C4Model](/assets/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
 Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-bea1-8a983beb6583/edit?viewport_loc=-19574%2C-3813%2C32805%2C14350%2C0_0&invitationId=inv_8d161d3e-822a-4e4e-a73f-f13b83d9a00d
 
-![Class Diagram](/assets/public/imagenes/SoftwareOOD/ClassDiagram.png)
+![Class Diagram](/assets/ClassDiagram.png)
 
 
 ### 4.7.2. Class Dictionary.
