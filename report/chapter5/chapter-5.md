@@ -22,12 +22,9 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
 
 **Software Development**
-1. Visual Studio Code: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos de
-   dominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del
-   proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltiples
-   lenguajes de programación, disponibilidade en múltiples sistemas operativos, entre otros beneficios.
+1. WebStorm: Entorno de desarrollo integrado elegido por su soporte completo para tecnologías web como JavaScript, HTML, CSS y frameworks como React y Angular. Ofrece refactorización avanzada, depuración, integración con Git y la posibilidad de agregar plugins. Es compatible con varios sistemas operativos, facilitando la colaboración en equipo.
 
-   Ruta de referencia: https://code.visualstudio.com/  
+   Ruta de referencia: https://www.jetbrains.com/webstorm/
    <br>
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
    empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
@@ -65,15 +62,13 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
 
 **Repositorio de GitHub:**
-- Enlace para acceder a la [organización en GitHub](https://github.com/Open-Source-WX55-Group-UFriends)
-- Enlace para acceder al repositorio de la [landing Page](https://github.com/Open-Source-WX55-Group-UFriends/landing-page)
-- Enlace para acceder al repositorio del [reporte final](https://github.com/Open-Source-WX55-Group-UFriends/Report-Final-Project)
+- Enlace para acceder a la [organización en GitHub](https://github.com/WX55-Closed-Source)
+- Enlace para acceder al repositorio de la [landing Page](https://github.com/WX55-Closed-Source/landing-page)
+- Enlace para acceder al repositorio del [reporte final](https://github.com/WX55-Closed-Source/report-final-project)
 
 **Flujo de trabajo GitFlow**
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
-
-## <M Imagen de Realese branches
 
 **Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
@@ -125,7 +120,11 @@ comenzar el despliegue de la landing page. A continuación se enuncian los pasos
 6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
    llevará al Landing Page desplegado
 
-## < GithubPages
+## GithubPages
+
+Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
+De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
+Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
 
 ### 5.2. Landing Page, Services & Applications Implementation.
 
