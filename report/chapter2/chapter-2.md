@@ -14,10 +14,10 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/PsyMed.png" alt="PsyMed"></td>
-    <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
-    <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
-    <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
+    <td>PsyMed<br><img src="/assets/public/imagenes/competidores/PSYMED.png" alt="PsyMed"></td>
+    <td>TherapyNotes<br><img src="/assets/public/imagenes/competidores/TherapyNotes.png" alt="TherapyNotes"></td>
+    <td>Teladoc<br><img src="/assets/public/imagenes/competidores/Teladoc.png" alt="Teladoc"></td>
+    <td>Talkspace<br><img src="/assets/public/imagenes/competidores/Talkspace.png" alt="Talkspace"></td>
 </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -158,7 +158,7 @@ En cuanto a nuestras debilidades, como la falta de un historial probado y los re
 Entrevistado 1:
 
 <div align="center">
-  <img src="/assets/Interview1PR.jpeg">
+  <img src="/assets/public/imagenes/Interviews/Interview1PR.jpeg">
 </div>
 
 | Nombre               | Luis                                                                                                                                           |
@@ -182,7 +182,7 @@ El Doctor Mena utiliza plataformas web diariamente y aplicaciones de índole mé
 Entrevistado 2:
 
 <div align="center">
-  <img src="/assets/Interview2.jpeg">
+  <img src="/assets/public/imagenes/Interviews/Interview2.jpeg">
 </div>
 
 | Nombre               | Alberto                                                                                                                                        |
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="/assets/public/imagenes/InterviewsInterview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -232,7 +232,7 @@ Finalmente, la entrevistada menciona que nuestra plataforma debería tener una s
 Entrevistado 1:
 
 <div align=center>
-    <img src="/assets/Interview1.jpeg"/></img>
+    <img src="/assets/public/imagenes/Interviews/Interview1.jpeg"/></img>
 </div>
 
 | Nombre               | Ximena        |
