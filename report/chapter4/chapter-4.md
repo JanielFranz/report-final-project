@@ -529,6 +529,122 @@ Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-be
 
 ### 4.7.2. Class Dictionary.
 
+<table border="1">
+  <tr>
+    <th colspan="1">#</th>
+    <th colspan="2">Entidad</th>
+    <th colspan="2">Nombre de atributos</th>
+    <th colspan="4">Definición</th>
+    <th colspan="2">Tipo de dato</th>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">1</td>
+    <td rowspan="3" colspan="2">Patient</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">clinicalHistory</td>
+    <td colspan="4">Historia clínica del paciente</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentPlan</td>
+    <td colspan="4">Plan de tratamiento del paciente</td>
+    <td colspan="2">TreatmentPlan</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">2</td>
+    <td rowspan="3" colspan="2">TreatmentPlan</td>
+    <td colspan="2">biologicalFunctions</td>
+    <td colspan="4">Funciones biológicas del paciente</td>
+    <td colspan="2">List<BiologicalFunction></td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentTasks</td>
+    <td colspan="4">Tareas del tratamiento</td>
+    <td colspan="2">List<TreatmentTask></td>
+  </tr>
+  <tr>
+    <td colspan="2">diagnosis</td>
+    <td colspan="4">Diagnóstico del paciente</td>
+    <td colspan="2">Diagnosis</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">3</td>
+    <td rowspan="2" colspan="2">Diagnosis</td>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del diagnóstico</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">code</td>
+    <td colspan="4">Código del diagnóstico</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">4</td>
+    <td rowspan="2" colspan="2">BiologicalFunction</td>
+    <td colspan="2">hunger</td>
+    <td colspan="4">Nivel de hambre del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">thirst</td>
+    <td colspan="4">Nivel de sed del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">5</td>
+    <td rowspan="3" colspan="2">TreatmentTask</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador de la tarea de tratamiento</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre de la tarea</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">completionStatus</td>
+    <td colspan="4">Estado de la tarea</td>
+    <td colspan="2">bool</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">6</td>
+    <td rowspan="2" colspan="2">Professional</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del profesional</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">patients</td>
+    <td colspan="4">Lista de pacientes asignados</td>
+    <td colspan="2">List<Patient></td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">7</td>
+    <td rowspan="3" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del usuario</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">email</td>
+    <td colspan="4">Correo electrónico del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+</table>
+
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
 
