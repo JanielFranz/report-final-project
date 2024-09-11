@@ -18,7 +18,7 @@ transmite confianza y un enfoque moderno, asegurando que
 tanto los médicos como sus pacientes se sientan apoyados en
 cada etapa de su interacción con la plataforma.
 <div style="text-align: center;">
-  <img src="..%2F..%2Fassets%2Fpublic%2Fimagenes%2Fcompetidores%2FPSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
+  <img src="/assets/PSYMED.png" alt="Logo de la platafroma PSYMED" style="max-width: 50%; height: auto;">
 </div>
 
 - **Colors:**
@@ -176,7 +176,7 @@ La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con
 
 En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
 
-![OrgSistMedicos.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistMedicos.png)
+![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
 **Pacientes:**
 Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
@@ -189,7 +189,7 @@ En la sección "Citas" se pueden visualizar las citas programadas por el profesi
 
 En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
 
-![OrgSistPacientes.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FORG%20Sistem%2FOrgSistPacientes.png)
+![OrgSistPacientes.png](/assets/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
 
 **Medicos:**
@@ -303,57 +303,173 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
-![Fidelidad 2.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FWireframes%2FFidelidad%202.jpg)
+![Fidelidad 2.jpg](/assets/Fidelidad2.jpg)
 ### 4.3.2. Landing Page Mock-up
-![Mockups Landing.jpg](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FMockups%2FMockups%20Landing.jpg)
+![Mockups Landing.jpg](/assets/MockupsLanding.jpg)
 
 ## 4.4. Web Applications UX/UI Design
 
 ### 4.4.1. Web Applications Wireframes
 
-![Agenda](/assets/public/imagenes/WebWireframe/Agenda.png)
-![Agregarpaciente](/assets/public/imagenes/WebWireframe/Agregar%20paciente.png)
-![Cambio](/assets/public/imagenes/WebWireframe/Cambio%20de%20contraseña.png)
-![Citas-1](/assets/public/imagenes/WebWireframe/Citas-1.png)
-![Citas](/assets/public/imagenes/WebWireframe/Citas.png)
-![datos](/assets/public/imagenes/WebWireframe/datos%20del%20paciente.png)
-![Group](/assets/public/imagenes/WebWireframe/Group23.png)
-![HOME](/assets/public/imagenes/WebWireframe/HOME.png)
-![leading-icon](/assets/public/imagenes/WebWireframe/leading-icon.png)
-![ListaPacientes](/assets/public/imagenes/WebWireframe/Lista%20Pacientes.png)
-![LOGIN](/assets/public/imagenes/WebWireframe/LOGIN.png)
-![Perfil](/assets/public/imagenes/WebWireframe/Perfil.png)
-![Psiquiatra](/assets/public/imagenes/WebWireframe/Psiquiatra%20config%20paciente.png)
-![Psiquiatras](/assets/public/imagenes/WebWireframe/Psiquiatras%20Home.png)
-![REGISTER](/assets/public/imagenes/WebWireframe/REGISTER.png)
-![Registro](/assets/public/imagenes/WebWireframe/Registro%20de%20documentacion%20medica.png)
-![Test](/assets/public/imagenes/WebWireframe/Test%20Interidario.png)
+En esta sección se presentan los Wireframes de la Aplicación Web, con cada pantalla teniendo un nombre y un propósito definido.
 
+Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
 
+![Wireframes.jpg](/assets/WireFrames(9).png)
+
+Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
+
+![Wireframes.jpg](/assets/WireFrames(15).png)
+
+Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
+
+![Wireframes.jpg](/assets/WireFrames(11).png)
+
+Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso de haberla olvidado o de desear cambiarla por motivos de seguridad.
+
+![Wireframes.jpg](/assets/WireFrames(4).png)
+
+Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
+
+![Wireframes.jpg](/assets/WireFrames(14).png)
+
+Perfil Profesional: Sección donde los profesionales pueden ver y editar su información personal y profesional, como nombre, especialidad y datos de contacto.
+
+![Wireframes.jpg](/assets/WireFrames(12).png)
+
+Agregar Paciente: Función que permite a los profesionales registrar nuevos pacientes, ingresando datos personales y clínicos para su seguimiento.
+
+![Wireframes.jpg](/assets/WireFrames(3).png)
+
+Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
+
+![Wireframes.jpg](/assets/WireFrames(10).png)
+
+Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
+
+![Wireframes.jpg](/assets/WireFrames(13).png)
+
+Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
+
+![Wireframes.jpg](/assets/WireFrames(5).png)
+
+Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
+
+![Wireframes.jpg](/assets/WireFrames(6).png)
+
+Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
+
+![Wireframes.jpg](/assets/WireFrames(16).png)
+
+Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
+
+![Wireframes.jpg](/assets/WireFrames(2).png)
+
+Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
+
+![Wireframes.jpg](/assets/WireFrames(7).png)
+
+Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
+
+![Wireframes.jpg](/assets/WireFrames(8).png)
+
+Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
+
+![Wireframes.jpg](/assets/WireFrames(1).png)
+
+Pacientes Home: Pantalla principal de los pacientes, desde la cual pueden acceder a sus funciones, como el registro diario y la visualización de su agenda.
+
+![Wireframes.jpg](/assets/WireFrames(17).png)
+
+Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
+
+![Wireframes.jpg](/assets/WireFrames(18).png)
+
+Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
+
+![Wireframes.jpg](/assets/WireFrames(19).png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 ### 4.4.3. Web Applications Mock-ups
 
-![Agenda](/assets/public/imagenes/WebMockUp/Agenda.png)
-![Agregar_paciente](/assets/public/imagenes/WebMockUp/Agregar%20paciente.png)
-![Cambio_de_contraseña](/assets/public/imagenes/WebMockUp/Cambio%20de%20contraseña.png)
-![Citas-1](/assets/public/imagenes/WebMockUp/Citas-1.png)
-![Citas](/assets/public/imagenes/WebMockUp/Citas.png)
-![datos_del_paciente](/assets/public/imagenes/WebMockUp/datos%20del%20paciente.png)
-![Diagrama_Clases_1](/assets/public/imagenes/WebMockUp/Diagrama%20Clases%20(1).png)
-![Group_23](/assets/public/imagenes/WebMockUp/Group%2023.png)
-![HOME](/assets/public/imagenes/WebMockUp/HOME.png)
-![leading-icon](/assets/public/imagenes/WebMockUp/leading-icon.png)
-![Lista_Pacientes](/assets/public/imagenes/WebMockUp/Lista%20Pacientes.png)
-![LOGIN](/assets/public/imagenes/WebMockUp/LOGIN.png)
-![Perfil](/assets/public/imagenes/WebMockUp/Perfil.png)
-![Psiquiatra_config_paciente](/assets/public/imagenes/WebMockUp/Psiquiatra%20config%20paciente.png)
-![Psiquiatras_Home](/assets/public/imagenes/WebMockUp/Psiquiatras%20Home.png)
-![REGISTER](/assets/public/imagenes/WebMockUp/REGISTER.png)
-![Registro_de_documentacion_medica](/assets/public/imagenes/WebMockUp/Registro%20de%20documentacion%20medica.png)
-![Test_Interidiario](/assets/public/imagenes/WebMockUp/Test%20Interidario.png)
+En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
 
+Home: Pantalla principal de la aplicación, que proporciona acceso a las diferentes funciones y secciones, como el registro, inicio de sesión y navegación general de la aplicación.
+
+![Wireframes.jpg](/assets/MockUps(9).png)
+
+Register: Sección donde los nuevos usuarios pueden crear una cuenta proporcionando su información personal y credenciales para acceder a la aplicación.
+
+![Wireframes.jpg](/assets/MockUps(15).png)
+
+Login: Pantalla donde los usuarios existentes pueden ingresar sus credenciales para acceder a su cuenta y las funciones principales de la plataforma.
+
+![Wireframes.jpg](/assets/MockUps(11).png)
+
+Cambio de Contraseña: Permite a los usuarios restablecer su contraseña en caso de haberla olvidado o de desear cambiarla por motivos de seguridad.
+
+![Wireframes.jpg](/assets/MockUps(4).png)
+
+Profesionales Home: Pantalla de inicio para los profesionales de la salud, que proporciona acceso a todas las herramientas y funciones disponibles para el manejo de pacientes.
+
+![Wireframes.jpg](/assets/MockUps(14).png)
+
+Perfil Profesional: Sección donde los profesionales pueden ver y editar su información personal y profesional, como nombre, especialidad y datos de contacto.
+
+![Wireframes.jpg](/assets/MockUps(12).png)
+
+Agregar Paciente: Función que permite a los profesionales registrar nuevos pacientes, ingresando datos personales y clínicos para su seguimiento.
+
+![Wireframes.jpg](/assets/MockUps(3).png)
+
+Lista de Pacientes: Pantalla que muestra a los profesionales una lista de todos los pacientes registrados bajo su cuidado, con opciones para ver detalles o realizar acciones.
+
+![Wireframes.jpg](/assets/MockUps(10).png)
+
+Configuración del Paciente: Sección donde los profesionales pueden editar la información y preferencias de cada paciente, incluyendo ajustes clínicos y personales.
+
+![Wireframes.jpg](/assets/MockUps(13).png)
+
+Creación de Cita: Permite a los profesionales agendar nuevas citas para los pacientes, definiendo la fecha, hora y detalles específicos de la consulta.
+
+![Wireframes.jpg](/assets/MockUps(5).png)
+
+Edición de Cita: Función que permite modificar los detalles de una cita previamente agendada, como cambiar la fecha, hora o propósito.
+
+![Wireframes.jpg](/assets/MockUps(6).png)
+
+Registro de Documentación Médica: Sección donde los profesionales pueden cargar y registrar documentos médicos relevantes para cada paciente, como resultados de exámenes o diagnósticos.
+
+![Wireframes.jpg](/assets/MockUps(16).png)
+
+Agenda Profesional: Calendario donde los profesionales pueden ver todas sus citas programadas y tareas pendientes, organizadas de manera diaria o semanal.
+
+![Wireframes.jpg](/assets/MockUps(2).png)
+
+Datos del Paciente: Pantalla que permite a los profesionales acceder a toda la información relevante de un paciente, incluyendo historial médico y documentación.
+
+![Wireframes.jpg](/assets/MockUps(7).png)
+
+Lista de Estados de Ánimo: Sección donde se puede registrar y monitorear los estados de ánimo de los pacientes para dar seguimiento a su evolución emocional.
+
+![Wireframes.jpg](/assets/MockUps(8).png)
+
+Test Interdiario: Función que permite a los pacientes completar un test diario sobre su estado emocional y físico para un monitoreo continuo.
+
+![Wireframes.jpg](/assets/MockUps(1).png)
+
+Pacientes Home: Pantalla principal de los pacientes, desde la cual pueden acceder a sus funciones, como el registro diario y la visualización de su agenda.
+
+![Wireframes.jpg](/assets/MockUps(17).png)
+
+Registro Diario del Paciente: Permite a los pacientes realizar un seguimiento diario de su estado de salud, registrando síntomas, emociones o cambios relevantes.
+
+![Wireframes.jpg](/assets/MockUps(18).png)
+
+Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas programadas con los profesionales, con la posibilidad de recibir recordatorios y actualizar citas.
+
+![Wireframes.jpg](/assets/MockUps(19).png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
@@ -365,53 +481,171 @@ Este sistema asegura un acceso rápido y sencillo a las funciones y datos clave 
 
 #### System Context Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ContextDiagram.png)
+![C4Model](/assets/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
 
 #### Container Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ContainerDiagram.png)
+![C4Model](/assets/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
 #### Bounded Context Access Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramAccess.png)
+![C4Model](/assets/ComponentDiagramAccess.png)
 
 #### Bounded Context Sessions Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramSession.png)
+![C4Model](/assets/ComponentDiagramSession.png)
 
 #### Bounded Context Task Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTask.png)
+![C4Model](/assets/ComponentDiagramTask.png)
 
 #### Bounded Context Clinical Management Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramClinical.png)
+![C4Model](/assets/ComponentDiagramClinical.png)
 
 #### Bounded Context Tracking Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramTracking.png)
+![C4Model](/assets/ComponentDiagramTracking.png)
 
 #### Bounded Context Payment Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramPayment.png)
+![C4Model](/assets/ComponentDiagramPayment.png)
 
 #### Bounded Context Communication Diagram
 
-![C4Model](/assets/public/imagenes/c4Model/ComponentDiagramCommunication.png)
+![C4Model](/assets/ComponentDiagramCommunication.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
 
 Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-bea1-8a983beb6583/edit?viewport_loc=-19574%2C-3813%2C32805%2C14350%2C0_0&invitationId=inv_8d161d3e-822a-4e4e-a73f-f13b83d9a00d
 
-![Class Diagram](/assets/public/imagenes/SoftwareOOD/ClassDiagram.png)
+![Class Diagram](/assets/ClassDiagram.png)
 
 
 ### 4.7.2. Class Dictionary.
 
+<table border="1">
+  <tr>
+    <th colspan="1">#</th>
+    <th colspan="2">Entidad</th>
+    <th colspan="2">Nombre de atributos</th>
+    <th colspan="4">Definición</th>
+    <th colspan="2">Tipo de dato</th>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">1</td>
+    <td rowspan="3" colspan="2">Patient</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">clinicalHistory</td>
+    <td colspan="4">Historia clínica del paciente</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentPlan</td>
+    <td colspan="4">Plan de tratamiento del paciente</td>
+    <td colspan="2">TreatmentPlan</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">2</td>
+    <td rowspan="3" colspan="2">TreatmentPlan</td>
+    <td colspan="2">biologicalFunctions</td>
+    <td colspan="4">Funciones biológicas del paciente</td>
+    <td colspan="2">List<BiologicalFunction></td>
+  </tr>
+  <tr>
+    <td colspan="2">treatmentTasks</td>
+    <td colspan="4">Tareas del tratamiento</td>
+    <td colspan="2">List<TreatmentTask></td>
+  </tr>
+  <tr>
+    <td colspan="2">diagnosis</td>
+    <td colspan="4">Diagnóstico del paciente</td>
+    <td colspan="2">Diagnosis</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">3</td>
+    <td rowspan="2" colspan="2">Diagnosis</td>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del diagnóstico</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">code</td>
+    <td colspan="4">Código del diagnóstico</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">4</td>
+    <td rowspan="2" colspan="2">BiologicalFunction</td>
+    <td colspan="2">hunger</td>
+    <td colspan="4">Nivel de hambre del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">thirst</td>
+    <td colspan="4">Nivel de sed del paciente</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">5</td>
+    <td rowspan="3" colspan="2">TreatmentTask</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador de la tarea de tratamiento</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre de la tarea</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">completionStatus</td>
+    <td colspan="4">Estado de la tarea</td>
+    <td colspan="2">bool</td>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">6</td>
+    <td rowspan="2" colspan="2">Professional</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del profesional</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">patients</td>
+    <td colspan="4">Lista de pacientes asignados</td>
+    <td colspan="2">List<Patient></td>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">7</td>
+    <td rowspan="3" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Identificador del usuario</td>
+    <td colspan="2">int</td>
+  </tr>
+  <tr>
+    <td colspan="2">name</td>
+    <td colspan="4">Nombre del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+  <tr>
+    <td colspan="2">email</td>
+    <td colspan="4">Correo electrónico del usuario</td>
+    <td colspan="2">String</td>
+  </tr>
+</table>
+
+
+
 ## 4.8. Database Design.
 ### 4.8.1. Database Diagram.
+
+![DataBase.jpg](/assets/DataBase.jpeg)
