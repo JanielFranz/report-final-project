@@ -14,7 +14,7 @@
   </tr>
   <tr>
     <td colspan="2">(En la cabecera colocar por cada competidor nombre y logo)</td>
-    <td>PsyMed<br><img src="/assets/PsyMed.png" alt="PsyMed"></td>
+    <td>PsyMed<br><img src="/assets/PSYMED.png" alt="PsyMed"></td>
     <td>TherapyNotes<br><img src="/assets/TherapyNotes.png" alt="TherapyNotes"></td>
     <td>Teladoc<br><img src="/assets/Teladoc.png" alt="Teladoc"></td>
     <td>Talkspace<br><img src="/assets/Talkspace.png" alt="Talkspace"></td>
@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="/assets/Interview3.jpeg">
+  <img src="/assets/InterviewsInterview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -270,11 +270,12 @@ lado, es interesante destacar que todos ellos prefieren utilizar
 sus celulares como su herramienta principal para el trabajo y la 
 comunicación.
 
-![AL-medic1.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic1.jpg)
-![AL-medic2.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic2.jpg)
-![AL-medic3.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic3.jpg)
-![AL-medic4.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAL-medic4.jpg)
-![Al-medic5.jpg](..%2F..%2Fassets%2FEstadisticas%20Forms%2FMental%20Medic%2FAl-medic5.jpg)
+![AL-medic1.jpg](/assets/AL-medic1.jpg)
+![AL-medic2.jpg](/assets/AL-medic2.jpg)
+![AL-medic3.jpg](/assets/AL-medic3.jpg)
+![AL-medic4.jpg](/assets/AL-medic4.jpg)
+![Al-medic5.jpg](/assets/AL-medic5.jpg)
+- 
 - **Segmento 2: Pacientes**
 
 Según los datos recolectados para el análisis de nuestro segmento 
@@ -286,10 +287,10 @@ herramientas tecnológicas que prefieren utilizar, no muestran una
 inclinación marcada hacia un solo dispositivo, ya que usan en gran 
 medida celulares y laptops, aunque las tablets también son utilizadas 
 con frecuencia.
-![Al-Pat1.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-Pat1.png)
-![Al-pat2.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat2.png)
-![Al-pat3.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat3.png)
-![Al-pat4.png](..%2F..%2Fassets%2FEstadisticas%20Forms%2FPatients%2FAl-pat4.png)
+![Al-Pat1.png](/assets/Al-Pat1.png)
+![Al-pat2.png](/assets/Al-Pat2.png)
+![Al-pat3.png](/assets/Al-Pat3.png)
+![Al-pat4.png](/assets/Al-Pat4.png)
 
 ## 2.3 Needfinding:
 Después de realizar las entrevistas, logramos recopilar información 
@@ -317,11 +318,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Mental%20Medic.png)
+![So-Mental Medic.png](..%2F../assets/So-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F..%2Fassets%2FSegmentos%20Obj%2FSo-Patient.png)
+![So-Patient.png](..%2F../assets/So-patient.png)
 
 ## **User Task Matrix**
 
@@ -375,9 +376,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/UJMMedico.png)
+![Texto alternativo](../../assets/UJMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/UJMPaciente.png)
+![Texto alternativo](../../assets/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -386,9 +387,9 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![Texto alternativo](../../assets/Graphics/EMMedico.png)
+![Texto alternativo](../../assets/EMMedico.png)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/Graphics/EMPaciente.png)
+![Texto alternativo](../../assets/EMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
@@ -396,3 +397,40 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
   ![as-is1](../../assets/AS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
   ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+
+## 2.4. Ubiquitous Language
+
+- Patient (Paciente): Persona que recibe atención de un profesional de salud mental y cuyo progreso es monitoreado mediante la aplicación. El paciente puede ingresar información sobre sus funciones biológicas y estado emocional.
+
+
+- Mental Health Professional (Profesional de la Salud Mental): Persona encargada de la gestión y seguimiento de uno o varios pacientes. Este profesional puede registrar y actualizar información clínica, citas, medicamentos, y realizar un seguimiento del progreso del paciente.
+
+
+- Session (Sesión): Interacción entre el profesional de la salud mental y el paciente. Cada sesión puede generar notas, diagnósticos y actualizaciones en el historial clínico del paciente.
+
+
+- Medical History (Historial Clínico): Registro acumulativo de información médica relevante sobre el paciente, incluyendo diagnósticos, tratamientos, y antecedentes.
+
+
+- Medication (Medicamento): Tratamiento prescrito al paciente por el profesional de la salud mental. El estado de los medicamentos puede ser monitoreado y ajustado a lo largo del tiempo.
+
+
+- Biological Functions (Funciones Biológicas): Indicadores físicos del paciente (como sueño, apetito, nivel de energía, etc.) que se registran diariamente en la aplicación.
+
+
+- Emotional State (Estado Emocional): Escala del 1 al 5 que el paciente utiliza para reportar su estado emocional diario. Esto permite al profesional de la salud mental hacer un seguimiento del bienestar emocional del paciente.
+
+
+- Appointment (Cita): Fecha y hora programada para una sesión entre el paciente y el profesional de la salud mental.
+
+
+- Diagnosis (Diagnóstico): Evaluación médica realizada por el profesional de la salud mental basada en las sesiones y en el historial clínico del paciente.
+
+
+- Clinical Notes (Notas Clínicas): Observaciones y comentarios registrados por el profesional de la salud mental durante o después de una sesión con el paciente.
+
+
+- Follow-up (Seguimiento): Proceso mediante el cual el profesional de la salud mental revisa y ajusta el tratamiento y plan del paciente, basándose en los datos recolectados (estado emocional, funciones biológicas, y otros).
+
+
+- Dashboard (Panel de Control): Vista donde el profesional de la salud mental puede ver información relevante de los pacientes, como próximos seguimientos, estado de las funciones biológicas, y citas programadas
