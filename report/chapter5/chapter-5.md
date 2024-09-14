@@ -107,20 +107,18 @@ siguientes:
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
-Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con
-una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
-comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
 
-1. Crear una carpeta llamada "docs" para alojar el Landing Page.
-2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y
-   una carpeta llamada "img" que contenga las imágenes.
+1. Asegurarse de que los archivos estén en la raíz (root) del repositorio.
+2. Asegurarse de que los archivos sigan las nomenclaturas: "index.html" para la landing page, "styles.css" para los estilos, "main.js" para los scripts, y una carpeta llamada "assets/images" para las imágenes.
 3. Cargar los archivos al repositorio mediante un commit.
-4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
-5. Especificar la carpeta "docs" como la fuente de la página.
-6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
-   llevará al Landing Page desplegado
+4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en este caso el "main".
+5. Especificar la carpeta raíz (root) como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará a la landing page desplegada.
 
 ## GithubPages
+
+![alt text](/assets/GithubPages.png)
 
 Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
