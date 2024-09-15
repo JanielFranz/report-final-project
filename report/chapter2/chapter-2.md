@@ -328,32 +328,26 @@ expectativas de nuestros usuarios.
 
 En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los User Persona (que representan a cada segmento) realizan para cumplir sus objetivos. No se deben confundir tareas (tasks) con opciones o características de software, pues las tareas deben ser realizadas por los segmentos independientemente de la existencia de la solución de software.
 
-### **Segmento 1: Médicos de la salud mental**
 
-| Tareas                                                | Médicos de la salud mental/ Importancia | Médicos de la salud mental/ Frecuencia |
-|-------------------------------------------------------|----------------------------------------|----------------------------------------|
-| Gestión y actualización de historias clínicas         | Alta                                   | Siempre                                |
-| Programación y gestión de citas                       | Alta                                   | Siempre                                |
-| Comunicación con otros profesionales de la salud      | Media                                  | A veces                                |
-| Registro de notas de sesiones                         | Alta                                   | Siempre                                |
-| Acceso a la información médica relevante              | Alta                                   | Siempre                                |
-| Revisión de tratamientos y planes terapéuticos        | Alta                                   | A veces                                |
-| Generación de reportes clínicos                       | Media                                  | A veces                                |
-| Coordinación de reuniones de equipo multidisciplinario| Media                                  | Nunca                                  |
 
-### **Segmento 2: Pacientes**
+| Tareas                                                | Médicos de la salud mental/ Importancia | Médicos de la salud mental/ Frecuencia | Pacientes/ Importancia                 | Pacientes/ Frecuencia                  |
+|-------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| Gestión y actualización de historias clínicas         | Alta                                   | Siempre                                | -                                      | -                                      |
+| Programación y gestión de citas                       | Alta                                   | Siempre                                | Alta                                   | A veces                                |
+| Comunicación con otros profesionales de la salud      | Media                                  | A veces                                | -                                      | -                                      |
+| Registro de notas de sesiones                         | Alta                                   | Siempre                                | -                                      | -                                      |
+| Acceso a la información médica relevante              | Alta                                   | Siempre                                | -                                      | -                                      |
+| Revisión de tratamientos y planes terapéuticos        | Alta                                   | A veces                                | -                                      | -                                      |
+| Generación de reportes clínicos                       | Media                                  | A veces                                | -                                      | -                                      |
+| Coordinación de reuniones de equipo multidisciplinario| Media                                  | Nunca                                  | -                                      | -                                      |
+| Agendar y gestionar citas                             | -                                      | -                                      | Alta                                   | A veces                                |
+| Acceso a información sobre tratamientos               | -                                      | -                                      | Alta                                   | A veces                                |
+| Comunicación con el médico                            | -                                      | -                                      | Alta                                   | A veces                                |
+| Seguimiento de citas y recordatorios                  | -                                      | -                                      | Alta                                   | Siempre                                |
+| Acceso a sus propios registros clínicos               | -                                      | -                                      | Media                                  | A veces                                |
+| Participación en encuestas de seguimiento de salud    | -                                      | -                                      | Media                                  | Nunca                                  |
+| Revisión de facturas y pagos                          | -                                      | -                                      | Media                                  | Nunca                                  |
 
-| Tareas                                                | Pacientes/ Importancia                 | Pacientes/ Frecuencia                  |
-|-------------------------------------------------------|----------------------------------------|----------------------------------------|
-| Agendar y gestionar citas                             | Alta                                   | A veces                                |
-| Acceso a información sobre tratamientos               | Alta                                   | A veces                                |
-| Comunicación con el médico                            | Alta                                   | A veces                                |
-| Seguimiento de citas y recordatorios                  | Alta                                   | Siempre                                |
-| Acceso a sus propios registros clínicos               | Media                                  | A veces                                |
-| Participación en encuestas de seguimiento de salud    | Media                                  | Nunca                                  |
-| Revisión de facturas y pagos                          | Media                                  | Nunca                                  |
-
----
 
 ### **Análisis de la Matriz**
 
