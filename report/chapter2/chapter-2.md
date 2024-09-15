@@ -235,14 +235,14 @@ Entrevistado 1:
     <img src="/assets/Interview1.jpeg"/></img>
 </div>
 
-| Nombre               | Ximena        |
-|----------------------|---------------|
-| Apellido             | Falckenheiner |
-| Edad                 | 23 años       |
-| Distrito             | Jesús María   |
-| URL                  | [Entrevistas](hhttps://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo)              |
-| Inicio de entrevista |               |
-| Fin de entrevista    |               |
+| Nombre               | Ximena                                                                                                                                         |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Falckenheiner                                                                                                                                  |
+| Edad                 | 23 años                                                                                                                                        |
+| Distrito             | Jesús María                                                                                                                                    |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:07:47 minutos                                                                                                                                |
+| Fin de entrevista    | 1:14:23 minutos                                                                                                                                |
 
 Resumen:
 
@@ -252,6 +252,81 @@ La entrevistada menciona utilizar diariamente plataformas digitales y usar con f
 - Agendación de sesiones
 - Poder comunicarse con el terapeuta
 - Tener precaución con exponer los datos personales
+
+Entrevistado 2:
+
+<div align=center>
+    <img src="/assets/Interview2PT.png"/></img>
+</div>
+
+
+| Nombre               | Alejandra                                                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | Chavez                                                                                                                                         |
+| Edad                 | 20 años                                                                                                                                        |
+| Distrito             | Lince                                                                                                                                          |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:14:23 minutos                                                                                                                                |
+| Fin de entrevista    | 1:24:13 minutos                                                                                                                                |
+**Resumen:**
+
+La entrevistada menciona que utiliza plataformas digitales
+diariamente y que su navegador predeterminado es Chrome.
+Comentó que empezó a buscar ayuda profesional cuando comenzó
+a tener problemas familiares y personales. Después de un
+tiempo, sintió cierto desinterés por parte de su terapeuta
+y experimentó cambios frecuentes de terapeuta, lo que
+dificultaba el seguimiento de su caso en el lugar donde
+se atendía. Solo usaban un bot de WhatsApp para agendar
+citas, lo que resultaba inadecuado. Ella gustaría contar
+con una plataforma que le ayude a llevar un control de sus
+sesiones y tratamiento. Finalmente, brindó feedback sobre
+el proyecto con las siguientes ideas:
+
+- Informacion sobre tips de auto-ayuda.
+- Interacciones virtuales para momentos de crisis.
+- Recordatorios de citas.
+- Información general sobre el terapeuta.
+- Cifrado de datos personales.
+
+
+Entrevistado 3:
+
+<div align=center>
+    <img src="/assets/Interview3PT.png"/></img>
+</div>
+
+
+| Nombre               | Sebastian                                                                                                                                      |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+| Apellido             | muñiz                                                                                                                                          |
+| Edad                 | 21 años                                                                                                                                        |
+| Distrito             | Pueblo libre                                                                                                                                   |
+| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| Inicio de entrevista | 1:24:13 minutos                                                                                                                                |
+| Fin de entrevista    | 139:22 minutos                                                                                                                                 |
+
+
+**Resumen:**
+
+El entrevistado menciona que utiliza plataformas digitales
+diariamente y que su navegador predeterminado es Chrome o
+Firefox. Comentó que empezó a buscar ayuda profesional después
+de la pandemia debido a problemas de sueño, estrés y
+ansiedad. Además, mencionó que su psicólogo le envía
+mensajes de texto para recordarle la información y los
+acuerdos de la sesión anterior. Lleva un control de sus
+sesiones y tratamiento.Finalmente, brindó observaciones
+sobre otras plataformas que ha experimentado. Comentó que
+eran accesibles, amigables y buenas para una gestión
+adecuada, pero que eran muy malas en el redireccionamiento
+y el pago en el sistema. Brindó feedback sobre el proyecto
+con las siguientes ideas:
+
+- Recordatorios de citas.
+- Citas o reuniones web.
+- Seguridad mediante cifrado y solo visible para el terapeuta.
+- Seguridad con la información personal médica.
 
 ### 2.2.3 Análisis de entrevistas
 
