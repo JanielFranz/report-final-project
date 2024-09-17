@@ -168,13 +168,76 @@ para el usuario. La estructura que hemos definido es la
 siguiente:<br>
 
 **Medicos:**
-Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Pacientes", "Agenda", "Perfil" y "Ajustes".
+Al acceder a la plataforma del proyecto para profesionales de 
+la salud mental, los usuarios (psiquiatras, psicólogos y otros 
+profesionales de la salud mental) pueden iniciar sesión, 
+registrarse si no tienen una cuenta previa y escoger su plan de pagos
+,recuperar su contraseña en caso de olvido. Una vez autenticados, 
+la página principal presenta un calendario con las fechas con sus citas y
+una sidevar con las opciones Citas, Inicio, Pacientes y notificaciones.
 
-En la sección "Pacientes", los profesionales pueden ver una lista de sus pacientes actuales y seleccionar un paciente para acceder a su perfil detallado, que incluye historial de citas, notas clínicas por sesión y tratamientos en curso. En la opción de "Tratamientos en curso" se puede acceder a opciones tales como diagnósticos, datos fisiológicos, registro de estados de ánimo y tareas asignadas.
+En la sección "Pacientes", los profesionales pueden ver una lista 
+de sus pacientes actuales y seleccionar un paciente para acceder 
+a su perfil detallado, y una sidebar con las opciones de 
+Diagnostico, Historial Clinico, Terapia, citas y notas.
 
-La opción "Agenda" ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y enviar recordatorios.
+En la Sidebar "Diagnostico" se puede observar el diagnostico del paciente
+con las opciones de agregar un nuevo diagnostico, editar el diagnostico 
+y ver el historial de diagnostico. 
 
-En el "Perfil", los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección "Ajustes", pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
+Historial Clinico, se puede observar el historial clinico del paciente
+editarlo.
+
+En la sección "Terapia" se puede ver la informacion del paciente y una 
+lista de botones, para funciones biologicas, estados de animo, tareas
+y Prescipcion.
+
+En la sección de funciones biologicas se puede observar el reporte estadistico
+de las datos fisiologicos del paciente. 
+
+En la seccion de estados de animo se puede observar el reporte estadistico
+de los datos de los estados de animo.
+
+En la seccion de tareas se puede observar las listas de tareas asignadas
+al paciente o agregar nuevas listas de tareas.
+
+En la opcion de agregar nuevas listas de tareas se muestra un formulario
+con el Titulo de la lista y almenos una tarea, Y botones para agregar y 
+editar tareas.
+
+En la opcion de agregar tareas se encuentra un formulario con el titulo de la tarea, 
+la descripcion y la fecha de cumplimiento.
+
+En la opcion de editar tarea, se muestra el mismo formularion de agregar tareas, pero
+con los datos de la tarea seleccionada.
+
+En la seccion de prescripciones se puede observar la lista de medicamentos con sus
+datos, las cantidades, la frecuencia y la fecha de incio y culminacion.Con los
+botones de agregar medicamentos y editar medicamentos.
+
+En la opcion de agregar medicamentos se muestra un formulario con el nombre del medicamento,
+la cantidad, la frecuencia y la fecha de inicio y culminacion y en la opcion de editar
+se puede observar el mismo formulario con los datos del medicamento seleccionado.
+
+La opción "Citas" ofrece una vista calendarizada de las citas 
+programadas, con opciones para agendar nuevas consultas, modificar 
+horarios y ver las notas por seccion.
+
+En la opcion de agregar citas se muestra un formulario con la fecha, hora. 
+En la opcion de modificar citas se muestra el mismo formulario con los datos de la cita
+seleccionada.
+
+En la opcion de notas se muestra un formulario con el titulo de la nota y la descripcion.
+con las opciones de guardarlo y editar la nota.
+
+En el "Perfil", los profesionales pueden revisar y actualizar
+su información personal, incluyendo datos de contacto y especialidad.
+En la sección "Ajustes", pueden gestionar la seguridad de la cuenta,
+como cambiar contraseñas.
+
+Notificaciones En esta seccion se puede observar las confirmaciones de
+actividades que realizo el paciente. 
+
 
 ![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
