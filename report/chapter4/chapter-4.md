@@ -179,7 +179,7 @@ En la **barra lateral** de **Diagnóstico**, se puede observar el diagnóstico d
 
 En **Historial Clínico**, se puede observar el historial clínico del paciente y editarlo.
 
-En la sección **Terapia**, se puede ver la información del paciente y una lista de botones para las funciones: **Funciones Biológicas, Estados de Ánimo, Tareas** y **Prescripción**.
+En la sección **Terapia**, se puede ver la información del paciente y una lista de botones para las funciones: **Funciones Biológicas, Estados de Ánimo, Tareas**, **Prescripción** y **Track de Pastillas**
 
 En la sección de **Funciones Biológicas**, se puede observar el reporte estadístico de los datos fisiológicos del paciente.
 
@@ -196,6 +196,8 @@ En la opción de **Editar Tarea**, se muestra el mismo formulario de agregar tar
 En la sección de **Prescripciones**, se puede observar la lista de medicamentos con sus datos, cantidades, frecuencia y la fecha de inicio y culminación, junto con los botones para agregar y editar medicamentos.
 
 En la opción de **Agregar Medicamentos**, se muestra un formulario con el nombre del medicamento, la cantidad, la frecuencia, y la fecha de inicio y culminación. En la opción de **Editar Medicamentos**, se puede observar el mismo formulario con los datos del medicamento seleccionado.
+
+En la sección de **Track de Pastillas**, se puede observar la confirmacion del consumo de los medicamentos por parte del paciente.
 
 La opción **Citas de Paciente** ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y ver las notas por sección.
 
