@@ -168,91 +168,76 @@ para el usuario. La estructura que hemos definido es la
 siguiente:<br>
 
 **Medicos:**
-Al acceder a la plataforma del proyecto para profesionales de 
-la salud mental, los usuarios (psiquiatras, psicólogos y otros 
-profesionales de la salud mental) pueden iniciar sesión, 
-registrarse si no tienen una cuenta previa y escoger su plan de pagos
-,recuperar su contraseña en caso de olvido. Una vez autenticados, 
-la página principal presenta un calendario con las fechas con sus citas y
-una sidevar con las opciones Citas, Inicio, Pacientes y notificaciones.
 
-En la seccion de Citas se puedran observar todas las citas del profesional de la salud mental de todos sus pacientes
+Al acceder a la plataforma del proyecto para profesionales de la salud mental, los usuarios (psiquiatras, psicólogos y otros profesionales de la salud mental) pueden iniciar sesión, registrarse si no tienen una cuenta previa, escoger su plan de pago y recuperar su contraseña en caso de olvido. Una vez autenticados, la página principal presenta un calendario con las fechas de sus citas y una **barra lateral** con las opciones: **Citas, Inicio, Pacientes** y **Notificaciones**.
 
-En la sección "Pacientes", los profesionales pueden ver una lista 
-de sus pacientes actuales y seleccionar un paciente para acceder 
-a su perfil detallado, y una sidebar con las opciones de 
-Diagnostico, Historial Clinico, Terapia, citas y notas.
+En la sección de **Citas**, se pueden observar todas las citas del profesional de la salud mental con todos sus pacientes.
 
-En la Sidebar "Diagnostico" se puede observar el diagnostico del paciente
-con las opciones de agregar un nuevo diagnostico, editar el diagnostico 
-y ver el historial de diagnostico. 
+En la sección **Pacientes**, los profesionales pueden ver una lista de sus pacientes actuales y seleccionar a uno para acceder a su perfil detallado, con una **barra lateral** que incluye las opciones: **Diagnóstico, Historial Clínico, Terapia, Citas** y **Notas**.
 
-Historial Clinico, se puede observar el historial clinico del paciente
-editarlo.
+En la **barra lateral** de **Diagnóstico**, se puede observar el diagnóstico del paciente, con las opciones de agregar un nuevo diagnóstico, editarlo y ver el historial de diagnósticos.
 
-En la sección "Terapia" se puede ver la informacion del paciente y una 
-lista de botones, para funciones biologicas, estados de animo, tareas
-y Prescipcion.
+En **Historial Clínico**, se puede observar el historial clínico del paciente y editarlo.
 
-En la sección de funciones biologicas se puede observar el reporte estadistico
-de las datos fisiologicos del paciente. 
+En la sección **Terapia**, se puede ver la información del paciente y una lista de botones para las funciones: **Funciones Biológicas, Estados de Ánimo, Tareas** y **Prescripción**.
 
-En la seccion de estados de animo se puede observar el reporte estadistico
-de los datos de los estados de animo.
+En la sección de **Funciones Biológicas**, se puede observar el reporte estadístico de los datos fisiológicos del paciente.
 
-En la seccion de tareas se puede observar las listas de tareas asignadas
-al paciente o agregar nuevas listas de tareas.
+En la sección de **Estados de Ánimo**, se puede observar el reporte estadístico de los estados de ánimo.
 
-En la opcion de agregar nuevas listas de tareas se muestra un formulario
-con el Titulo de la lista y almenos una tarea, Y botones para agregar y 
-editar tareas.
+En la sección de **Tareas**, se puede observar la lista de tareas asignadas al paciente o agregar nuevas tareas.
 
-En la opcion de agregar tareas se encuentra un formulario con el titulo de la tarea, 
-la descripcion y la fecha de cumplimiento.
+En la opción de **Agregar Nuevas Tareas**, se muestra un formulario con el título de la lista y al menos una tarea, junto con botones para agregar y editar tareas.
 
-En la opcion de editar tarea, se muestra el mismo formularion de agregar tareas, pero
-con los datos de la tarea seleccionada.
+En la opción de **Agregar Tareas**, se encuentra un formulario con el título de la tarea, la descripción y la fecha de cumplimiento.
 
-En la seccion de prescripciones se puede observar la lista de medicamentos con sus
-datos, las cantidades, la frecuencia y la fecha de incio y culminacion.Con los
-botones de agregar medicamentos y editar medicamentos.
+En la opción de **Editar Tarea**, se muestra el mismo formulario de agregar tareas, pero con los datos de la tarea seleccionada.
 
-En la opcion de agregar medicamentos se muestra un formulario con el nombre del medicamento,
-la cantidad, la frecuencia y la fecha de inicio y culminacion y en la opcion de editar
-se puede observar el mismo formulario con los datos del medicamento seleccionado.
+En la sección de **Prescripciones**, se puede observar la lista de medicamentos con sus datos, cantidades, frecuencia y la fecha de inicio y culminación, junto con los botones para agregar y editar medicamentos.
 
-La opción Citas de paciente ofrece una vista calendarizada de las citas 
-programadas, con opciones para agendar nuevas consultas, modificar 
-horarios y ver las notas por seccion.
+En la opción de **Agregar Medicamentos**, se muestra un formulario con el nombre del medicamento, la cantidad, la frecuencia, y la fecha de inicio y culminación. En la opción de **Editar Medicamentos**, se puede observar el mismo formulario con los datos del medicamento seleccionado.
 
-En la opcion de agregar citas se muestra un formulario con la fecha, hora. 
-En la opcion de modificar citas se muestra el mismo formulario con los datos de la cita
-seleccionada.
+La opción **Citas de Paciente** ofrece una vista calendarizada de las citas programadas, con opciones para agendar nuevas consultas, modificar horarios y ver las notas por sección.
 
-En la opcion de notas se muestra un formulario con el titulo de la nota y la descripcion.
-con las opciones de guardarlo y editar la nota.
+En la opción de **Agregar Citas**, se muestra un formulario con la fecha y la hora. En la opción de **Modificar Citas**, se muestra el mismo formulario con los datos de la cita seleccionada.
 
-En el "Perfil", los profesionales pueden revisar y actualizar
-su información personal, incluyendo datos de contacto y especialidad.
-En la sección "Ajustes", pueden gestionar la seguridad de la cuenta,
-como cambiar contraseñas.
+En la opción de **Notas**, se muestra un formulario con el título de la nota y la descripción, con opciones para guardarla y editarla.
 
-Notificaciones En esta seccion se puede observar las confirmaciones de
-actividades que realizo el paciente. 
+En el **Perfil**, los profesionales pueden revisar y actualizar su información personal, incluyendo datos de contacto y especialidad. En la sección **Ajustes**, pueden gestionar la seguridad de la cuenta, como cambiar contraseñas.
+
+En **Notificaciones**, se pueden observar las confirmaciones de actividades realizadas por el paciente.
 
 
 ![OrgSistMedicos.png](/assets/OrgSistMedicos.png)
 ---
 **Pacientes:**
-Al acceder a la plataforma del proyecto para pacientes, los usuarios pueden iniciar sesión con su nombre y apellido, cambiar la contraseña, y una vez autenticados, la página principal presenta un panel de control personalizado con un menú de navegación que incluye opciones como "Perfil", "Citas", "Lista de Tareas" y "Tratamiento Actual".
+Al acceder a la plataforma del proyecto para pacientes, 
+los usuarios pueden iniciar sesión con su nombre y apellido, 
+cambiar la contraseña, y una vez autenticados, la página 
+principal presenta Sidebar con las opciones: "Inicio","lista de tareas",
+terapia y citas.
 
-En la sección "Lista de Tareas" se pueden visualizar los conjuntos de actividades designados por el profesional de la salud mental en cada sesión. Dentro de esta vista, se puede acceder a opciones tales como ver tareas y marcar como completadas.
+En la sección "Lista de Tareas" se pueden visualizar los 
+conjuntos de actividades designados por el profesional de 
+la salud mental en cada sesión. Dentro de esta vista, se puede 
+acceder a opciones tales como ver tareas y marcar como completadas.
 
-En la sección "Tratamiento Actual" se puede acceder a opciones tales como "Prescripciones", "Diagnóstico Actual", "Formulario de Estados de Ánimo", "Registro de Estados Fisiológicos" y ver datos estadísticos de su estado a lo largo del tratamiento.
+En la sección "Terapia" tiene los botones de Diagnostico,Funciones Biologicas
+Estados de animo, Prescripcion.
 
-En la sección "Citas" se pueden visualizar las citas programadas por el profesional de la salud mental, y se puede acceder a opciones tales como ver detalles de la cita.
+En la opcion de Diagnostico, se mostrar el diagnostico. 
+En la opcion de funciones biologicos se mostrara el track de datos biologicos. 
+En la opcion de Estados de animo se mostrara el track de estados de animo.
+En la opcion de Prescripcion se mostrara la informacion de los medicamentos
+y un boton para confirmar su consumo.
 
-En la sección "Perfil" se puede visualizar y actualizar la información personal del paciente, incluyendo datos de contacto y datos de salud.
+En la sección "Citas" se pueden visualizar las citas programadas 
+por el profesional de la salud mental, y se puede acceder a opciones 
+tales como ver detalles de la cita.
+
+En la sección "Perfil" se puede visualizar y actualizar la 
+información personal del paciente, incluyendo datos de contacto 
+y datos de salud.
 
 ![OrgSistPacientes.png](/assets/OrgSistPacientes.png)
 ### 4.2.2. Labeling Systems
@@ -264,11 +249,13 @@ En la sección "Perfil" se puede visualizar y actualizar la información persona
 - Registrarse 
 - Recuperar su contraseña
 
-**Pagina principal**
-- Pacientes
-- Agenda
-- Perfil
-- Ajustes
+1. **Navegación Principal** (Header/Barra de navegación lateral)
+   **Página** principal del usuario después de iniciar sesión.
+   **Citas:** Calendario y gestión de citas con pacientes.
+   **Pacientes:** Gestión de pacientes y acceso a historiales clínicos.
+   **Notificaciones:** Alertas y confirmaciones de actividades.
+   **Perfil:** Información del profesional de salud mental.
+   Ajustes: Configuración y seguridad de la cuenta.
 
 **Pacientes** 
   - lista de sus pacientes
