@@ -176,6 +176,8 @@ registrarse si no tienen una cuenta previa y escoger su plan de pagos
 la página principal presenta un calendario con las fechas con sus citas y
 una sidevar con las opciones Citas, Inicio, Pacientes y notificaciones.
 
+En la seccion de Citas se puedran observar todas las citas del profesional de la salud mental de todos sus pacientes
+
 En la sección "Pacientes", los profesionales pueden ver una lista 
 de sus pacientes actuales y seleccionar un paciente para acceder 
 a su perfil detallado, y una sidebar con las opciones de 
@@ -219,7 +221,7 @@ En la opcion de agregar medicamentos se muestra un formulario con el nombre del 
 la cantidad, la frecuencia y la fecha de inicio y culminacion y en la opcion de editar
 se puede observar el mismo formulario con los datos del medicamento seleccionado.
 
-La opción "Citas" ofrece una vista calendarizada de las citas 
+La opción Citas de paciente ofrece una vista calendarizada de las citas 
 programadas, con opciones para agendar nuevas consultas, modificar 
 horarios y ver las notas por seccion.
 
