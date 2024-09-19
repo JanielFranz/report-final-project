@@ -107,20 +107,18 @@ siguientes:
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
-Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con
-una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible
-comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+Para desplegar la landing page es necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
 
-1. Crear una carpeta llamada "docs" para alojar el Landing Page.
-2. Asegurarse de que los archivos sigan las nomenclaturas "index.html", para la landing page; "input.css" y "output.css" para poder utilizar Tailwind y
-   una carpeta llamada "img" que contenga las imágenes.
+1. Asegurarse de que los archivos estén en la raíz (root) del repositorio.
+2. Asegurarse de que los archivos sigan las nomenclaturas: "index.html" para la landing page, "styles.css" para los estilos, "main.js" para los scripts, y una carpeta llamada "assets/images" para las imágenes.
 3. Cargar los archivos al repositorio mediante un commit.
-4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en nuestro caso es el "main".
-5. Especificar la carpeta "docs" como la fuente de la página.
-6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que
-   llevará al Landing Page desplegado
+4. Dirigirse a Settings > Pages y seleccionar el branch correspondiente, en este caso el "main".
+5. Especificar la carpeta raíz (root) como la fuente de la página.
+6. Esperar a que GitHub realice las comprobaciones necesarias. Una vez culminado el proceso, se obtendrá un enlace que llevará a la landing page desplegada.
 
 ## GithubPages
+
+![alt text](/assets/GithubPages.png)
 
 Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
@@ -197,48 +195,69 @@ una de las tareas identificadas para el sprint.
 <tr>
     <th colspan="3">Sprint #</th>
     <th colspan="10">Sprint 1</th>
-  </tr>
-      <tr>
+</tr>
+<tr>
     <td colspan="3">User Story</td>
     <td colspan="10">Work-Item/Task</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
+    <td colspan="1">Estimation</td>
     <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
 </tr>
-  <tr>
+<tr>
     <td colspan="1">US02</td>
     <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Añadir información relevante de la aplicación</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Anatoly, Valentino, Romina, Franz y Sihuar</td>
+    <td colspan="2">Anatoly</td>
     <td colspan="1">Done</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Crear sección de "Planes" en la landing page</td>
+    <td colspan="3">Estructurar la sección de planes.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">Implementar cambio de idioma en la landing page</td>
+    <td colspan="3">Implementar la funcionalidad de cambio de idioma en la landing page.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Janiel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
     <td colspan="1">US03</td>
     <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">Añadir imágenes de alta calidad</td>
+    <td colspan="3">Incorporar nuevas imágenes de alta calidad que sean relevantes para el contenido.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Sihuar</td>
+    <td colspan="2">Valentino y Sihuar</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
     <td colspan="1">US04</td>
     <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Implementar los estilos principales de la tipografía en la landing page</td>
+    <td colspan="3">Definir y aplicar los estilos de las fuentes principales para garantizar que sean estéticamente agradables y legibles.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Valentino</td>
+    <td colspan="2">Janiel</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
@@ -330,9 +349,7 @@ una de las tareas identificadas para el sprint.
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-Para la entrega de este primer Sprint se realizó el desarrollo de la Landing Page. Por ello, en esta sección se centro en la implementación de los archivos feature, basados en User Stories, que contiene nuestro landing page.
-
-<table> <thead> <tr> <th>Repository</th> <th>Branch</th> <th>Commit Id</th> <th>Commit Message</th> <th>Commit Message Body</th> <th>Committed on (Date)</th> </tr> </thead> <tbody> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>e82274cf50ccf29201a3ec0706ffe098783d5ff1</td> <td>chore: first commit</td> <td>- Created initial commit for the project</td> <td>2024-09-03</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>50b05f3cace5fc93f6064866e413b3352e4fd9df</td> <td>feat(html): hero created</td> <td>- Added hero section to the landing page</td> <td>2024-09-03</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>670299de4a0bb64a336e8ff33b7519749895b8ed</td> <td>feature: added styles</td> <td>- Added styles to the landing page</td> <td>2024-09-03</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>e6b5b4bc4b3f1f96ae130aee3c3b741a15a45e22</td> <td>feat(html): added closed source banner</td> <td>- Added closed source banner to the landing page</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>515afa77120c2bfd8a957e65f8f0ab0ca16c4879</td> <td>feat(html): structure of about us created</td> <td>- Created the structure for the 'About Us' section</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>2ec2ab50c09a945201a644e29ec12318e956282b</td> <td>refactor(html): members html restructured</td> <td>- Restructured the members section in the 'About Us'</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>6efcffdba86efcf80757e1951dc13de812378d86</td> <td>add div PSYMED</td> <td>- Added the PSYMED division to the landing page</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>ec63485ddacf113d7731db43f8d8a8bcf128983f</td> <td>feat: added the 3 subscription plans</td> <td>- Implemented the section showing the three subscription plans</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>f43a735e6c664a6acbacd329415116e2e256ca9f</td> <td>feat(footer): added footer structure</td> <td>- Created the footer structure</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>d9bf7cb2b582f8be628c6927242c22baaa41eefa</td> <td>feat(about-us): added about us section</td> <td>- Implemented 'About Us' section</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>c325e9622b981e1c2f7afad28c202868684ec842</td> <td>feat(about-the-product): added about the product section</td> <td>- Added 'About the Product' section to the landing page</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>c1524991749fff36dcea4a91cba846970bc307d1</td> <td>refactor: updating Images</td> <td>- Updated image references and fixed display issues</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>8c64f94d6a9b49a945c5d5297b2f1327a6f5aca9</td> <td>fix(css): colors from divs and fonts changed</td> <td>- Updated colors of divs and fonts in CSS</td> <td>2024-09-04</td> </tr> <tr> <td>WX55-Closed-Source/landing-page</td> <td>main</td> <td>6f1a67c8048fada4107ac2796d15504500aee1e7</td> <td>feat(html): index in Spanish created</td> <td>- Created Spanish version of the index page</td> <td>2024-09-05</td> </tr> </tbody> </table>
+Para la entrega de este primer Sprint se realizó el desarrollo de la Landing Page. Sin embargo, para esta entrega no se realizaron testeos respecto a la misma.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
