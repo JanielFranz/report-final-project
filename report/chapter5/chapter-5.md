@@ -195,48 +195,69 @@ una de las tareas identificadas para el sprint.
 <tr>
     <th colspan="3">Sprint #</th>
     <th colspan="10">Sprint 1</th>
-  </tr>
-      <tr>
+</tr>
+<tr>
     <td colspan="3">User Story</td>
     <td colspan="10">Work-Item/Task</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="1">Id</td>
     <td colspan="2">Title</td>
     <td colspan="3">Description</td>
-    <td colspan="1"> Estimation</td>
+    <td colspan="1">Estimation</td>
     <td colspan="2">Assigned To</td>
-    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
 </tr>
-  <tr>
+<tr>
     <td colspan="1">US02</td>
     <td colspan="2">Encontrar información del propósito de la aplicación</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Añadir información relevante de la aplicación</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">Crear sección "Acerca de nosotros"</td>
+    <td colspan="3">Estructurar y agregar información sobre el propósito de la aplicación.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Anatoly, Valentino, Romina, Franz y Sihuar</td>
+    <td colspan="2">Anatoly</td>
     <td colspan="1">Done</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">Crear sección de "Planes" en la landing page</td>
+    <td colspan="3">Estructurar la sección de planes.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">Implementar cambio de idioma en la landing page</td>
+    <td colspan="3">Implementar la funcionalidad de cambio de idioma en la landing page.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Janiel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
     <td colspan="1">US03</td>
     <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">Añadir imágenes de alta calidad</td>
+    <td colspan="3">Incorporar nuevas imágenes de alta calidad que sean relevantes para el contenido.</td>
     <td colspan="1">2</td>
-    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Sihuar</td>
+    <td colspan="2">Valentino y Sihuar</td>
     <td colspan="1">Done</td>
+</tr>
 <tr>
     <td colspan="1">US04</td>
     <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
-    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Implementar los estilos principales de la tipografía en la landing page</td>
+    <td colspan="3">Definir y aplicar los estilos de las fuentes principales para garantizar que sean estéticamente agradables y legibles.</td>
     <td colspan="1">1</td>
-    <td colspan="2">Valentino</td>
+    <td colspan="2">Janiel</td>
     <td colspan="1">Done</td>
 </tr>
 </table>
