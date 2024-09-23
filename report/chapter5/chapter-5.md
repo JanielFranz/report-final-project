@@ -411,6 +411,264 @@ Analiticas de Colaboración:
 
 ![alt text](/assets/AnaliticasLanding.png)
 
+### 5.3.1. Sprint 2
+
+### 5.3.1.1. Sprint Planning 2
+En este sprint, nos enfocaremos en corregir los errores 
+detectados en el sprint anterior y nos dedicaremos a la 
+implementación del frontend para los bounded contexts 
+identificados en el proyecto.
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">   </td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">   </td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Daniel Escalante</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteó el avance del frontend de la aplicación..</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">
+En esta reunión, todos los integrantes tuvieron aciertos 
+en la creación y la implementación del código. Además, 
+todos colaboraron en el diseño y la implementación del 
+frontend, contribuyendo a un desarrollo más ágil y efectivo
+del proyecto.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Implementar los Bounded Contexts y diseñar cada uno de ellos.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8"> ---- story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"> ---- Story Points</td>
+</tr>
+</table>
+
+### 5.3.1.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US01</td>
+    <td colspan="2">  </td>
+    <td colspan="1">UT01</td>
+    <td colspan="2"> </td>
+    <td colspan="3">  </td>
+    <td colspan="1">2</td>
+    <td colspan="2">Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">   </td>
+    <td colspan="1">UT02</td>
+    <td colspan="2">-----------------</td>
+    <td colspan="3">-----------------.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US02</td>
+    <td colspan="2">--------------------------</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2">------------------------------------</td>
+    <td colspan="3">---------------------------.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Daniel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US03</td>
+    <td colspan="2">--------------------------</td>
+    <td colspan="1">UT04</td>
+    <td colspan="2">---------------------</td>
+    <td colspan="3">-------------------------------</td>
+    <td colspan="1">2</td>
+    <td colspan="2"> Valentino </td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US04</td>
+    <td colspan="2">----------------------</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">------------------</td>
+    <td colspan="3">------------------------------------------</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Sihuar</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.3.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">---------------</td>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">---------------</td>
+    </tr>
+     <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">---------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">----------------------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">---------------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">--------------</td>
+        <td colspan="2">-------------------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">--------------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">-----------------</td>
+        <td colspan="2">------------------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">-------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">---------------</td>
+        <td colspan="2">----------------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">---------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">--------------</td>
+        <td colspan="2">--------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">------------------</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">-------------</td>
+        <td colspan="2">--------------------------</td>
+        <td colspan="2">-</td>
+        <td colspan="2">-----------------</td>
+    </tr>
+</table>
+
+### 5.3.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron test o pruebas con "Console log()" en las paginas.
+
+### 5.3.1.5. Execution Evidence for Sprint Review
+
+**Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, sus permisos y accesos.
+
+**Gestión de Notas de Sección**: Facilita el registro y seguimiento de notas clínicas importantes por cada sesión o visita.
+
+**Gestión de Administración de Citas**: Optimiza la organización de citas, recordatorios y disponibilidad del personal médico.
+
+**Gestión de Dashboards de Analytics**: Proporciona visualizaciones y análisis de datos relevantes para la toma de decisiones.
+
+**Gestión de Seguimiento de Síntomas y Estado**: Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
+
+**Gestión de Medicación**: Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
+
+### 5.3.1.6. Services Documentation Evidence for Sprint Review
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+
+
+
+Analiticas de Colaboración:
+
+
+
+
 # Conclusiones 
 
 En conclusión, PsyMed se posiciona como una solución esencial en un entorno donde la gestión eficiente de pacientes y la colaboración entre profesionales de la salud mental son cada vez más necesarias. La plataforma aborda la falta de herramientas tecnológicas integradas en los centros psiquiátricos, ofreciendo una solución que centraliza y organiza la información clínica, facilitando el seguimiento de los pacientes y mejorando la calidad del tratamiento.
