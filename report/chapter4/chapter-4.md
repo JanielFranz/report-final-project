@@ -526,7 +526,25 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 ![Wireframes.jpg](/assets/MockUps(19).png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
-
+![Group 53.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2053.png)
+![Group 54.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2054.png)
+![Group 58.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2058.png)
+![Group 59.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2059.png)
+![Group 60.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2060.png)
+![Group 61.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2061.png)
+![Group 62.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2062.png)
+![Group 63.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2063.png)
+![Group 64.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2064.png)
+![Group 65.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2065.png)
+![Group 66.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2066.png)
+![Group 67.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2067.png)
+![Group 68.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2068.png)
+![Group 69.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2069.png)
+![Group 70.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2070.png)
+![Group 71.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2071.png)
+![Group 72.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2072.png)
+![Group 73.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2073.png)
+![Group 74.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2074.png)
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
