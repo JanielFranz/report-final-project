@@ -444,6 +444,7 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 ![Wireframes.jpg](/assets/WireFrames(19).png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+![Wire flow.png](..%2F..%2Fassets%2FWire%20flow.png)
 
 ### 4.4.3. Web Applications Mock-ups
 
