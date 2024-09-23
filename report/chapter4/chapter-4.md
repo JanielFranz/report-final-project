@@ -499,15 +499,15 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![C4Model](/assets/ComponentDiagramSession.png)
 
-#### Bounded Context Task Management Diagram
+#### Bounded Context User Management Diagram
 
-![C4Model](/assets/ComponentDiagramTask.png)
+![C4Model](/assets/ComponentDiagramUserManagement.png)
 
-#### Bounded Context Clinical Management Diagram
+#### Bounded Context Medication Management Diagram
 
-![C4Model](/assets/ComponentDiagramClinical.png)
+![C4Model](/assets/ComponentDiagramMedicationManagement.png)
 
-#### Bounded Context Tracking Diagram
+#### Bounded Context Treatment Diagram
 
 ![C4Model](/assets/ComponentDiagramTracking.png)
 
@@ -515,9 +515,13 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![C4Model](/assets/ComponentDiagramPayment.png)
 
-#### Bounded Context Communication Diagram
+#### Bounded Context Appointment and Administration Diagram
 
-![C4Model](/assets/ComponentDiagramCommunication.png)
+![C4Model](/assets/ComponentDiagramAppointmentAdministration.png)
+
+#### Bounded Context Statistics and Analysis Diagram
+
+![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
 ## 4.7. Software Object-Oriented Design.
 ### 4.7.1. Class Diagrams.
