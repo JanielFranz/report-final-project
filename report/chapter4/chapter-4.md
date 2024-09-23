@@ -548,6 +548,7 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 ![Group 74.png](..%2F..%2Fassets%2Fpublic%2Fimagenes%2FUser%20Flow%2FGroup%2074.png)
 ## 4.5. Web Applications Prototyping
 
+**https://marvelapp.com/prototype/8j2efjg**
 ## 4.6. Domain-Driven Software Architecture
 
 ### 4.6.1. Software Architecture Context Diagram
