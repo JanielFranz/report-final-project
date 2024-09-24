@@ -443,8 +443,8 @@ identificados en el proyecto.
 
 <table>
 <tr>
-    <th colspan="5">Sprint #</th>
-    <th colspan="9">Sprint 1</th>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
@@ -676,6 +676,8 @@ Se realizaron test o pruebas con "Console log()" en las paginas.
 
 ### 5.3.1.6. Services Documentation Evidence for Sprint Review
 
+
+
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
@@ -683,12 +685,7 @@ Se realizaron test o pruebas con "Console log()" en las paginas.
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-
-
-
-Analiticas de Colaboración:
-
-
+![teamcommits](/assets/sprint2/insights-commits-sprint2.jpeg)
 
 
 # Conclusiones 
