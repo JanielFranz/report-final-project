@@ -149,7 +149,7 @@ elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 <table>
 <tr>
-    <th colspan="5">Sprint #</th>
+    <th colspan="5">Sprint 1</th>
     <th colspan="9">Sprint 1</th>
   </tr>
       <tr>
@@ -168,29 +168,33 @@ una de las tareas identificadas para el sprint.
     <td colspan="8">Via Discord</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Janiel Escalante</td>
+    <td colspan="8">Daniel Escalante</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Janiel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
+    <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="5">Sprint  1 Review Summary</td>
     <td colspan="8">En esta primera sección se planteo el desarrollo de la Landing Page para el proyecto de PsyMed.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
     <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Finalizar con el desarrollo de la Landing Page</td>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">
+Desplegar una landing page completamente
+funcional con imágenes y un menú interactivo, 
+accesible desde cualquier dispositivo, antes 
+de la fecha límite del sprint 11/07/24 .</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="5">Sprint 1 Velocity</td>
     <td colspan="8">4 story points</td>
 </tr>
 <tr>
