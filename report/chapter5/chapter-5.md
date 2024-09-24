@@ -685,7 +685,34 @@ Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de A
 **Gestión de Medicación**: Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
 
 ### 5.3.1.6. Services Documentation Evidence for Sprint Review
+En esta sección se documentará el servicio base utilizado para otros 
+servicios en la aplicación. Se diseñó para facilitar las operaciones 
+CRUD a través de una API, utilizando inicialmente un json-server local para 
+pruebas y luego migrando a ---------- en la aplicación web desplegada. 
+Este enfoque permitió validar funcionalidades del front-end sin depender 
+de un backend completo, garantizando así una implementación eficiente y 
+consistente en toda la aplicación.
 
+| **Elemento**           | **Descripción**                                                                                                                                                       |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Clase**             | `BaseService<T>`                                                                                                                                                     |
+| **Propósito**         | Proveer métodos genéricos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en recursos a través de una API.                                      |
+| **Dependencias**      | `HttpClient`, `HttpErrorResponse`, `HttpHeaders` de `@angular/common/http`, y `rxjs` para manejo de observables y errores.                                        |
+| **Propiedades**       | - `httpOptions`: Opciones de cabecera para las solicitudes HTTP (JSON).                                                                                             |
+|                       | - `http`: Instancia de `HttpClient` para realizar solicitudes HTTP.                                                                                                 |
+|                       | - `basePath`: Ruta base del servidor, definida en el entorno de desarrollo.                                                                                         |
+|                       | - `resourceEndpoint`: Ruta del recurso, por defecto `/resources`.                                                                                                   |
+|                       |                                                                                                                                                                       |
+| **Métodos**           | - **`create(item: any): Observable<T>`**: Crea un nuevo recurso enviando un objeto `item` a la API.                                                                 |
+|                       | - **`update(id: any, item: any): Observable<T>`**: Actualiza un recurso existente identificado por `id`.                                                            |
+|                       | - **`delete(id: any): Observable<any>`**: Elimina un recurso identificado por `id`.                                                                                 |
+|                       | - **`getAll(): Observable<T[]>`**: Recupera todos los recursos.                                                                                                    |
+|                       | - **`getById(id: any): Observable<T>`**: Recupera un recurso específico por `id`.                                                                                   |
+|                       | - **`handleError(error: HttpErrorResponse): Observable<never>`**: Maneja errores en las solicitudes HTTP, imprimiendo información del error en la consola.          |
+|                       | - **`resourcePath(): string`**: Construye y retorna la ruta completa del recurso.                                                                                   |
+| **Manejo de Errores** | Utiliza el operador `catchError` de `rxjs` para capturar y manejar errores en las solicitudes, reintentando la solicitud hasta dos veces antes de fallar.         |
+| **Observables**       | Utiliza `Observable` para permitir la suscripción a las respuestas de las solicitudes, facilitando la programación reactiva.                                         |
+| **Configuración**     | Se basa en las configuraciones del entorno definidas en `environment.serverBasePath` para la correcta conexión a la API.                                            |
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
