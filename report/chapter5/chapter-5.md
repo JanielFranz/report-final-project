@@ -125,17 +125,17 @@ Para desplegar la landing page es necesario contar con una serie de requisitos, 
 ## GithubPages
 
 ![alt text](/assets/GithubPages.png)
+Accedemos a la URL proporcionada por GitHub Pages para confirmar que nuestra landing page se haya desplegado correctamente. De este modo, nuestra landing page estará disponible a través de GitHub Pages y será accesible para cualquier usuario que cuente con el enlace.
 
-Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
-De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
-Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
+**Enlace de la Landing Page:** https://wx55-closed-source.github.io/landing-page/
+
 
 ### 5.2. Landing Page, Services & Applications Implementation.
+![Imagen de la landingPage desplegada.png](..%2F..%2Fassets%2FImagen%20de%20la%20landingPage%20desplegada.png)
 
-## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page.
-
+[Video de la landingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BaDAMXMmMZV-5rAu-4t34OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yQZINa)
 ### 5.2.1. Sprint 1
 
 ### 5.2.1.1. Sprint Planning 1
