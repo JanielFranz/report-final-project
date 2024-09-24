@@ -2,8 +2,8 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | 
 |:-------:|:----------:|:-----:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|TB1| 28/03/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados.| 
-
+|   TB1   | 05/09/2024 |Todos los integrantes del equipo| El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Además, se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User stories, Product Backlog, e Impact Mapping, entre otros elementos. Posteriormente, se procedió al diseño de los mockups y prototipos de la página de inicio basándose en la información recabada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, asegurando así un control efectivo de los progresos realizados.| 
+|   TP1   | 14/09/2024 ||||
 
 # Project Report Collaboration Insights
 Para este proyecto hemos utilizado las herramientas GitHub y Trello para gestionar el progreso grupal.
@@ -297,8 +297,7 @@ El segmento inicial para la implementación de esta plataforma estará compuesto
 
 ### 1.2.2.4. Lean UX Canvas
 
-![Lean UX Canvas](</assets/Lean UX Canvas2.png>)
-
+![Lean UX Canvas](/assets/Lean%20UX%20Canvas.png)
 ### Segmentos objetivo
 - Psiquiatras y Profesionales de la Salud Mental:
   Psiquiatras, que trabajan tanto en el sector público como en el privado. Generalmente, se encuentran en las principales ciudades del país, como Lima, Arequipa y Trujillo. En Perú, hay un déficit significativo de profesionales especializados en salud mental, con solo 2 a 3 psiquiatras por cada 100,000 habitantes. Esta escasez genera una sobrecarga de trabajo, afectando la calidad de la atención y la eficiencia en el manejo de casos clínicos.
