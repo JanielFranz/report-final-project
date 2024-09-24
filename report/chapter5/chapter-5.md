@@ -233,7 +233,7 @@ de la fecha límite del sprint 11/07/24 .</td>
     <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
 </tr>
 <tr>
-    <td colspan="1">US02</td>
+    <td colspan="1">US01</td>
     <td colspan="2">Encontrar información del propósito de la aplicación</td>
     <td colspan="1">UT01</td>
     <td colspan="2">Crear sección "Acerca de nosotros"</td>
@@ -451,11 +451,11 @@ identificados en el proyecto.
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">   </td>
+    <td colspan="8"> 17/07/24  </td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
-    <td colspan="8">   </td>
+    <td colspan="8"> 8:00 PM </td>
   </tr>
   <tr>
     <td colspan="5">Location</td>
@@ -469,11 +469,13 @@ identificados en el proyecto.
     <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Review Summary</td>
-    <td colspan="8">En esta primera sección se planteó el avance del frontend de la aplicación..</td>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">
+En esta primera sección se presentó el avance del frontend de la aplicación y sus respectivos bounded contexts.
+</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="5">Sprint 2 Retrospective Summary</td>
     <td colspan="8">
 En esta reunión, todos los integrantes tuvieron aciertos 
 en la creación y la implementación del código. Además, 
@@ -485,11 +487,11 @@ del proyecto.</td>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Goal</td>
+    <td colspan="5">Sprint 2 Goal</td>
     <td colspan="8">Implementar los Bounded Contexts y diseñar cada uno de ellos.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="5">Sprint 2 Velocity</td>
     <td colspan="8"> ---- story points</td>
 </tr>
 <tr>
