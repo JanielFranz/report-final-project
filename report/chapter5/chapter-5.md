@@ -658,8 +658,16 @@ del proyecto.</td>
 
 ### 5.3.1.4. Testing Suite Evidence for Sprint Review
 
-Se realizaron test o pruebas con "Console log()" en las paginas.
+Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de Angular. A continuación, se muestran imágenes de estas pruebas unitarias.
 
+![TestAppCom.png](../../assets/TestAppCom.png)
+   //En este test se verifica que el componente App se cree correctamente.//
+
+![TestMedication.png](../../assets/TestMedication.png)
+   //En este test se verifica que el componente Medication se cree correctamente.//
+
+![TestPacientManagment.png](../../assets/TestPacientManagment.png)
+    //En este test se verifica que el componente PacientManagment se cree correctamente.//
 ### 5.3.1.5. Execution Evidence for Sprint Review
 
 **Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, sus permisos y accesos.
@@ -719,3 +727,7 @@ Analiticas de Colaboración:
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
 
 - Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
