@@ -658,8 +658,16 @@ del proyecto.</td>
 
 ### 5.3.1.4. Testing Suite Evidence for Sprint Review
 
-Se realizaron test o pruebas con "Console log()" en las paginas.
+Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de Angular. A continuación, se muestran imágenes de estas pruebas unitarias.
 
+![TestAppCom.png](../../assets/TestAppCom.png)
+   //En este test se verifica que el componente App se cree correctamente.//
+
+![TestMedication.png](../../assets/TestMedication.png)
+   //En este test se verifica que el componente Medication se cree correctamente.//
+
+![TestPacientManagment.png](../../assets/TestPacientManagment.png)
+    //En este test se verifica que el componente PacientManagment se cree correctamente.//
 ### 5.3.1.5. Execution Evidence for Sprint Review
 
 **Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, sus permisos y accesos.
@@ -690,29 +698,33 @@ Commits:
 
 # Conclusiones 
 
-1. **Demanda de Soluciones Tecnológicas en Salud Mental**: Existe un creciente interés en soluciones tecnológicas para la salud mental, lo que indica una oportunidad significativa para PsyMed. La necesidad de una plataforma que facilite la gestión de la atención psiquiátrica y brinde un seguimiento efectivo de los pacientes es fundamental en el contexto actual.
+1. **Creciente Demanda de Soluciones**: Existe un interés creciente en tecnologías para la salud mental, lo que presenta una gran oportunidad para PsyMed.
 
-2. **Deficiencias en Aplicaciones Existentes**: Muchas aplicaciones en el mercado presentan limitaciones en el registro y seguimiento de la información de los pacientes. PsyMed debe centrarse en ofrecer funcionalidades robustas para el manejo de historiales clínicos y medicaciones, superando las deficiencias de sus competidores.
+2. **Deficiencias en Competidores**: Muchas aplicaciones actuales son insuficientes en el manejo de datos de pacientes. PsyMed debe superar estas limitaciones con un sistema más eficiente.
 
-3. **Eficiencia en el Desarrollo a través de GitHub**: La utilización de herramientas como GitHub ha mejorado la colaboración y la gestión del código en el desarrollo de PsyMed. Esto asegura un control de versiones adecuado y una mejor documentación, lo que resulta en un software más eficiente y de mayor calidad.
+3. **Uso Eficiente de GitHub**: GitHub ha mejorado la colaboración y control de versiones, lo que asegura un desarrollo de calidad y organizado.
 
-4. **Importancia de la Investigación de Necesidades**: La realización de entrevistas y el uso de artefactos de Needfinding han sido esenciales para comprender las expectativas de los psiquiatras y pacientes. Identificar frustraciones y necesidades específicas permite diseñar una solución que realmente resuene con el público objetivo.
+4. **Importancia de la Investigación**: Las entrevistas y estudios han permitido comprender mejor las necesidades de psiquiatras y pacientes, guiando el diseño de la solución.
 
-5. **Consistencia Visual y de Marca**: El desarrollo de guías de estilo (Style Guidelines) es crucial para mantener una identidad visual coherente en la plataforma. Esto no solo mejora la experiencia del usuario, sino que también fortalece la marca de PsyMed en un mercado competitivo.
+5. **Consistencia Visual**: Las guías de estilo son clave para mantener una identidad coherente y mejorar la experiencia del usuario.
 
-6. **Priorización de Características**: La implementación de User Stories y el Product Backlog han permitido establecer una clara priorización de las características a desarrollar. Esto asegura que el equipo enfoque sus esfuerzos en las funcionalidades más críticas para el lanzamiento inicial.
+6. **Priorización Clara**: La correcta priorización de User Stories y Product Backlog asegura que el equipo se enfoque en las características más importantes.
 
-7. **Planificación Efectiva con Wireframes**: La creación de wireframes ha proporcionado una base sólida para el diseño de la interfaz de usuario. Al enfocarse en los detalles visuales antes de la codificación, se ha logrado un producto más intuitivo y atractivo para los usuarios.
+7. **Desarrollo Ágil con Sprints**: Limitar los user story points por sprint ha permitido un avance ordenado sin sobrecargar al equipo.
 
-8. **Metodología Ágil y Sprints**: La adopción de sprints en el desarrollo ha facilitado un avance ordenado y continuo. Limitar la cantidad de user story points por sprint ayuda a evitar la sobrecarga del equipo y permite una entrega más efectiva de las funcionalidades.
+8. **Retroalimentación Continua**: Las reuniones de feedback han sido esenciales para hacer ajustes y mejoras a lo largo del desarrollo.
 
-9. **Iteración y Retroalimentación**: La realización de reuniones de feedback grupal durante el desarrollo del Landing Page ha sido valiosa para asegurar que todos los miembros del equipo estén alineados y que se puedan realizar mejoras continuas.
-
-10. **Estimación de Tiempos y Manejo de Pendientes**: Es fundamental estimar tiempos adicionales para abordar tareas no planificadas o carry over. La experiencia del Sprint 2 ha resaltado la importancia de manejar adecuadamente las complicaciones para asegurar que los plazos se cumplan.
-
-11. **Documentación de Funcionalidades**: La creación de documentación sobre los módulos de Angular Material y sus funcionalidades ha sido clave para garantizar que el equipo comprenda completamente las herramientas disponibles, lo que mejora la calidad del desarrollo.
+9. **Manejo de Pendientes**: Estimar tiempos adicionales es importante para lidiar con tareas no planificadas y mantener los plazos.
 
 # Bibliografia
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
 
 - Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+
+- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
+
+- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
