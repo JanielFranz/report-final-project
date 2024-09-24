@@ -403,11 +403,11 @@ En el presente sprint solo se desarrollo la Landing Page.
 
 Para el despliegue de la Landing Page, utilizamos la herramienta GitHub Pages para realizar el deployment. Creamos un repositorio en el cual almacenamos el código de nuestra Landing Page.
 
-![Github Repositorio.png](..%2F..%2Fassets%2FGithub%20Repositorio.png)
+![Github Repositorio.png](/assets/Github%20Repositorio.png)
 
 Después de crear el repositorio, accedemos a la configuración y seleccionamos la sección de Pages. Allí, ingresamos los datos requeridos, como la fuente del branch que se utilizará para el deployment. Finalmente, GitHub Pages nos proporciona un enlace y publica nuestra Landing Page en la web.
 
-![Github Pages.png](..%2F..%2Fassets%2FGithub%20Pages.png)
+![Github Pages.png](/assets/Github%20Pages.png)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
