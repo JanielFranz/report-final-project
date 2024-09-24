@@ -147,7 +147,7 @@ Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page.
-[Video de la landingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BaDAMXMmMZV-5rAu-4t34OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yQZINa)
+[Video de Landing Page](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BDuToGt0l99MAgtI0iyw7kw?e=KNWdxW)
 ### 5.2.1. Sprint 1
 
 ### 5.2.1.1. Sprint Planning 1
@@ -722,8 +722,7 @@ consistente en toda la aplicación.
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-![teamcommits](/assets/sprint2/insights-commits-sprint2.jpeg)
-
+![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
 
 # Conclusiones 
 
