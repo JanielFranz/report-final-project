@@ -722,8 +722,7 @@ consistente en toda la aplicación.
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-![teamcommits](/assets/sprint2/insights-commits-sprint2.jpeg)
-
+![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
 
 # Conclusiones 
 
