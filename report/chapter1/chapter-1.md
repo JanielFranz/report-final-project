@@ -12,6 +12,19 @@ En Trello hemos organizado las tareas de cada integrante y con ello se puede vis
 Se puede acceder al contenido de la organización en GitHub mediante el siguiente enlace:
 [ClosedSource.com](https://github.com/WX55-Closed-Source)
 
+Contenido del reporte: https://github.com/WX55-Closed-Source/report-final-project
+Contenido del código del Landing Page: https://github.com/WX55-Closed-Source/landing-page
+Contenido del código de front-end: https://github.com/WX55-Closed-Source/psymed-frontend
+
+### TB1:
+
+**Reporte:**
+![tb1-insights](/assets/Insights.png)
+**Landing Page:**
+![landing-insights](/assets/InsightsLanding.jpeg)
+
+### TP1:
+![](/assets/sprint2/insights-commits-sprint2.png)
 
 # Contenido
 ## Tabla de Contenidos
