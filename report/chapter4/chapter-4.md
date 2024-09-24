@@ -600,6 +600,18 @@ Link del diagrama del clases: https://lucid.app/lucidchart/e0236b80-00f5-409b-be
 
 ![Class Diagram](/assets/ClassDiagram.png)
 
+Diagrama dividido por Bounded Context:
+
+1. User Management:
+![usermanagement](/assets/DC-UserManagement.jpeg)
+2. Patient MoodStates
+![patientmoodstates](/assets/DC-PatientMoodStates.jpeg)
+3. Dashboard And Analytics
+![dashboard](/assets/DC-Dashboard.jpeg)
+4. Medication Management
+![medication](/assets/DC-MedicationManagement.jpeg)
+5. Session Notes
+![sesionnotes](/assets/DC-SessionNotes.jpeg)
 
 ### 4.7.2. Class Dictionary.
 
