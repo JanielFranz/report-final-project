@@ -79,7 +79,7 @@ A continuación, se explicará en detalle cómo se implementará este flujo de t
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
-![GitFlowDiagram.png](..%2F..%2Fassets%2FGitFlowDiagram.png)
+![GitFlowDiagram.png](/assets/GitFlowDiagram.png)
 
 **Estructura de branches (Ramas):**
 
@@ -142,7 +142,7 @@ De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y
 Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
 
 ### 5.2. Landing Page, Services & Applications Implementation.
-![Imagen de la landingPage desplegada.png](..%2F..%2Fassets%2FImagen%20de%20la%20landingPage%20desplegada.png)
+![Imagen de la landingPage desplegada.png](/assets/Imagen%20de%20la%20landingPage%20desplegada.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
