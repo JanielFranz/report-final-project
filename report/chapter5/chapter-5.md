@@ -681,7 +681,27 @@ Analiticas de Colaboración:
 
 # Conclusiones 
 
-En conclusión, PsyMed se posiciona como una solución esencial en un entorno donde la gestión eficiente de pacientes y la colaboración entre profesionales de la salud mental son cada vez más necesarias. La plataforma aborda la falta de herramientas tecnológicas integradas en los centros psiquiátricos, ofreciendo una solución que centraliza y organiza la información clínica, facilitando el seguimiento de los pacientes y mejorando la calidad del tratamiento.
+1. **Demanda de Soluciones Tecnológicas en Salud Mental**: Existe un creciente interés en soluciones tecnológicas para la salud mental, lo que indica una oportunidad significativa para PsyMed. La necesidad de una plataforma que facilite la gestión de la atención psiquiátrica y brinde un seguimiento efectivo de los pacientes es fundamental en el contexto actual.
+
+2. **Deficiencias en Aplicaciones Existentes**: Muchas aplicaciones en el mercado presentan limitaciones en el registro y seguimiento de la información de los pacientes. PsyMed debe centrarse en ofrecer funcionalidades robustas para el manejo de historiales clínicos y medicaciones, superando las deficiencias de sus competidores.
+
+3. **Eficiencia en el Desarrollo a través de GitHub**: La utilización de herramientas como GitHub ha mejorado la colaboración y la gestión del código en el desarrollo de PsyMed. Esto asegura un control de versiones adecuado y una mejor documentación, lo que resulta en un software más eficiente y de mayor calidad.
+
+4. **Importancia de la Investigación de Necesidades**: La realización de entrevistas y el uso de artefactos de Needfinding han sido esenciales para comprender las expectativas de los psiquiatras y pacientes. Identificar frustraciones y necesidades específicas permite diseñar una solución que realmente resuene con el público objetivo.
+
+5. **Consistencia Visual y de Marca**: El desarrollo de guías de estilo (Style Guidelines) es crucial para mantener una identidad visual coherente en la plataforma. Esto no solo mejora la experiencia del usuario, sino que también fortalece la marca de PsyMed en un mercado competitivo.
+
+6. **Priorización de Características**: La implementación de User Stories y el Product Backlog han permitido establecer una clara priorización de las características a desarrollar. Esto asegura que el equipo enfoque sus esfuerzos en las funcionalidades más críticas para el lanzamiento inicial.
+
+7. **Planificación Efectiva con Wireframes**: La creación de wireframes ha proporcionado una base sólida para el diseño de la interfaz de usuario. Al enfocarse en los detalles visuales antes de la codificación, se ha logrado un producto más intuitivo y atractivo para los usuarios.
+
+8. **Metodología Ágil y Sprints**: La adopción de sprints en el desarrollo ha facilitado un avance ordenado y continuo. Limitar la cantidad de user story points por sprint ayuda a evitar la sobrecarga del equipo y permite una entrega más efectiva de las funcionalidades.
+
+9. **Iteración y Retroalimentación**: La realización de reuniones de feedback grupal durante el desarrollo del Landing Page ha sido valiosa para asegurar que todos los miembros del equipo estén alineados y que se puedan realizar mejoras continuas.
+
+10. **Estimación de Tiempos y Manejo de Pendientes**: Es fundamental estimar tiempos adicionales para abordar tareas no planificadas o carry over. La experiencia del Sprint 2 ha resaltado la importancia de manejar adecuadamente las complicaciones para asegurar que los plazos se cumplan.
+
+11. **Documentación de Funcionalidades**: La creación de documentación sobre los módulos de Angular Material y sus funcionalidades ha sido clave para garantizar que el equipo comprenda completamente las herramientas disponibles, lo que mejora la calidad del desarrollo.
 
 # Bibliografia
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
