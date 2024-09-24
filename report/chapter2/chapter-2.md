@@ -205,7 +205,7 @@ Finalmente, brindó las siguientes recomendaciones para el desarrollo de nuestro
 Entrevistado 3:
 
 <div align="center">
-  <img src="..%2F..%2Fassets%2FInterview3.jpeg">
+  <img src="/assets/Interview3.jpeg">
 </div>
 
 | Nombre               | Karina                                                                                                                                         |
@@ -393,11 +393,11 @@ expectativas de nuestros usuarios.
 
 **Segmento Objetivo: Medico mental**
 
-![So-Mental Medic.png](..%2F../assets/So-Mental%20Medic.png)
+![So-Mental Medic.png](/assets/So-Mental%20Medic.png)
 
 **Segmento Objetivo: Paciente**
 
-![So-Patient.png](..%2F../assets/So-patient.png)
+![So-Patient.png](/assets/So-patient.png)
 
 ## **User Task Matrix**
 
