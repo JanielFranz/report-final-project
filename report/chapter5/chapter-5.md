@@ -26,7 +26,6 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
    Ruta de referencia: https://www.jetbrains.com/webstorm/
    <br>
-   <br>
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
    empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
@@ -66,21 +65,30 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
 
 ### 5.1.2. Source Code Management.
-El proyecto seguirá las convenciones del flujo de trabajo establecido por el modelo GitFlow para el control de versiones, empleando GitHub como plataforma y sistema de control de versiones. A continuación, se describirá la implementación de GitFlow como un flujo de trabajo para el control de versiones, junto con el enlace del Landing Page.
+El proyecto adoptará las convenciones del modelo GitFlow para la gestión del control de versiones, utilizando GitHub como plataforma principal para alojar y organizar el código. GitFlow es un enfoque estructurado que facilita la colaboración en equipo y la gestión de múltiples versiones de software, asegurando que cada etapa de desarrollo esté debidamente aislada y controlada.
+
+A continuación, se explicará en detalle cómo se implementará este flujo de trabajo, destacando la creación y gestión de ramas para las distintas fases de desarrollo. Además, se proporcionará un enlace al repositorio de GitHub, donde se podrá acceder al reporte del proyecto, la landing page y el avance del frontend de la aplicación, permitiendo un seguimiento claro del progreso y las actualizaciones del código.
 
 **Repositorio de GitHub:**
 - Enlace para acceder a la [organización en GitHub](https://github.com/WX55-Closed-Source)
 - Enlace para acceder al repositorio de la [landing Page](https://github.com/WX55-Closed-Source/landing-page)
 - Enlace para acceder al repositorio del [reporte final](https://github.com/WX55-Closed-Source/report-final-project)
+- Enlace para acceder al repositorio del [frontend](https://github.com/WX55-Closed-Source/psymed-frontend)
 
 **Flujo de trabajo GitFlow**
 
 El flujo de trabajo a ser implementado para el desarrollo del proyecto se basará en el modelo propuesto por Vincent Driessen en "A successful Git branching model".
 
+![GitFlowDiagram.png](..%2F..%2Fassets%2FGitFlowDiagram.png)
+
 **Estructura de branches (Ramas):**
-1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
-2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
-3. **Feature branch(Ramas de funcionalidad):** Cada rama proviene de un bounded context del proyecto. Cuando um bounded context está completo se fusiona con la rama develop.
+
+
+1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, albergando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en las ramas de funcionalidad y, posteriormente, en la rama de desarrollo.
+
+2. **Develop Branch (Rama de Desarrollo):** Esta rama facilita el trabajo colaborativo del equipo y organiza el desarrollo continuo. Aquí se integran las funcionalidades en proceso y se realizan pruebas antes de su fusión con la rama principal, asegurando que el código se mantenga funcional y estable.
+
+3. **Feature branch (Ramas de funcionalidad):** Cada funcionalidad desarrollada por el equipo, o que se aparte del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente implementada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "fature/bc-Medication-managment".
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
@@ -110,11 +118,8 @@ siguientes:
    <br>
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
-   <br>
 
-**Convenciones de commits:** El formato de commits que se estableció presenta las siguiente estructura:
 
-"tipo" "(optional scope)": "description">
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
@@ -130,17 +135,19 @@ Para desplegar la landing page es necesario contar con una serie de requisitos, 
 ## GithubPages
 
 ![alt text](/assets/GithubPages.png)
+Accedemos a la URL proporcionada por GitHub Pages para confirmar que nuestra landing page se haya desplegado correctamente. De este modo, nuestra landing page estará disponible a través de GitHub Pages y será accesible para cualquier usuario que cuente con el enlace.
 
 Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
 Enlace del Landing Page: https://wx55-closed-source.github.io/landing-page/
 
 ### 5.2. Landing Page, Services & Applications Implementation.
+![Imagen de la landingPage desplegada.png](..%2F..%2Fassets%2FImagen%20de%20la%20landingPage%20desplegada.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page.
-
+[Video de la landingPage](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EazlWw9ZKSRGpI79_X3OVg8BaDAMXMmMZV-5rAu-4t34OA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=yQZINa)
 ### 5.2.1. Sprint 1
 
 ### 5.2.1.1. Sprint Planning 1
@@ -150,7 +157,7 @@ elaboración de la Landing Page. Nos dividiremos entre nosotros cada
 una de las tareas identificadas para el sprint.
 <table>
 <tr>
-    <th colspan="5">Sprint #</th>
+    <th colspan="5">Sprint 1</th>
     <th colspan="9">Sprint 1</th>
   </tr>
       <tr>
@@ -169,29 +176,33 @@ una de las tareas identificadas para el sprint.
     <td colspan="8">Via Discord</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Janiel Escalante</td>
+    <td colspan="8">Daniel Escalante</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Janiel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
+    <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="5">Sprint  1 Review Summary</td>
     <td colspan="8">En esta primera sección se planteo el desarrollo de la Landing Page para el proyecto de PsyMed.</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="5">Sprint 1 Retrospective Summary</td>
     <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Goal</td>
-    <td colspan="8">Finalizar con el desarrollo de la Landing Page</td>
+    <td colspan="5">Sprint 1 Goal</td>
+    <td colspan="8">
+Desplegar una landing page completamente
+funcional con imágenes y un menú interactivo, 
+accesible desde cualquier dispositivo, antes 
+de la fecha límite del sprint 11/07/24 .</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="5">Sprint 1 Velocity</td>
     <td colspan="8">4 story points</td>
 </tr>
 <tr>
@@ -682,7 +693,27 @@ Analiticas de Colaboración:
 
 # Conclusiones 
 
-En conclusión, PsyMed se posiciona como una solución esencial en un entorno donde la gestión eficiente de pacientes y la colaboración entre profesionales de la salud mental son cada vez más necesarias. La plataforma aborda la falta de herramientas tecnológicas integradas en los centros psiquiátricos, ofreciendo una solución que centraliza y organiza la información clínica, facilitando el seguimiento de los pacientes y mejorando la calidad del tratamiento.
+1. **Demanda de Soluciones Tecnológicas en Salud Mental**: Existe un creciente interés en soluciones tecnológicas para la salud mental, lo que indica una oportunidad significativa para PsyMed. La necesidad de una plataforma que facilite la gestión de la atención psiquiátrica y brinde un seguimiento efectivo de los pacientes es fundamental en el contexto actual.
+
+2. **Deficiencias en Aplicaciones Existentes**: Muchas aplicaciones en el mercado presentan limitaciones en el registro y seguimiento de la información de los pacientes. PsyMed debe centrarse en ofrecer funcionalidades robustas para el manejo de historiales clínicos y medicaciones, superando las deficiencias de sus competidores.
+
+3. **Eficiencia en el Desarrollo a través de GitHub**: La utilización de herramientas como GitHub ha mejorado la colaboración y la gestión del código en el desarrollo de PsyMed. Esto asegura un control de versiones adecuado y una mejor documentación, lo que resulta en un software más eficiente y de mayor calidad.
+
+4. **Importancia de la Investigación de Necesidades**: La realización de entrevistas y el uso de artefactos de Needfinding han sido esenciales para comprender las expectativas de los psiquiatras y pacientes. Identificar frustraciones y necesidades específicas permite diseñar una solución que realmente resuene con el público objetivo.
+
+5. **Consistencia Visual y de Marca**: El desarrollo de guías de estilo (Style Guidelines) es crucial para mantener una identidad visual coherente en la plataforma. Esto no solo mejora la experiencia del usuario, sino que también fortalece la marca de PsyMed en un mercado competitivo.
+
+6. **Priorización de Características**: La implementación de User Stories y el Product Backlog han permitido establecer una clara priorización de las características a desarrollar. Esto asegura que el equipo enfoque sus esfuerzos en las funcionalidades más críticas para el lanzamiento inicial.
+
+7. **Planificación Efectiva con Wireframes**: La creación de wireframes ha proporcionado una base sólida para el diseño de la interfaz de usuario. Al enfocarse en los detalles visuales antes de la codificación, se ha logrado un producto más intuitivo y atractivo para los usuarios.
+
+8. **Metodología Ágil y Sprints**: La adopción de sprints en el desarrollo ha facilitado un avance ordenado y continuo. Limitar la cantidad de user story points por sprint ayuda a evitar la sobrecarga del equipo y permite una entrega más efectiva de las funcionalidades.
+
+9. **Iteración y Retroalimentación**: La realización de reuniones de feedback grupal durante el desarrollo del Landing Page ha sido valiosa para asegurar que todos los miembros del equipo estén alineados y que se puedan realizar mejoras continuas.
+
+10. **Estimación de Tiempos y Manejo de Pendientes**: Es fundamental estimar tiempos adicionales para abordar tareas no planificadas o carry over. La experiencia del Sprint 2 ha resaltado la importancia de manejar adecuadamente las complicaciones para asegurar que los plazos se cumplan.
+
+11. **Documentación de Funcionalidades**: La creación de documentación sobre los módulos de Angular Material y sus funcionalidades ha sido clave para garantizar que el equipo comprenda completamente las herramientas disponibles, lo que mejora la calidad del desarrollo.
 
 # Bibliografia
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
