@@ -26,6 +26,7 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
 
    Ruta de referencia: https://www.jetbrains.com/webstorm/
    <br>
+   <br>
 2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Será
    empleado en el desarrollo del proyecto para la presentación del contenido en la aplicación.
 
@@ -41,6 +42,12 @@ A continuación, presentaremos el proceso por el cual organizamos, gestionamos y
    usuario dentro de la aplicación.
 
    Ruta de referencia: https://developer.mozilla.org/es/docs/Web/JavaScript
+   <br>
+   <br>
+
+6. Angular: Es un Framework de JavaScript de código abierto escrito en TypeScript que hemos utilizado para el desarrollo del front-end de nuestro proyecto "PsyMed".
+   El código trabajado se puede ver a través de nuestro repositorio.
+   Ruta de referencia: https://github.com/WX55-Closed-Source/psymed-frontend
 
  <br>
 
@@ -73,7 +80,8 @@ El flujo de trabajo a ser implementado para el desarrollo del proyecto se basar�
 **Estructura de branches (Ramas):**
 1. **Master branch (Rama principal):** Esta rama servirá como la principal para la aplicación, alojando versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados en los features y de ahí en Developer.
 2. **Develop branch (Rama de desarrollo):** El propósito de esta rama es facilitar los avances del proyecto en equipo y mantener los archivos centrales del desarrollo continuo.
-3. **Feature branch(Ramas de funcionalidad):** Cada capitulo desarrollado por el equipo, o separada del enfoque actual del desarrollo, tendrá su propia rama. Una vez que una funcionalidad esté completamente trabajada, se fusionará con la rama de desarrollo del proyecto. Las convenciones para nombrar las ramas de funcionalidad seguirán un patrón descriptivo y único, por ejemplo, "feature/chapter-#".
+3. **Feature branch(Ramas de funcionalidad):** Cada rama proviene de un bounded context del proyecto. Cuando um bounded context está completo se fusiona con la rama develop.
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 **HTML:** Algunas de las prácticas que deben de seguirse para alcanzar un código coherente, sostenible y ordenado son las
 siguientes:
@@ -102,8 +110,11 @@ siguientes:
    <br>
 
    CSS: (https://google.github.io/styleguide/htmlcssguide.html)
+   <br>
 
+**Convenciones de commits:** El formato de commits que se estableció presenta las siguiente estructura:
 
+"tipo" "(optional scope)": "description">
 
 ### 5.1.4. Software Deployment Configuration.
 ### Landing page deployment:
