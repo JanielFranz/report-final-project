@@ -444,9 +444,9 @@ El User Journey Mapping se desarrolló para comprender la experiencia de los usu
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![UJMMedico.jpg](..%2F..%2Fassets%2FUJMMedico.jpg)
+![UJMMedico.jpg](/assets/UJMMedico.jpg)
 ### **Segmento 2: Pacientes**
-![UJMPaciente.png](..%2F..%2Fassets%2FUJMPaciente.png)
+![UJMPaciente.png](/assets/UJMPaciente.png)
 
 ## **Emphaty Mapping**
 
@@ -455,16 +455,16 @@ Para la creación del Empathy Map, hemos utilizado la información obtenida de n
 
 
 ### **Segmento 1: Medicos de la salud mental**
-![EMMedico.jpg](..%2F..%2Fassets%2FEMMedico.jpg)
+![EMMedico.jpg](/assets/EMMedico.jpg)
 ### **Segmento 2: Pacientes**
-![Texto alternativo](../../assets/EMPaciente.png)
+![Texto alternativo](/assets/EMPaciente.png)
 
 
 ### 2.3.5 As-is Scenario Mapping
 - **Segmento objetivo:** Pisquiatra  
-  ![as-is1](..%2F..%2Fassets%2FAS-IS%20Pisquiatra.jpg)
+  ![as-is1](/assets/AS-IS%20Pisquiatra.jpg)
 - **Segmento objetivo:** Paciente    
-  ![as-is2](../../assets/AS-IS%20Cliente.jpg)
+  ![as-is2](/assets/AS-IS%20Cliente.jpg)
 
 ## 2.4. Ubiquitous Language
 
