@@ -300,7 +300,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">e82274c</td>
         <td colspan="2">chore: first commit</td>
-        <td colspan="2">-</td>
+        <td colspan="2">first commit</td>
         <td colspan="2">03/09/2024</td>
     </tr>
         <tr>
@@ -308,7 +308,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">50b05f3</td>
         <td colspan="2">feat(html): hero created</td>
-        <td colspan="2">-</td>
+        <td colspan="2">hero created</td>
         <td colspan="2">03/09/2024</td>
     </tr>
      <tr>
@@ -316,7 +316,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">515afa7</td>
         <td colspan="2">feat(html): structure of about us created</td>
-        <td colspan="2">-</td>
+        <td colspan="2">structure of about us created</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -324,7 +324,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">2ec2ab5</td>
         <td colspan="2">refactor(html): members html restructured</td>
-        <td colspan="2">-</td>
+        <td colspan="2">members html restructured</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -332,7 +332,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">6efcffd</td>
         <td colspan="2">add div PSYMED</td>
-        <td colspan="2">-</td>
+        <td colspan="2">add div PSYMED</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -340,7 +340,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">ec63485</td>
         <td colspan="2">feat: added the 3 suscriptions plans.</td>
-        <td colspan="2">-</td>
+        <td colspan="2">added the 3 suscriptions plans.</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -348,7 +348,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">d9bf7cb</td>
         <td colspan="2">feat(about-us): added about us section</td>
-        <td colspan="2">-</td>
+        <td colspan="2">added about us section</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -356,7 +356,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">c325e96</td>
         <td colspan="2">feat(about-the-product): added about the product section</td>
-        <td colspan="2">-</td>
+        <td colspan="2">added about the product section</td>
         <td colspan="2">04/09/2024</td>
     </tr>
     <tr>
@@ -364,7 +364,7 @@ de la fecha límite del sprint 11/07/24 .</td>
         <td colspan="2">Main</td>
         <td colspan="2">c152499</td>
         <td colspan="2">refactor: updating Images</td>
-        <td colspan="2">-</td>
+        <td colspan="2">updating Images</td>
         <td colspan="2">04/09/2024</td>
     </tr>
 </table>
@@ -766,6 +766,8 @@ consistente en toda la aplicación.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+Link para acceder al deployment: https://app.beeceptor.com/console/psymedapi
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
