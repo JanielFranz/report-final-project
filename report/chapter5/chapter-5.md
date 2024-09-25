@@ -682,12 +682,12 @@ Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de A
 **Gestión de Medicación**: Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
 
 ### 5.3.1.6. Services Documentation Evidence for Sprint Review 
-link del despliegue del Json: https://app.beeceptor.com/console/psymedapi
+link del despliegue del Json:
 
 En esta sección se documentará el servicio base utilizado para otros 
 servicios en la aplicación. Se diseñó para facilitar las operaciones 
 CRUD a través de una API, utilizando inicialmente un json-server local para 
-pruebas y luego migrando a ---------- en la aplicación web desplegada. 
+pruebas y luego migrando a Beeceptor en la aplicación web desplegada. 
 Este enfoque permitió validar funcionalidades del front-end sin depender 
 de un backend completo, garantizando así una implementación eficiente y 
 consistente en toda la aplicación.
@@ -715,7 +715,7 @@ consistente en toda la aplicación.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
-
+link to sofware deployment:https://app.beeceptor.com/console/psymedapi
 Link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
 ![IMG-20240924-WA0023.jpg](../../assets/IMG-20240924-WA0023.jpg)
 ![IMG-20240924-WA0024.jpg](../../assets/IMG-20240924-WA0024.jpg)
