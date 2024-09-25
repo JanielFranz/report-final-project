@@ -777,16 +777,16 @@ Esta es la Base de datos de la aplicación, con las tablas y relaciones necesari
 
 Tablas por bounded context:
 Las tablas de **BCPatient** almacenan la información de los pacientes, incluyendo su historial clínico, plan de tratamiento, funciones biológicas y estados de ánimo.  
-![PatientsManagmentBC.png](../../assets/PatientsManagmentBC.png)
+![PatientsManagmentBC.png](/assets/PatientsManagmentBC.png)
 
 Las tablas de **BCProfessional** almacenan la información de los profesionales de la salud, incluyendo su especialidad y los tratamientos de sus pacientes.  
-![ProfesionalsManagmentBC.png](../../assets/ProfesionalsManagmentBC.png)
+![ProfesionalsManagmentBC.png](/assets/ProfesionalsManagmentBC.png)
 
 Las tablas de **BCSeccion** almacenan la información de las secciones de la aplicación, incluyendo al profesional asignado y los pacientes que participan en cada sección, además de las notas que se toman en cada sección.  
-![SecionsManagmentBc.png](../../assets/SecionsManagmentBc.png)
+![SecionsManagmentBc.png](/assets/SecionsManagmentBc.png)
 
 Las tablas de **BCTask** almacenan la información de los estados de ánimo y las funciones biológicas de los pacientes.  
-![SyntonsBC.png](../../assets/SyntonsBC.png)
+![SyntonsBC.png](/assets/SyntonsBC.png)
 
 Las tablas de **BCMedication** almacenan la información de los medicamentos y prescripciones que se le asignan a los pacientes.  
-![MedicalManagmentBC.png](../../assets/MedicalManagmentBC.png)
+![MedicalManagmentBC.png](/assets/MedicalManagmentBC.png)
