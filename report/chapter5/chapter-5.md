@@ -492,11 +492,11 @@ del proyecto.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Velocity</td>
-    <td colspan="8"> ---- story points</td>
+    <td colspan="8"> 2 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"> ---- Story Points</td>
+    <td colspan="8"> 11 Story Points</td>
 </tr>
 </table>
 
@@ -504,8 +504,8 @@ del proyecto.</td>
 
 <table>
 <tr>
-    <th colspan="3">Sprint #</th>
-    <th colspan="10">Sprint 1</th>
+    <th colspan="3">Sprint 2</th>
+    <th colspan="10">Sprint 2</th>
 </tr>
 <tr>
     <td colspan="3">User Story</td>
@@ -522,54 +522,135 @@ del proyecto.</td>
     <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
 </tr>
 <tr>
-    <td colspan="1">US01</td>
-    <td colspan="2">  </td>
+    <td colspan="1">US23</td>
+    <td colspan="2"> Registro de funciones biológicas </td>
     <td colspan="1">UT01</td>
-    <td colspan="2"> </td>
-    <td colspan="3">  </td>
-    <td colspan="1">2</td>
-    <td colspan="2">Anatoly</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">   </td>
-    <td colspan="1">UT02</td>
-    <td colspan="2">-----------------</td>
-    <td colspan="3">-----------------.</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US02</td>
-    <td colspan="2">--------------------------</td>
-    <td colspan="1">UT03</td>
-    <td colspan="2">------------------------------------</td>
-    <td colspan="3">---------------------------.</td>
+    <td colspan="2">El paciente puede registrar sus funciones biologicas</td>
+    <td colspan="3"> El paciente ingresa su estado de animo biologicas </td>
     <td colspan="1">3</td>
     <td colspan="2">Daniel</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">US03</td>
-    <td colspan="2">--------------------------</td>
-    <td colspan="1">UT04</td>
-    <td colspan="2">---------------------</td>
-    <td colspan="3">-------------------------------</td>
+    <td colspan="1">US21</td>
+    <td colspan="2">  Registro de estado de ánimo </td>
+    <td colspan="1">UT02</td>
+    <td colspan="2"> El paciente registra su estado de animo </td>
+    <td colspan="3"> El paciente debe selecionar el estado de animo y se guarda </td>
     <td colspan="1">2</td>
-    <td colspan="2"> Valentino </td>
+    <td colspan="2">Daniel - Romina</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">US04</td>
-    <td colspan="2">----------------------</td>
-    <td colspan="1">UT05</td>
-    <td colspan="2">------------------</td>
-    <td colspan="3">------------------------------------------</td>
-    <td colspan="1">1</td>
-    <td colspan="2">Sihuar</td>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT03</td>
+    <td colspan="2"> El medico registra los medicamentos del paciente </td>
+    <td colspan="3">  El medico registra los datos del medicamentos de su paciente </td>
+    <td colspan="1">3</td>
+    <td colspan="2">Valentino</td>
     <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Actualizar ingesta de pastillas</td>
+    <td colspan="1">UT04</td>
+    <td colspan="2"> El medico puede actualizar la medicacion de su paciente </td>
+    <td colspan="3"> El medico reingresa los datos de su paciente y estos se actualizan</td>
+    <td colspan="1">3</td>
+    <td colspan="2"> Valentino - anatoly </td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Visualización de los estados de ánimo del paciente</td>
+    <td colspan="1">UT05</td>
+    <td colspan="2">Se ven los estados de animo del paciente </td>
+    <td colspan="3">El medico puede observar un grafico con un reporte de los estados de animo</td>
+    <td colspan="1">2</td>
+    <td colspan="2"> Daniel -Romina </td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>	
+    <td colspan="1">US13</td>
+    <td colspan="2">Visualizar información del consumo de medicamentos</td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Se puede observar la informacion de los medicamentos</td>
+    <td colspan="3">Una pantalla con la iformacion de los medicamentos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Valentino</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US11</td>
+    <td colspan="2">Visualizar datos estadísticos de funciones biológicas</td>
+    <td colspan="1">UT07</td>
+    <td colspan="2">El profecional puede observar los datos de sus pacientes</td>
+    <td colspan="3">En una pantalla de estadisticas el profecional puede ver los datos estadisticos</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Anatoli</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS09</td>
+    <td colspan="2">Recuperar datos del estado de ánimo del paciente a través de un RESTful API</td>
+    <td colspan="1">UT08</td>
+    <td colspan="2">Se puede obtener datos de estado de animo de la RESTful API </td>
+    <td colspan="3">Los datos observados son los de la RESTful API</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Daniel - Valentino</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS10</td>
+    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
+    <td colspan="1">UT09</td>
+    <td colspan="2">La aplicacion puede consultar los datos de la RESTful API por el consumo de medicamentos</td>
+    <td colspan="3">Se muestra en la pantalla los datos de la RESTful API</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS21</td>
+    <td colspan="2">Registro de funciones biológicas a través de un RESTful API</td>
+    <td colspan="1">UT10</td>
+    <td colspan="2">Se recuperan los datos de las funciones biologicas de la RESTful API </td>
+    <td colspan="3">Se pueden observar los datos de la RESTful API en el grafico</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Anatoli - sihuar</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS11</td>
+    <td colspan="2">Actualizar información de consumo de pastillas del paciente a través de un RESTful API</td>
+    <td colspan="1">UT11</td>
+    <td colspan="2">Se puede actualizar la informacion de las pastillas en la RESTful APItd>
+    <td colspan="3">Las pastillas se pueden actualizar en la RESTful API</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Daniel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">TS15</td>
+    <td colspan="2">Registro de apuntes por sesión	</td>
+    <td colspan="1">UT12</td>
+    <td colspan="2">El profesional registra notas de sesion</td>
+    <td colspan="3">El profesional registra </td>
+    <td colspan="1">2</td>
+    <td colspan="2">Sihuar</td>
+    <td colspan="1">InProcess</td>
+</tr>
+<tr>
+    <td colspan="1">US16</td>
+    <td colspan="2">Actualizar apuntes de la sesión terapéutica	</td>
+    <td colspan="1">UT13</td>
+    <td colspan="2">El profesional actualiza las notas de la sesion </td>
+    <td colspan="3">El profesional registra cambios en los apuntes de la seccion </td>
+    <td colspan="1">2</td>
+    <td colspan="2">Sihuar</td>
+    <td colspan="1">InProcess</td>
 </tr>
 </table>
 
