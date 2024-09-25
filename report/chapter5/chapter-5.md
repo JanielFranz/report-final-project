@@ -176,11 +176,11 @@ una de las tareas identificadas para el sprint.
     <td colspan="8">Via Discord</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Daniel Escalante</td>
+    <td colspan="8">Janiel Escalante</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
+    <td colspan="8">Janiel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
 </tr>
 <tr>
     <td colspan="5">Sprint  1 Review Summary</td>
@@ -196,10 +196,7 @@ una de las tareas identificadas para el sprint.
 <tr>
     <td colspan="5">Sprint 1 Goal</td>
     <td colspan="8">
-Desplegar una landing page completamente
-funcional con imágenes y un menú interactivo, 
-accesible desde cualquier dispositivo, antes 
-de la fecha límite del sprint 11/07/24 .</td>
+Desarrollar y desplegar una landing page que presente información a los usuarios a través de imágenes y texto, con la capacidad de cambiar de idioma mediante un interruptor de internacionalización. La página debe ser completamente adaptable a cualquier tipo de dispositivo que utilicen los usuarios, garantizando una experiencia de usuario fluida y responsiva.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 1 Velocity</td>
@@ -462,11 +459,11 @@ identificados en el proyecto.
     <td colspan="8">Via Discord</td>
 <tr>
     <td colspan="5">Prepared By</td>
-    <td colspan="8">Daniel Escalante</td>
+    <td colspan="8">Janiel Escalante</td>
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Daniel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
+    <td colspan="8">Janiel Escalante, Romina Maita, Sihuar Ccotarma, Valentino Cervantes, Anatoly Noriega</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Review Summary</td>
@@ -488,7 +485,7 @@ del proyecto.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Goal</td>
-    <td colspan="8">Implementar los Bounded Contexts y diseñar cada uno de ellos.</td>
+    <td colspan="8">Desarrollar e implementar todas las user stories relacionadas con la lógica de negocio para la aplicación web. Estas incluirán funcionalidades que permitan a los profesionales de la salud mental visualizar datos de seguimiento, registrar pacientes con su información correspondiente, y gestionar elementos como citas y prescripciones. Además, se implementarán funcionalidades que permitan a los pacientes ingresar datos relevantes para su tratamiento.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 2 Velocity</td>
@@ -528,7 +525,7 @@ del proyecto.</td>
     <td colspan="2">El paciente puede registrar sus funciones biologicas</td>
     <td colspan="3"> El paciente ingresa su estado de animo biologicas </td>
     <td colspan="1">3</td>
-    <td colspan="2">Daniel</td>
+    <td colspan="2">Janiel</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -538,7 +535,7 @@ del proyecto.</td>
     <td colspan="2"> El paciente registra su estado de animo </td>
     <td colspan="3"> El paciente debe selecionar el estado de animo y se guarda </td>
     <td colspan="1">2</td>
-    <td colspan="2">Daniel - Romina</td>
+    <td colspan="2">Janiel - Romina</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
@@ -569,7 +566,7 @@ del proyecto.</td>
     <td colspan="2">Se ven los estados de animo del paciente </td>
     <td colspan="3">El medico puede observar un grafico con un reporte de los estados de animo</td>
     <td colspan="1">2</td>
-    <td colspan="2"> Daniel -Romina </td>
+    <td colspan="2"> Janiel -Romina </td>
     <td colspan="1">Done</td>
 </tr>
 <tr>	
@@ -591,56 +588,6 @@ del proyecto.</td>
     <td colspan="1">2</td>
     <td colspan="2">Anatoli</td>
     <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">TS09</td>
-    <td colspan="2">Recuperar datos del estado de ánimo del paciente a través de un RESTful API</td>
-    <td colspan="1">UT08</td>
-    <td colspan="2">Se puede obtener datos de estado de animo de la RESTful API </td>
-    <td colspan="3">Los datos observados son los de la RESTful API</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Daniel - Valentino</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">TS10</td>
-    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
-    <td colspan="1">UT09</td>
-    <td colspan="2">La aplicacion puede consultar los datos de la RESTful API por el consumo de medicamentos</td>
-    <td colspan="3">Se muestra en la pantalla los datos de la RESTful API</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">TS21</td>
-    <td colspan="2">Registro de funciones biológicas a través de un RESTful API</td>
-    <td colspan="1">UT10</td>
-    <td colspan="2">Se recuperan los datos de las funciones biologicas de la RESTful API </td>
-    <td colspan="3">Se pueden observar los datos de la RESTful API en el grafico</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Anatoli - sihuar</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">TS11</td>
-    <td colspan="2">Actualizar información de consumo de pastillas del paciente a través de un RESTful API</td>
-    <td colspan="1">UT11</td>
-    <td colspan="2">Se puede actualizar la informacion de las pastillas en la RESTful APItd>
-    <td colspan="3">Las pastillas se pueden actualizar en la RESTful API</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Daniel</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">TS15</td>
-    <td colspan="2">Registro de apuntes por sesión	</td>
-    <td colspan="1">UT12</td>
-    <td colspan="2">El profesional registra notas de sesion</td>
-    <td colspan="3">El profesional registra </td>
-    <td colspan="1">2</td>
-    <td colspan="2">Sihuar</td>
-    <td colspan="1">InProcess</td>
 </tr>
 <tr>
     <td colspan="1">US16</td>
