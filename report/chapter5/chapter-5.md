@@ -667,76 +667,45 @@ del proyecto.</td>
     </tr>
         <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">---------------</td>
+        <td colspan="2">"dashboard-and-analytics"</td>
+        <td colspan="2">9afb750</td>
+        <td colspan="2">feat(analytic-dashboard)</td>
+        <td colspan="2">service and functions added for biological functions</td>
+        <td colspan="2">24/09/2024</td>
     </tr>
         <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">---------------</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">3edbd2a</td>
+        <td colspan="2">feat(appointment-and-administration)</td>
+        <td colspan="2">add form to make new appointments</td>
+        <td colspan="2">23/09/2024</td>
     </tr>
      <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">---------------</td>
+        <td colspan="2">"medication-management"</td>
+        <td colspan="2">a300c2c</td>
+        <td colspan="2">feat: adding bounded context's components and pages</td>
+        <td colspan="2">adding bounded context's components and pages</td>
+        <td colspan="2">24/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">----------------------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">---------------------</td>
+        <td colspan="2">"session-notes"</td>
+        <td colspan="2">97ccde2</td>
+        <td colspan="2">feat: add note-page component</td>
+        <td colspan="2">add note-page component</td>
+        <td colspan="2">23/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">--------------</td>
-        <td colspan="2">-------------------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">--------------------</td>
+        <td colspan="2">user-management</td>
+        <td colspan="2">4b11b9b</td>
+        <td colspan="2">feat(patient-item)</td>
+        <td colspan="2">added patient item logic</td>
+        <td colspan="2">23/09/2024</td>
     </tr>
-    <tr>
-        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">-----------------</td>
-        <td colspan="2">------------------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">-------------</td>
-    </tr>
-    <tr>
-        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">---------------</td>
-        <td colspan="2">----------------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">---------------</td>
-    </tr>
-    <tr>
-        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">--------------</td>
-        <td colspan="2">--------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">------------------</td>
-    </tr>
-    <tr>
-        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">Main</td>
-        <td colspan="2">-------------</td>
-        <td colspan="2">--------------------------</td>
-        <td colspan="2">-</td>
-        <td colspan="2">-----------------</td>
-    </tr>
+    
 </table>
 
 ### 5.3.1.4. Testing Suite Evidence for Sprint Review
