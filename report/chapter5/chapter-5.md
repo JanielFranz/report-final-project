@@ -520,21 +520,21 @@ del proyecto.</td>
 </tr>
 <tr>
     <td colspan="1">US23</td>
-    <td colspan="2"> Registro de funciones biológicas </td>
+    <td colspan="2">Registro de funciones biológicas</td>
     <td colspan="1">UT01</td>
-    <td colspan="2">El paciente puede registrar sus funciones biologicas</td>
-    <td colspan="3"> El paciente ingresa su estado de animo biologicas </td>
-    <td colspan="1">3</td>
+    <td colspan="2">El paciente puede registrar sus funciones biológicas</td>
+    <td colspan="3">El paciente ingresa su estado de ánimo y funciones biológicas</td>
+    <td colspan="1">5H</td>
     <td colspan="2">Janiel</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US21</td>
-    <td colspan="2">  Registro de estado de ánimo </td>
+    <td colspan="2">Registro de estado de ánimo</td>
     <td colspan="1">UT02</td>
-    <td colspan="2"> El paciente registra su estado de animo </td>
-    <td colspan="3"> El paciente debe selecionar el estado de animo y se guarda </td>
-    <td colspan="1">2</td>
+    <td colspan="2">El paciente registra su estado de ánimo</td>
+    <td colspan="3">El paciente debe seleccionar el estado de ánimo y se guarda</td>
+    <td colspan="1">4H</td>
     <td colspan="2">Janiel - Romina</td>
     <td colspan="1">Done</td>
 </tr>
@@ -542,67 +542,45 @@ del proyecto.</td>
     <td colspan="1">US09</td>
     <td colspan="2">Registro de medicamentos del paciente</td>
     <td colspan="1">UT03</td>
-    <td colspan="2"> El medico registra los medicamentos del paciente </td>
-    <td colspan="3">  El medico registra los datos del medicamentos de su paciente </td>
-    <td colspan="1">3</td>
+    <td colspan="2">El médico registra los medicamentos del paciente</td>
+    <td colspan="3">El médico registra los datos de los medicamentos de su paciente</td>
+    <td colspan="1">8H</td>
     <td colspan="2">Valentino</td>
     <td colspan="1">Done</td>
 </tr>
-
 <tr>
     <td colspan="1">US14</td>
     <td colspan="2">Actualizar ingesta de pastillas</td>
     <td colspan="1">UT04</td>
-    <td colspan="2"> El medico puede actualizar la medicacion de su paciente </td>
-    <td colspan="3"> El medico reingresa los datos de su paciente y estos se actualizan</td>
-    <td colspan="1">3</td>
-    <td colspan="2"> Valentino - anatoly </td>
+    <td colspan="2">El médico puede actualizar la medicación de su paciente</td>
+    <td colspan="3">El médico reingresa los datos de su paciente y estos se actualizan</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino - Anatoly</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US12</td>
     <td colspan="2">Visualización de los estados de ánimo del paciente</td>
     <td colspan="1">UT05</td>
-    <td colspan="2">Se ven los estados de animo del paciente </td>
-    <td colspan="3">El medico puede observar un grafico con un reporte de los estados de animo</td>
-    <td colspan="1">2</td>
-    <td colspan="2"> Janiel -Romina </td>
+    <td colspan="2">Se ven los estados de ánimo del paciente</td>
+    <td colspan="3">El médico puede observar un gráfico con un reporte de los estados de ánimo</td>
+    <td colspan="1">4H</td>
+    <td colspan="2">Janiel - Romina</td>
     <td colspan="1">Done</td>
 </tr>
-<tr>	
+<tr>    
     <td colspan="1">US13</td>
     <td colspan="2">Visualizar información del consumo de medicamentos</td>
     <td colspan="1">UT06</td>
-    <td colspan="2">Se puede observar la informacion de los medicamentos</td>
-    <td colspan="3">Una pantalla con la iformacion de los medicamentos</td>
-    <td colspan="1">3</td>
-    <td colspan="2">Valentino</td>
+    <td colspan="2">Se puede observar la información de los medicamentos</td>
+    <td colspan="3">Una pantalla con la información de los medicamentos</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino - Anatoly</td>
     <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US11</td>
-    <td colspan="2">Visualizar datos estadísticos de funciones biológicas</td>
-    <td colspan="1">UT07</td>
-    <td colspan="2">El profecional puede observar los datos de sus pacientes</td>
-    <td colspan="3">En una pantalla de estadisticas el profecional puede ver los datos estadisticos</td>
-    <td colspan="1">2</td>
-    <td colspan="2">Anatoli</td>
-    <td colspan="1">Done</td>
-</tr>
-<tr>
-    <td colspan="1">US16</td>
-    <td colspan="2">Actualizar apuntes de la sesión terapéutica	</td>
-    <td colspan="1">UT13</td>
-    <td colspan="2">El profesional actualiza las notas de la sesion </td>
-    <td colspan="3">El profesional registra cambios en los apuntes de la seccion </td>
-    <td colspan="1">2</td>
-    <td colspan="2">Sihuar</td>
-    <td colspan="1">InProcess</td>
 </tr>
 </table>
 
 ### 5.3.1.3. Development Evidence for Sprint Review
-
 <table>
     <tr>
         <th colspan="2">Repository</th>
@@ -715,8 +693,10 @@ consistente en toda la aplicación.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
-link to sofware deployment:https://app.beeceptor.com/console/psymedapi
-Link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
+
+link to software deployment:https://app.beeceptor.com/console/psymedapi
+
+link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
 ![IMG-20240924-WA0023.jpg](../../assets/IMG-20240924-WA0023.jpg)
 ![IMG-20240924-WA0024.jpg](../../assets/IMG-20240924-WA0024.jpg)
 ![IMG-20240924-WA0025.jpg](../../assets/IMG-20240924-WA0025.jpg)
@@ -756,7 +736,9 @@ Commits:
 # Anexos
 
 Video TB1: https://www.youtube.com/watch?v=FlChiyIqaeE
+
 Video entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=1wXyUg
+
 Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU
 
 # Bibliografia
