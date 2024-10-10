@@ -528,10 +528,11 @@ del proyecto.</td>
     <td colspan="2">Janiel</td>
     <td colspan="1">Done</td>
 </tr>
+
 <tr>
     <td colspan="1">US21</td>
     <td colspan="2">Registro de estado de ánimo</td>
-    <td colspan="1">UT02</td>
+    <td colspan="1">UT</td>
     <td colspan="2">El paciente registra su estado de ánimo</td>
     <td colspan="3">El paciente debe seleccionar el estado de ánimo y se guarda</td>
     <td colspan="1">4H</td>
@@ -541,27 +542,48 @@ del proyecto.</td>
 <tr>
     <td colspan="1">US09</td>
     <td colspan="2">Registro de medicamentos del paciente</td>
-    <td colspan="1">UT03</td>
-    <td colspan="2">El médico registra los medicamentos del paciente</td>
-    <td colspan="3">El médico registra los datos de los medicamentos de su paciente</td>
-    <td colspan="1">8H</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">Service realiza peticiones de la Api del endpoint "medicacions"</td>
+    <td colspan="3"> Se realiza el service para realizar las peticiones a la Api</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino-Sihuar</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">El médico registra los medicamentos del paciente en un Forms</td>
+    <td colspan="3">El médico registra los datos de los medicamentos de su paciente en un fomrs, que se guardan en la Api</td>
+    <td colspan="1">6H</td>
     <td colspan="2">Valentino</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2"> Visualizacion de lista de medicamentos </td>
+    <td colspan="3">El medico observa una lista de medicamentos de la Api</td>
+    <td colspan="1">4H</td>
+    <td colspan="2">Sihuar - Valentino</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
     <td colspan="1">US14</td>
     <td colspan="2">Actualizar ingesta de pastillas</td>
-    <td colspan="1">UT04</td>
+    <td colspan="1">UT</td>
     <td colspan="2">El médico puede actualizar la medicación de su paciente</td>
-    <td colspan="3">El médico reingresa los datos de su paciente y estos se actualizan</td>
+    <td colspan="3">El médico reingresa los datos de su medicacion de su paciente y estos se actualizan en la Api</td>
     <td colspan="1">5H</td>
-    <td colspan="2">Valentino - Anatoly</td>
+    <td colspan="2">Valentino - Sihuar</td>
     <td colspan="1">Done</td>
 </tr>
+
 <tr>
     <td colspan="1">US12</td>
     <td colspan="2">Visualización de los estados de ánimo del paciente</td>
-    <td colspan="1">UT05</td>
+    <td colspan="1">UT</td>
     <td colspan="2">Se ven los estados de ánimo del paciente</td>
     <td colspan="3">El médico puede observar un gráfico con un reporte de los estados de ánimo</td>
     <td colspan="1">4H</td>
@@ -707,7 +729,7 @@ link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoin
 ![IMG-20240924-WA0030.jpg](../../assets/IMG-20240924-WA0030.jpg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
-
+wW
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
