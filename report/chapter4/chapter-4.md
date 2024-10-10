@@ -495,11 +495,11 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![C4Model](/assets/ComponentDiagramAccess.png)
 
-#### Bounded Context Sessions Management Diagram
+#### Bounded Context Sessions Notes Diagram
 
 ![C4Model](/assets/ComponentDiagramSession.png)
 
-#### Bounded Context User Management Diagram
+#### Bounded Context Patient Tracker Diagram
 
 ![C4Model](/assets/ComponentDiagramUserManagement.png)
 
@@ -519,7 +519,7 @@ Agenda del Paciente: Calendario donde los pacientes pueden ver sus citas program
 
 ![C4Model](/assets/ComponentDiagramAppointmentAdministration.png)
 
-#### Bounded Context Statistics and Analysis Diagram
+#### Bounded Context Dashboard and Analysis Diagram
 
 ![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
