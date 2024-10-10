@@ -607,11 +607,11 @@ En este flow se puede observar como el profesional se registra en la plataforma.
 
 ![C4Model](/assets/ComponentDiagramAccess.png)
 
-#### Bounded Context Sessions Management Diagram
+#### Bounded Context Sessions Notes Diagram
 
 ![C4Model](/assets/ComponentDiagramSession.png)
 
-#### Bounded Context User Management Diagram
+#### Bounded Context Patient Tracker Diagram
 
 ![C4Model](/assets/ComponentDiagramUserManagement.png)
 
@@ -631,7 +631,7 @@ En este flow se puede observar como el profesional se registra en la plataforma.
 
 ![C4Model](/assets/ComponentDiagramAppointmentAdministration.png)
 
-#### Bounded Context Statistics and Analysis Diagram
+#### Bounded Context Dashboard and Analysis Diagram
 
 ![C4Model](/assets/ComponentDiagramStatisticsAnalysis.png)
 
