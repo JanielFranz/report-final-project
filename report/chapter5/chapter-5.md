@@ -735,6 +735,245 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 Commits:
 ![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
 
+### 5.3.1.2. Sprint Backlog 3
+
+<table>
+<tr>
+    <th colspan="3">Sprint 3</th>
+    <th colspan="10">Sprint 3</th>
+</tr>
+<tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+</tr>
+<tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+</tr>
+<tr>
+    <td colspan="1">US23</td>
+    <td colspan="2">Registro de funciones biológicas</td>
+    <td colspan="1">UT01</td>
+    <td colspan="2">El paciente puede registrar sus funciones biológicas</td>
+    <td colspan="3">El paciente ingresa su estado de ánimo y funciones biológicas</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Janiel</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US21</td>
+    <td colspan="2">Registro de estado de ánimo</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">El paciente registra su estado de ánimo</td>
+    <td colspan="3">El paciente debe seleccionar el estado de ánimo y se guarda</td>
+    <td colspan="1">4H</td>
+    <td colspan="2">Janiel - Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">Service realiza peticiones de la Api del endpoint "medicacions"</td>
+    <td colspan="3"> Se realiza el service para realizar las peticiones a la Api</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino-Sihuar</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">El médico registra los medicamentos del paciente en un Forms</td>
+    <td colspan="3">El médico registra los datos de los medicamentos de su paciente en un fomrs, que se guardan en la Api</td>
+    <td colspan="1">6H</td>
+    <td colspan="2">Valentino</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US09</td>
+    <td colspan="2">Registro de medicamentos del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2"> Visualizacion de lista de medicamentos </td>
+    <td colspan="3">El medico observa una lista de medicamentos de la Api</td>
+    <td colspan="1">4H</td>
+    <td colspan="2">Sihuar - Valentino</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">US14</td>
+    <td colspan="2">Actualizar ingesta de pastillas</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">El médico puede actualizar la medicación de su paciente</td>
+    <td colspan="3">El médico reingresa los datos de su medicacion de su paciente y estos se actualizan en la Api</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino - Sihuar</td>
+    <td colspan="1">Done</td>
+</tr>
+
+<tr>
+    <td colspan="1">US12</td>
+    <td colspan="2">Visualización de los estados de ánimo del paciente</td>
+    <td colspan="1">UT</td>
+    <td colspan="2">Se ven los estados de ánimo del paciente</td>
+    <td colspan="3">El médico puede observar un gráfico con un reporte de los estados de ánimo</td>
+    <td colspan="1">4H</td>
+    <td colspan="2">Janiel - Romina</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>    
+    <td colspan="1">US13</td>
+    <td colspan="2">Visualizar información del consumo de medicamentos</td>
+    <td colspan="1">UT06</td>
+    <td colspan="2">Se puede observar la información de los medicamentos</td>
+    <td colspan="3">Una pantalla con la información de los medicamentos</td>
+    <td colspan="1">5H</td>
+    <td colspan="2">Valentino - Anatoly</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+### 5.3.1.3. Development Evidence for Sprint Review
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">"dashboard-and-analytics"</td>
+        <td colspan="2">9afb750</td>
+        <td colspan="2">feat(analytic-dashboard)</td>
+        <td colspan="2">service and functions added for biological functions</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">3edbd2a</td>
+        <td colspan="2">feat(appointment-and-administration)</td>
+        <td colspan="2">add form to make new appointments</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">"medication-management"</td>
+        <td colspan="2">a300c2c</td>
+        <td colspan="2">feat: adding bounded context's components and pages</td>
+        <td colspan="2">adding bounded context's components and pages</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">"session-notes"</td>
+        <td colspan="2">97ccde2</td>
+        <td colspan="2">feat: add note-page component</td>
+        <td colspan="2">add note-page component</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
+        <td colspan="2">user-management</td>
+        <td colspan="2">4b11b9b</td>
+        <td colspan="2">feat(patient-item)</td>
+        <td colspan="2">added patient item logic</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+
+</table>
+
+### 5.3.1.4. Testing Suite Evidence for Sprint Review
+
+Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de Angular. A continuación, se muestran imágenes de estas pruebas unitarias.
+
+![TestAppCom.png](../../assets/TestAppCom.png)
+//En este test se verifica que el componente App se cree correctamente.//
+
+![TestMedication.png](../../assets/TestMedication.png)
+//En este test se verifica que el componente Medication se cree correctamente.//
+
+![TestPacientManagment.png](../../assets/TestPacientManagment.png)
+//En este test se verifica que el componente PacientManagment se cree correctamente.//
+### 5.3.1.5. Execution Evidence for Sprint Review
+
+**Gestión de Usuarios**: Permite administrar las cuentas de los usuarios, sus permisos y accesos.
+
+**Gestión de Notas de Sección**: Facilita el registro y seguimiento de notas clínicas importantes por cada sesión o visita.
+
+**Gestión de Administración de Citas**: Optimiza la organización de citas, recordatorios y disponibilidad del personal médico.
+
+**Gestión de Dashboards de Analytics**: Proporciona visualizaciones y análisis de datos relevantes para la toma de decisiones.
+
+**Gestión de Seguimiento de Síntomas y Estado**: Permite monitorear y registrar los síntomas y la evolución del estado de los pacientes.
+
+**Gestión de Medicación**: Administra las prescripciones médicas, recordatorios de dosis y actualizaciones de medicación.
+
+### 5.3.1.6. Services Documentation Evidence for Sprint Review
+link del despliegue del Json:
+
+En esta sección se documentará el servicio base utilizado para otros
+servicios en la aplicación. Se diseñó para facilitar las operaciones
+CRUD a través de una API, utilizando inicialmente un json-server local para
+pruebas y luego migrando a Beeceptor en la aplicación web desplegada.
+Este enfoque permitió validar funcionalidades del front-end sin depender
+de un backend completo, garantizando así una implementación eficiente y
+consistente en toda la aplicación.
+
+| **Elemento**           | **Descripción**                                                                                                                                                       |
+|-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Clase**             | `BaseService<T>`                                                                                                                                                     |
+| **Propósito**         | Proveer métodos genéricos para realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en recursos a través de una API.                                      |
+| **Dependencias**      | `HttpClient`, `HttpErrorResponse`, `HttpHeaders` de `@angular/common/http`, y `rxjs` para manejo de observables y errores.                                        |
+| **Propiedades**       | - `httpOptions`: Opciones de cabecera para las solicitudes HTTP (JSON).                                                                                             |
+|                       | - `http`: Instancia de `HttpClient` para realizar solicitudes HTTP.                                                                                                 |
+|                       | - `basePath`: Ruta base del servidor, definida en el entorno de desarrollo.                                                                                         |
+|                       | - `resourceEndpoint`: Ruta del recurso, por defecto `/resources`.                                                                                                   |
+|                       |                                                                                                                                                                       |
+| **Métodos**           | - **`create(item: any): Observable<T>`**: Crea un nuevo recurso enviando un objeto `item` a la API.                                                                 |
+|                       | - **`update(id: any, item: any): Observable<T>`**: Actualiza un recurso existente identificado por `id`.                                                            |
+|                       | - **`delete(id: any): Observable<any>`**: Elimina un recurso identificado por `id`.                                                                                 |
+|                       | - **`getAll(): Observable<T[]>`**: Recupera todos los recursos.                                                                                                    |
+|                       | - **`getById(id: any): Observable<T>`**: Recupera un recurso específico por `id`.                                                                                   |
+|                       | - **`handleError(error: HttpErrorResponse): Observable<never>`**: Maneja errores en las solicitudes HTTP, imprimiendo información del error en la consola.          |
+|                       | - **`resourcePath(): string`**: Construye y retorna la ruta completa del recurso.                                                                                   |
+| **Manejo de Errores** | Utiliza el operador `catchError` de `rxjs` para capturar y manejar errores en las solicitudes, reintentando la solicitud hasta dos veces antes de fallar.         |
+| **Observables**       | Utiliza `Observable` para permitir la suscripción a las respuestas de las solicitudes, facilitando la programación reactiva.                                         |
+| **Configuración**     | Se basa en las configuraciones del entorno definidas en `environment.serverBasePath` para la correcta conexión a la API.                                            |
+
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+link to software deployment:https://app.beeceptor.com/console/psymedapi
+
+link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
+![IMG-20240924-WA0023.jpg](../../assets/IMG-20240924-WA0023.jpg)
+![IMG-20240924-WA0024.jpg](../../assets/IMG-20240924-WA0024.jpg)
+![IMG-20240924-WA0025.jpg](../../assets/IMG-20240924-WA0025.jpg)
+![IMG-20240924-WA0026.jpg](../../assets/IMG-20240924-WA0026.jpg)
+![IMG-20240924-WA0027.jpg](../../assets/IMG-20240924-WA0027.jpg)
+![IMG-20240924-WA0028.jpg](../../assets/IMG-20240924-WA0028.jpg)
+![IMG-20240924-WA0029.jpg](../../assets/IMG-20240924-WA0029.jpg)
+![IMG-20240924-WA0030.jpg](../../assets/IMG-20240924-WA0030.jpg)
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
+wW
+Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+Commits:
+![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
+
+
 # Conclusiones 
 
 1. **Creciente Demanda de Soluciones**: Existe un interés creciente en tecnologías para la salud mental, lo que presenta una gran oportunidad para PsyMed.
