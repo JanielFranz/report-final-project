@@ -1310,23 +1310,23 @@ Commits:
     </tr>
         <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">"dashboard-and-analytics"</td>
-        <td colspan="2">9afb750</td>
-        <td colspan="2">feat(analytic-dashboard)</td>
-        <td colspan="2">service and functions added for biological functions</td>
-        <td colspan="2">24/09/2024</td>
+        <td colspan="2">"i18n"</td>
+        <td colspan="2">a2e89a3</td>
+        <td colspan="2">feat(i18n)</td>
+        <td colspan="2">add i18n to diagnostic edit component</td>
+        <td colspan="2">29/10/2024</td>
     </tr>
         <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
         <td colspan="2">"appointment-and-administration"</td>
-        <td colspan="2">3edbd2a</td>
-        <td colspan="2">feat(appointment-and-administration)</td>
-        <td colspan="2">add form to make new appointments</td>
-        <td colspan="2">23/09/2024</td>
+        <td colspan="2">c7b3006</td>
+        <td colspan="2">refactor</td>
+        <td colspan="2">added logic to edit the profile of patients being a professional</td>
+        <td colspan="2">15/10/2024</td>
     </tr>
      <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">"medication-management"</td>
+        <td colspan="2">"iam"</td>
         <td colspan="2">a300c2c</td>
         <td colspan="2">feat: adding bounded context's components and pages</td>
         <td colspan="2">adding bounded context's components and pages</td>
@@ -1334,19 +1334,19 @@ Commits:
     </tr>
     <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">"session-notes"</td>
-        <td colspan="2">97ccde2</td>
-        <td colspan="2">feat: add note-page component</td>
-        <td colspan="2">add note-page component</td>
-        <td colspan="2">23/09/2024</td>
+        <td colspan="2">"diagnostic"</td>
+        <td colspan="2">f1588f7</td>
+        <td colspan="2">feat</td>
+        <td colspan="2">adding patient's appointment page with task confirmation.</td>
+        <td colspan="2">30/10/2024</td>
     </tr>
     <tr>
         <td colspan="2">WX55-Closed-Source/psymed-frontend</td>
-        <td colspan="2">user-management</td>
-        <td colspan="2">4b11b9b</td>
-        <td colspan="2">feat(patient-item)</td>
-        <td colspan="2">added patient item logic</td>
-        <td colspan="2">23/09/2024</td>
+        <td colspan="2">appointment-and-administration</td>
+        <td colspan="2">5b711bf</td>
+        <td colspan="2">fix(appointment-and-administration):</td>
+        <td colspan="2">add appointment form correction</td>
+        <td colspan="2">16/10/2024</td>
     </tr>
 
 </table>
@@ -1412,24 +1412,35 @@ consistente en toda la aplicación.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-link to software deployment:https://app.beeceptor.com/console/psymedapi
+link to software deployment:https://alurageek-api-peach.vercel.app/    
+link to Frontend deployment:https://remarkable-kulfi-56550c.netlify.app/home
 
 link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
-![IMG-20240924-WA0023.jpg](../../assets/IMG-20240924-WA0023.jpg)
-![IMG-20240924-WA0024.jpg](../../assets/IMG-20240924-WA0024.jpg)
-![IMG-20240924-WA0025.jpg](../../assets/IMG-20240924-WA0025.jpg)
-![IMG-20240924-WA0026.jpg](../../assets/IMG-20240924-WA0026.jpg)
-![IMG-20240924-WA0027.jpg](../../assets/IMG-20240924-WA0027.jpg)
-![IMG-20240924-WA0028.jpg](../../assets/IMG-20240924-WA0028.jpg)
-![IMG-20240924-WA0029.jpg](../../assets/IMG-20240924-WA0029.jpg)
-![IMG-20240924-WA0030.jpg](../../assets/IMG-20240924-WA0030.jpg)
+![df01.jpeg](../../assets/sprint3/df01.jpeg)
+![df02.jpeg](../../assets/sprint3/df02.jpeg)
+![df03.jpeg](../../assets/sprint3/df03.jpeg)
+![df04.jpeg](../../assets/sprint3/df04.jpeg)
+![df05.jpeg](../../assets/sprint3/df05.jpeg)
+![df06.jpeg](../../assets/sprint3/df06.jpeg)
+![df08.jpeg](../../assets/sprint3/df08.jpeg)
+![df09.jpeg](../../assets/sprint3/df09.jpeg)
+![df10.jpeg](../../assets/sprint3/df10.jpeg)
+![df11.jpeg](../../assets/sprint3/df11.jpeg)
+![df12.jpeg](../../assets/sprint3/df12.jpeg)
+![df13.jpeg](../../assets/sprint3/df13.jpeg)
+![df14.jpeg](../../assets/sprint3/df14.jpeg)
+![df15.jpeg](../../assets/sprint3/df15.jpeg)
+![df16.jpeg](../../assets/sprint3/df16.jpeg)
+![df17.jpeg](../../assets/sprint3/df17.jpeg)
+![df19.jpeg](../../assets/sprint3/df19.jpeg)
+![df20.jpeg](../../assets/sprint3/df20.jpeg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 wW
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
-![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
+![teamcommits](/assets/sprint3/commits.jpeg)
 
 
 # Conclusiones 
