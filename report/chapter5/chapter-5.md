@@ -735,6 +735,73 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 Commits:
 ![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
 
+### Sprint 3
+
+### 5.3.1.1. Sprint Planning 3
+En este sprint, nos enfocaremos en corregir los errores
+detectados en el sprint anterior y nos dedicaremos a la
+implementación del frontend para los bounded contexts
+identificados en el proyecto.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 2</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8"> 3/10/24  </td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8"> 8:00 PM </td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Janiel Escalante</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Janiel Escalante, Romina Maita, Valentino Cervantes, Anatoly Noriega</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="8">
+En esta primera sección se presentó el progreso continuo del frontend de la aplicación y sus respectivos bounded contexts. Ademas de la primera version del Backend
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Retrospective Summary</td>
+    <td colspan="8">
+En esta reunión, todos los integrantes tuvieron aciertos 
+en la creación y la implementación del código. Además, 
+todos colaboraron en el diseño y la implementación del 
+frontend y Backend, contribuyendo a un desarrollo más ágil y efectivo, Aplicando convenciones de Domain Driven Design
+del proyecto.</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8">Nuestro enfoque es crear una versión integrada del landing page, el front end y ofrecer una versión del back end que gestione las entidades principales de la base de datos.   Creemos que ayudará a que los visitantes tengan acceso a la aplicación web de PsyMed desde el Landing Page. Además, desarrollaremos una primera versión del back end para que los desarrolladores administren con la base de datos la creación de usuarios de ambos segmentos y administrar los tratamientos de cada paciente. (medicamentos, tareas, notas y sesiones, funciones biológicas y estados de ánimo).  Sabremos que hemos logrado nuestra meta cuando los usuarios ingresan al Landing Page y el botón de “Log In” genere un evento que los re dirija hacia la aplicación web y adicionalmente los desarrolladores puedan hacer consultas a la base de datos mediante el back end.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Velocity</td>
+    <td colspan="8"> 8 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"> 23 Story Points</td>
+</tr>
+</table>
+
 ### 5.3.1.2. Sprint Backlog 3
 
 <table border="1">
@@ -838,7 +905,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US12</td>
-    <td colspan="2"></td>
+    <td colspan="2">Ingresar estados de animo</td>
     <td colspan="1">UT09</td>
     <td colspan="2">lista de estados emocionales del paciente</td>
     <td colspan="3">Crear una page donde el profesional pueda ver los estados de ánimo históricos del paciente seleccionado</td>
@@ -847,8 +914,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US12</td>
+    <td colspan="2">Ingresar estados de animo</td>
     <td colspan="1">UT10</td>
     <td colspan="2">componente de estado de ánimo</td>
     <td colspan="3">Crear una card que almacene un registro de estado de animo</td>
@@ -858,7 +925,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US13</td>
-    <td colspan="2"></td>
+    <td colspan="2">Ingresar medicacion del paciente</td>
     <td colspan="1">UT11</td>
     <td colspan="2">Desarrollo de card de los elementos de un medicamento</td>
     <td colspan="3">Crear una card que almacene los elementos de medicacion y que pueda tener los botones de edicion exclusivas para el profesional.</td>
@@ -867,8 +934,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US11</td>
+    <td colspan="2">Ver Medicacion</td>
     <td colspan="1">UT12</td>
     <td colspan="2">Registrar confirmación de cumplimiento de medicación</td>
     <td colspan="3">Implementar un toogle que pueda cambiar el estatus de una medicacion a eleccion del paciente</td>
@@ -878,7 +945,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US14</td>
-    <td colspan="2"></td>
+    <td colspan="2">Regitrar medicacion del paciente</td>
     <td colspan="1">UT13</td>
     <td colspan="2">Edicion de medicación</td>
     <td colspan="3">Crear un botón que permita editar los datos una medicación</td>
@@ -887,8 +954,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US14</td>
+    <td colspan="2">Regitrar medicacion del paciente</td>
     <td colspan="1">UT14</td>
     <td colspan="2">Implementar validaciones reactivas</td>
     <td colspan="3">Implementar validaciones reactivas que impidan el ingreso de datos invalido como campo para las medicaciones</td>
@@ -898,7 +965,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US15</td>
-    <td colspan="2"></td>
+    <td colspan="2">Registrar notas por sesion</td>
     <td colspan="1">UT15</td>
     <td colspan="2">Card de notas de sesion</td>
     <td colspan="3">Crear una card que contenga los elementos de la entidad “Session Notes”</td>
@@ -907,8 +974,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
     <td colspan="1">UT16</td>
     <td colspan="2">Formulario de creacion de notas por sesion</td>
     <td colspan="3">Desarrollar un formulario de creacion de notas por sesion</td>
@@ -917,8 +984,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US15</td>
+    <td colspan="2">Registrar notas por sesion</td>
     <td colspan="1">UT17</td>
     <td colspan="2">Validaciones reactivas para datos inválidos</td>
     <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al crear notas por sesión</td>
@@ -928,7 +995,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US16</td>
-    <td colspan="2"></td>
+    <td colspan="2">Editar notas por sesion</td>
     <td colspan="1">UT18</td>
     <td colspan="2">Formulario de edicion de notas</td>
     <td colspan="3">Crear un formulario de edicion de notas</td>
@@ -937,8 +1004,8 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US16</td>
+    <td colspan="2">Editar notas por sesion</td>
     <td colspan="1">UT19</td>
     <td colspan="2">validaciones reactivas para datos invalidos</td>
     <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar notas.</td>
@@ -948,7 +1015,7 @@ Commits:
   </tr>
   <tr>
     <td colspan="1">US17</td>
-    <td colspan="2"></td>
+    <td colspan="2">Actualizar diagnostico del paciente</td>
     <td colspan="1">UT20</td>
     <td colspan="2">Formulario de edición del diagnostico de paciente</td>
     <td colspan="3">Crear un formulario de edicion para los diagnósticos del paciente</td>
@@ -957,14 +1024,14 @@ Commits:
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">US17</td>
+    <td colspan="2">Actualizar diagnostico del paciente</td>
     <td colspan="1">UT21</td>
     <td colspan="2">validaciones reactivas para medición del diagnostico</td>
     <td colspan="3">Implementar una validación de datos inválidos de forma reactiva al editar diagnosticos.</td>
     <td colspan="1">1h</td>
     <td colspan="2">Valentino</td>
-    <td colspan="1"></td>
+    <td colspan="1">Done</td>
   </tr>
   <tr>
     <td colspan="1">TS11</td>
@@ -974,7 +1041,7 @@ Commits:
     <td colspan="3">Crear el servicio de "Actualizar Consumo de Pastillas".</td>
     <td colspan="1">3h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -984,7 +1051,7 @@ Commits:
     <td colspan="3">Implementar modelos y servicios para actualizar información de consumo de pastillas.</td>
     <td colspan="1">3h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -994,7 +1061,7 @@ Commits:
     <td colspan="3">Crear el endpoint PUT</td>
     <td colspan="1">4h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -1004,7 +1071,7 @@ Commits:
     <td colspan="3">Crear controladores</td>
     <td colspan="1">4h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
   <tr>
     <td colspan="1">TS07</td>
@@ -1054,7 +1121,7 @@ Commits:
     <td colspan="3">Crear el servicio de "Recuperar Datos de Consumo Válido".</td>
     <td colspan="1">3h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -1064,7 +1131,7 @@ Commits:
     <td colspan="3">Implementar modelos y servicios para recuperar datos de consumo de medicamentos válidos</td>
     <td colspan="1">3h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To DO</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -1074,7 +1141,7 @@ Commits:
     <td colspan="3">Crear el endpoint GET</td>
     <td colspan="1">4h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To DO</td>
   </tr>
   <tr>
     <td colspan="1"></td>
@@ -1084,7 +1151,7 @@ Commits:
     <td colspan="3">Crear controladores</td>
     <td colspan="1">4h</td>
     <td colspan="2">Romina</td>
-    <td colspan="1">Done</td>
+    <td colspan="1">To Do</td>
   </tr>
 <tr>
     <td colspan="1">TS20</td>
@@ -1466,24 +1533,39 @@ link to software deployment:https://alurageek-api-peach.vercel.app/
 link to Frontend deployment:https://remarkable-kulfi-56550c.netlify.app/home
 
 link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU)
+
+
 ![df01.jpeg](../../assets/sprint3/df01.jpeg)
 ![df02.jpeg](../../assets/sprint3/df02.jpeg)
+// US10
 ![df03.jpeg](../../assets/sprint3/df03.jpeg)
+// US25
 ![df04.jpeg](../../assets/sprint3/df04.jpeg)
+// US08
 ![df05.jpeg](../../assets/sprint3/df05.jpeg)
+// US17
 ![df06.jpeg](../../assets/sprint3/df06.jpeg)
 ![df08.jpeg](../../assets/sprint3/df08.jpeg)
+//US14
 ![df09.jpeg](../../assets/sprint3/df09.jpeg)
+//US16
 ![df10.jpeg](../../assets/sprint3/df10.jpeg)
 ![df11.jpeg](../../assets/sprint3/df11.jpeg)
 ![df12.jpeg](../../assets/sprint3/df12.jpeg)
 ![df13.jpeg](../../assets/sprint3/df13.jpeg)
 ![df14.jpeg](../../assets/sprint3/df14.jpeg)
+//US24
 ![df15.jpeg](../../assets/sprint3/df15.jpeg)
+//US22
 ![df16.jpeg](../../assets/sprint3/df16.jpeg)
 ![df17.jpeg](../../assets/sprint3/df17.jpeg)
 ![df19.jpeg](../../assets/sprint3/df19.jpeg)
 ![df20.jpeg](../../assets/sprint3/df20.jpeg)
+
+![df20.jpeg](../../assets/sprint3/b1.jpeg)
+![df20.jpeg](../../assets/sprint3/b2.jpeg)
+![df20.jpeg](../../assets/sprint3/b3.jpeg)
+![df20.jpeg](../../assets/sprint3/b4.jpeg)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 wW
@@ -1520,6 +1602,13 @@ Video TB1: https://www.youtube.com/watch?v=FlChiyIqaeE
 Video entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=1wXyUg
 
 Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU
+
+Video de About the team: https://youtu.be/h3OvwBko3jw ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EfuYS2r3_45BqbmKqrTTNJoBbL3Gch_0G8cZ--3z0IVLMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s8l8Cl
+
+Video de About the team: https://youtu.be/zHMf8n2zuTs ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EUbFeMjq56hDld6KmaYT0FoB2pulfZvB25NY4C-ND5xBuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wvGh2S
+
+Organizacion GitHub: https://github.com/WX55-Closed-Source
+
 
 # Bibliografia
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
