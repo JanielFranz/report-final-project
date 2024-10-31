@@ -1350,7 +1350,57 @@ Commits:
     </tr>
 
 </table>
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">56ebf5a9a84020e064b74b0ca2df3231dc30e0da</td>
+        <td colspan="2">feat(appointment-and-administration):</td>
+        <td colspan="2">added the validation of the outbound service for external profile service</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
+        <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"patient-report"</td>
+        <td colspan="2">8b59b9cb430edd3a62e54d777d2e6d3534856eb6</td>
+        <td colspan="2">refactor(profiles):</td>
+        <td colspan="2">professional command service using external service</td>
+        <td colspan="2">27/10/2024</td>
+    </tr>
+     <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"session-notes-and-tasks"</td>
+        <td colspan="2">a4e86c541b9e2a8398968231a5b0a7e1194c3205</td>
+        <td colspan="2">feat(note):</td>
+        <td colspan="2">create note entities and services</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"treatment-management"</td>
+        <td colspan="2">2dca9e872656b745bbebda11ebfdcce65e8972b7</td>
+        <td colspan="2">feat(medication):</td>
+        <td colspan="2">add medication controller.</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">appointment-and-administration</td>
+        <td colspan="2">d32c169dbb8f4ac9c2f8ef5521b7c9ccfe5f47ea</td>
+        <td colspan="2">feat:</td>
+        <td colspan="2">adding get medication by id query</td>
+        <td colspan="2">28/10/2024</td>
+    </tr>
 
+</table>
 ### 5.3.1.4. Testing Suite Evidence for Sprint Review
 
 Se realizaron pruebas unitarias mediante archivos `.spec.ts` en el proyecto de Angular. A continuación, se muestran imágenes de estas pruebas unitarias.
