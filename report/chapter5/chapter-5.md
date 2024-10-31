@@ -1512,6 +1512,11 @@ link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoin
 ![df19.jpeg](../../assets/sprint3/df19.jpeg)
 ![df20.jpeg](../../assets/sprint3/df20.jpeg)
 
+![df20.jpeg](../../assets/sprint3/b1.jpeg)
+![df20.jpeg](../../assets/sprint3/b2.jpeg)
+![df20.jpeg](../../assets/sprint3/b3.jpeg)
+![df20.jpeg](../../assets/sprint3/b4.jpeg)
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 wW
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
