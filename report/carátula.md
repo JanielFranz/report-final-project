@@ -20,8 +20,8 @@
   </thead>
   <tbody>
     <tr>
-      <td>Ccotarma Ttio, Sihuar Eduardo Eusebio</td>
-      <td>u20211c736</td>
+      <td>Rodriguez Santos, David Bryan</td>
+      <td>u202212236</td>
     </tr>
     <tr>
       <td>Cervantes Erequita, Valentino Sebastian</td>
