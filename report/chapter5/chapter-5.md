@@ -745,8 +745,8 @@ identificados en el proyecto.
 
 <table>
 <tr>
-    <th colspan="5">Sprint 2</th>
-    <th colspan="9">Sprint 2</th>
+    <th colspan="5">Sprint 3</th>
+    <th colspan="9">Sprint 3</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
@@ -768,10 +768,10 @@ identificados en el proyecto.
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Janiel Escalante, Romina Maita, Valentino Cervantes, Anatoly Noriega</td>
+    <td colspan="8">Janiel Escalante, Romina Maita, Valentino Cervantes, Anatoly Noriega, David Rodriguez</td>
 </tr>
 <tr>
-    <td colspan="5">Sprint 2 Review Summary</td>
+    <td colspan="5">Sprint 3 Review Summary</td>
     <td colspan="8">
 En esta primera sección se presentó el progreso continuo del frontend de la aplicación y sus respectivos bounded contexts. Ademas de la primera version del Backend
 </td>
@@ -1527,7 +1527,7 @@ consistente en toda la aplicación.
 | **Configuración**     | Se basa en las configuraciones del entorno definidas en `environment.serverBasePath` para la correcta conexión a la API.                                            |
 
 
-### 5.2.1.7. Software Deployment Evidence for Sprint Review
+### 5.3.1.7. Software Deployment Evidence for Sprint Review
 
 link to software deployment:https://alurageek-api-peach.vercel.app/    
 link to Frontend deployment:https://remarkable-kulfi-56550c.netlify.app/home
@@ -1567,12 +1567,136 @@ link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoin
 ![df20.jpeg](../../assets/sprint3/b3.jpeg)
 ![df20.jpeg](../../assets/sprint3/b4.jpeg)
 
-### 5.2.1.8. Team Collaboration Insights during Sprint
+### 5.3.1.8. Team Collaboration Insights during Sprint
 wW
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
 ![teamcommits](/assets/sprint3/commits.jpeg)
+
+### Sprint 4
+
+### 5.4.1.1. Sprint Planning 4
+En este sprint, nos enfocaremos en corregir los errores
+detectados en el sprint anterior y nos dedicaremos a la
+implementación del frontend para los bounded contexts
+identificados en el proyecto.
+
+<table>
+<tr>
+    <th colspan="5">Sprint 4</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8"></td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8"></td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Janiel Escalante</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Janiel Escalante, Romina Maita, Valentino Cervantes, Anatoly Noriega, David Rodriguez</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Review Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Retrospective Summary</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Velocity</td>
+    <td colspan="8"></td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8"></td>
+</tr>
+</table>
+
+### 5.4.1.2. Sprint Backlog 4
+
+<table border="1">
+  <tr>
+    <th colspan="3">Sprint 4</th>
+    <th colspan="10">Sprint 4</th>
+  </tr>
+  <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">ID</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1">Estimation</td>
+    <td colspan="2">Assigned to</td>
+    <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1"></td>
+  </tr>
+  </table>
+
+### 5.4.1.3. Development Evidence for Sprint Review
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+    </tr>
+</table>
+
+### 5.4.1.4. Testing Suite Evidence for Sprint Review
+
+### 5.4.1.5. Execution Evidence for Sprint Review
+
+### 5.4.1.6. Services Documentation Evidence for Sprint Review
+
+### 5.4.1.7. Software Deployment Evidence for Sprint Review
+
+### 5.4.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 
 # Conclusiones 
