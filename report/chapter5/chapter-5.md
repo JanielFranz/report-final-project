@@ -3,10 +3,17 @@
 A continuación, presentaremos el proceso por el cual organizamos, gestionamos y controlamos los cambios en el desarrollo de este proyecto.
 ### 5.1.1. Software Development Environment Configuration.
 **Requirements Management**
-1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos de
-   trabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuario
-   pertenecientes al sprint a desarrollar.  
+1. Trello: Es una herramienta de gestión de flujo de trabajo que PsyMed 
+   utilizará para organizar y monitorear sus proyectos, especialmente 
+   aquellos basados en metodologías ágiles. Permitirá visualizar y actualizar el estado de tareas e historias 
+   de usuario en cada sprint, facilitando la colaboración y el seguimiento en tiempo real del avance del equipo.  
+
+
    Ruta de referencia: https://trello.com/es
+   
+   Tableros de la organizacion : https://trello.com/w/closedsource1/home
+
+
 
 
 **Product UX/UI Design**
