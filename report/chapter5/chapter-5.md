@@ -413,7 +413,7 @@ Para este primer entregable, hemos elaborado la Landing Page del proyecto de "Ps
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-En el presente sprint solo se desarrollo la Landing Page.
+En el presente sprint solo se desarrollo la Landing Page y el avance del final report.
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
@@ -427,7 +427,9 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 
-Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+Durante el desarrollo de este primer sprint, todos los miembros del equipo participaron y colaboraron de manera activa y efectiva. A continuación, se presentan los insights de cada integrante como evidencia de su contribución al proceso de los dos productos presentados en este sprint.
+
+### Landing Page:
 
 Commits:
 
@@ -436,6 +438,12 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](/assets/AnaliticasLanding.png)
+
+### Report:
+
+Commits:
+
+Analiticas de Colaboración:
 
 ### 5.3.1. Sprint 2
 
@@ -741,6 +749,10 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 Commits:
 ![teamcommits](/assets/sprint2/insights-commits-sprint2.png)
+
+Tool:
+
+![trelloSprint3](/assets/sprint2/trelloSprint2.jpeg)
 
 ### Sprint 3
 
@@ -1575,11 +1587,17 @@ link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoin
 ![df20.jpeg](../../assets/sprint3/b4.jpeg)
 
 ### 5.3.1.8. Team Collaboration Insights during Sprint
-wW
+
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 Commits:
+
+Frontend:
 ![teamcommits](/assets/sprint3/commits.jpeg)
+
+Report:
+
+
 
 ### Sprint 4
 
