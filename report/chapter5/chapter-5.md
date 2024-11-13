@@ -809,7 +809,12 @@ del proyecto.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Goal</td>
-    <td colspan="8">Nuestro enfoque es crear una versión integrada del landing page, el front end y ofrecer una versión del back end que gestione las entidades principales de la base de datos.   Creemos que ayudará a que los visitantes tengan acceso a la aplicación web de PsyMed desde el Landing Page. Además, desarrollaremos una primera versión del back end para que los desarrolladores administren con la base de datos la creación de usuarios de ambos segmentos y administrar los tratamientos de cada paciente. (medicamentos, tareas, notas y sesiones, funciones biológicas y estados de ánimo).  Sabremos que hemos logrado nuestra meta cuando los usuarios ingresan al Landing Page y el botón de “Log In” genere un evento que los re dirija hacia la aplicación web y adicionalmente los desarrolladores puedan hacer consultas a la base de datos mediante el back end.</td>
+    <td colspan="8">
+      Nuestro objetivo es crear una versión integrada de la landing page de Psymed que incluya un enlace directo a la aplicación web y un frontend completo con todas 
+      las funciones y vistas principales correctamente implementadas. Además, desarrollaremos una primera versión del backend que gestione las entidades relacionadas con 
+      ambos segmentos de usuarios en la base de datos, permitiendo la administración de usuarios, tratamientos (medicamentos, tareas, notas, sesiones, funciones biológicas y estados de ánimo) 
+      y la creación de perfiles de pacientes. Consideraremos el objetivo cumplido cuando el botón "Log In" en la landing page redirija a los usuarios a la aplicación web de Psymed y los desarrolladores puedan 
+      realizar consultas y operaciones en la base de datos a través del backend.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 3 Velocity</td>
@@ -1590,13 +1595,20 @@ link para acceder al deployment: [Video de Prueba](https://upcedupe-my.sharepoin
 
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+trello:
+
+![teamtrello](/assets/sprint3/trellosprint3.jpeg)
+
 Commits:
 
+Report:
+![teamcommits](/assets/sprint3/reportcommits.jpeg)
 Frontend:
 ![teamcommits](/assets/sprint3/commits.jpeg)
 
-Report:
+Backend:
 
+![teamcommits](/assets/sprint3/backendcommits.jpeg)
 
 
 ### Sprint 4
@@ -1647,6 +1659,7 @@ identificados en el proyecto.
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Goal</td>
+Nuestro enfoque es permitir a los profesionales de la salud registrarse en la aplicación y acceder a todas las características que ofrecemos, incluyendo la de crear cuentas para sus pacientes.  Creemos que implementar estas características nos permitirán ofrecer una aplicación útil para los profesionales de la salud y sus pacientes.   Esto se confirmará cuando, al elegir su plan, el profesional de la salud mental sea capaz de crear cuentas para sus pacientes, citas médicas, asignar medicinas y hacer seguimiento al tratamiento del paciente. Por otro lado, el paciente debe poder registrar su estado emocional y físico. Por parte del  Backend, tener una version final la cual pueda  comunicarse y responder todas las consultas del frontend de Psymed. Ademas de actualizar la landing page para que este correctamente alineada al producto y organizada con las convenciones de diseño apropiadas.
     <td colspan="8"></td>
 </tr>
 <tr>
