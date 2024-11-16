@@ -1736,6 +1736,8 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
 ### 5.4.1.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+Trello:
+![trello](/assets/sprint4/trello.png)
 
 Landing page:
 
