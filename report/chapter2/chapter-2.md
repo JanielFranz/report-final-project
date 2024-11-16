@@ -166,7 +166,7 @@ Entrevistado 1:
 | Apellido             | Mena                                                                                                                                           |
 | Edad                 | 37                                                                                                                                             |
 | Distrito             | Magdalena del Mar                                                                                                                              |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
 | Inicio de entrevista | 0:01 minutos                                                                                                                                   |
 | Fin de entrevista    | 26:45 minutos                                                                                                                                  |
 
@@ -190,7 +190,7 @@ Entrevistado 2:
 | Apellido             | Casas                                                                                                                                          |
 | Edad                 | 51 años                                                                                                                                        |
 | Distrito             | San Isidro                                                                                                                                     |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
 | Inicio de entrevista | 26:56 minutos                                                                                                                                  |
 | Fin de entrevista    | 44:43 minutos                                                                                                                                  |
 
@@ -213,7 +213,7 @@ Entrevistado 3:
 | Apellido             | Ramirez                                                                                                                                        |
 | Edad                 | 51 años                                                                                                                                        |
 | Distrito             | Magdalena del Mar                                                                                                                              |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
 | Inicio de entrevista | 44:53 minutos                                                                                                                                  |
 | Fin de entrevista    | 1:07:47 minutos                                                                                                                                |
 
@@ -240,7 +240,7 @@ Entrevistado 1:
 | Apellido             | Falckenheiner |
 | Edad                 | 23 años       |
 | Distrito             | Jesús María   |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo)              |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo             |
 | Inicio de entrevista | 1:07:47 minutos |
 | Fin de entrevista    | 1:14:23 minutos |
 
@@ -265,7 +265,7 @@ Entrevistado 2:
 | Apellido             | Chavez                                                                                                                                         |
 | Edad                 | 20 años                                                                                                                                        |
 | Distrito             | Lince                                                                                                                                          |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
 | Inicio de entrevista | 1:14:23 minutos                                                                                                                                |
 | Fin de entrevista    | 1:24:13 minutos                                                                                                                                |
 **Resumen:**
@@ -302,7 +302,7 @@ Entrevistado 3:
 | Apellido             | muñiz                                                                                                                                          |
 | Edad                 | 21 años                                                                                                                                        |
 | Distrito             | Pueblo libre                                                                                                                                   |
-| URL                  | [Entrevistas](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo) |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=NpyTIo                |
 | Inicio de entrevista | 1:24:13 minutos                                                                                                                                |
 | Fin de entrevista    | 139:22 minutos                                                                                                                                 |
 
