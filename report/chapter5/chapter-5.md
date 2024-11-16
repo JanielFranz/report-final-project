@@ -1737,6 +1737,10 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 
+[!landingpagecommits](/assets/sprint4/landingpage_commits.png)
+[!frontendcommits](/assets/sprint4/frontend_commits.png)
+[!backendcommits](/assets/sprint4/backend_commits.png)
+
 # Conclusiones 
 
 1. **Creciente Demanda de Soluciones**: Existe un interés creciente en tecnologías para la salud mental, lo que presenta una gran oportunidad para PsyMed.
@@ -1782,7 +1786,6 @@ Organizacion GitHub: https://github.com/WX55-Closed-Source
 - Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
 
 - Guardamino Soto, B. (2024, 3 de julio). Minsa reporta más de 900 mil atenciones en salud mental en el 2024: ansiedad y depresión son las principales afecciones. Infobae Perú. Recuperado de https://www.infobae.com/peru/2024/07/03/minsa-reporta-mas-de-900-mil-atenciones-en-salud-mental-en-el-2024-ansiedad-y-depresion-son-las-principales-afecciones/
-
 
 - Defensoría del Pueblo. (n.d.). Estado peruano debe priorizar la atención de la salud mental. Recuperado de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
 
