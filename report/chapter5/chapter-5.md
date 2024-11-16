@@ -1736,18 +1736,19 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
 ### 5.4.1.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
-Trello:
+Trello: Se están abordando validaciones, diseño responsivo, y despliegue tanto del frontend como del backend.
+
 ![trello](/assets/sprint4/trello.png)
 
-Landing page:
+Landing page: El desarrollo ha tenido contribuciones moderadas, con ajustes en la estructura y optimización de la página.
 
 ![landingpagecommits](/assets/sprint4/landingpage_commits.png)
 
-Front-end:
+Front-end: Se observa un esfuerzo significativo en mejorar la interfaz y la experiencia de usuario, con continuas adiciones y optimizaciones.
 
 ![frontendcommits](/assets/sprint4/frontend_commits.png)
 
-Back-end:
+Back-end: El backend está en constante mejoras, con una alta actividad orientada a fortalecer la infraestructura y añadir nuevas funcionalidades críticas para el sistema.
 
 ![backendcommits](/assets/sprint4/backend_commits.png)
 
