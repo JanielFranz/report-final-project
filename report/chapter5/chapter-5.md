@@ -1715,13 +1715,116 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
         <th colspan="2">Commit Message Body</th>
         <th colspan="2">Commited on (Date)</th>
     </tr>
-        <tr>
+    <tr>
+        <td colspan="2">TS03</td>
+        <td colspan="2">Eliminar paciente</td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Eliminar paciente por ID</td>
+        <td colspan="2">Crear el endpoint para eliminar un paciente</td>
+        <td colspan="2">2h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2">TS04</td>
+        <td colspan="2">Eliminar profesional</td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Eliminar profesional por ID</td>
+        <td colspan="2">Crear endpoint para eliminar profesional</td>
+        <td colspan="2">2h</td>
+        <td colspan="2">Romina</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    r>
+    <tr>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Crear el endpoint</td>
+        <td colspan="2">Crear el endpoint para eliminar un paciente por medio del ID</td>
+        <td colspan="2">2h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2">TS04</td>
+        <td colspan="2">Eliminar profesional</td>
+        <td colspan="2"></td>
+        <td colspan="2">Crear el endpoint de eliminación</td>
+        <td colspan="2">Crear el endpoint (DELETE /api/profesionales/:id)</td>
+        <td colspan="2"></td>
+        <td colspan="2">Romina</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
         <td colspan="2"></td>
         <td colspan="2"></td>
         <td colspan="2"></td>
+        <td colspan="2">Implementar la lógica de servicio</td>
+        <td colspan="2">Verificar la existencia del profesional antes de eliminarlo</td>
+        <td colspan="2"></td>
+        <td colspan="2">Romina</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2">TS08</td>
+        <td colspan="2">Recuperar datos estadísticos</td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Crear capa de dominio</td>
+        <td colspan="2">Crear capa de dominio con lógica de estadísticas</td>
+        <td colspan="2">4h</td>
+        <td colspan="2">Franz</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
         <td colspan="2"></td>
         <td colspan="2"></td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Crear capa de aplicación</td>
+        <td colspan="2">Crear capa de aplicación para estadísticas</td>
+        <td colspan="2">1h</td>
+        <td colspan="2">Franz</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2">TS10</td>
+        <td colspan="2">Consumo de medicamentos</td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Crear capa de consumo</td>
+        <td colspan="2">Crear capa para gestionar consumo de medicamentos</td>
+        <td colspan="2">2h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
         <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Validar medicamentos</td>
+        <td colspan="2">Crear validación de medicamentos válidos</td>
+        <td colspan="2">2h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2">TS12</td>
+        <td colspan="2">Actualizar apuntes</td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Crear capa de apuntes</td>
+        <td colspan="2">Crear capa para gestionar apuntes de sesiones</td>
+        <td colspan="2">1h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
+    </tr>
+    <tr>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">TSK</td>
+        <td colspan="2">Validar apuntes</td>
+        <td colspan="2">Crear validación de la sesión terapéutica</td>
+        <td colspan="2">1h</td>
+        <td colspan="2">David</td>
+        <td colspan="2">To-do</td>
     </tr>
 </table>
 
