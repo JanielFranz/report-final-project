@@ -1737,8 +1737,16 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 
+Landing page:
+
 ![landingpagecommits](/assets/sprint4/landingpage_commits.png)
+
+Front-end:
+
 ![frontendcommits](/assets/sprint4/frontend_commits.png)
+
+Back-end:
+
 ![backendcommits](/assets/sprint4/backend_commits.png)
 
 # Conclusiones 
