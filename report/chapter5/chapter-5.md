@@ -1629,11 +1629,11 @@ identificados en el proyecto.
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8"></td>
+    <td colspan="8">10/11/24</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
-    <td colspan="8"></td>
+    <td colspan="8">6:00 PM</td>
   </tr>
   <tr>
     <td colspan="5">Location</td>
@@ -1648,27 +1648,27 @@ identificados en el proyecto.
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Review Summary</td>
-    <td colspan="8"></td>
+    <td colspan="8">En esta sección se revisaron las funcionalidades desarrolladas relacionadas con la creación de cuentas para pacientes y la gestión de citas médicas.</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Retrospective Summary</td>
-    <td colspan="8"></td>
+    <td colspan="8">Durante esta retrospectiva, el equipo destacó la mejora en la colaboración y la eficiencia en la resolución de problemas que surgieron durante el sprint.</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Goal</td>
-Nuestro enfoque es permitir a los profesionales de la salud registrarse en la aplicación y acceder a todas las características que ofrecemos, incluyendo la de crear cuentas para sus pacientes.  Creemos que implementar estas características nos permitirán ofrecer una aplicación útil para los profesionales de la salud y sus pacientes.   Esto se confirmará cuando, al elegir su plan, el profesional de la salud mental sea capaz de crear cuentas para sus pacientes, citas médicas, asignar medicinas y hacer seguimiento al tratamiento del paciente. Por otro lado, el paciente debe poder registrar su estado emocional y físico. Por parte del  Backend, tener una version final la cual pueda  comunicarse y responder todas las consultas del frontend de Psymed. Ademas de actualizar la landing page para que este correctamente alineada al producto y organizada con las convenciones de diseño apropiadas.
-    <td colspan="8"></td>
+    <td colspan="8">Nuestro enfoque es permitir a los profesionales de la salud registrarse en la aplicación y acceder a todas las características que ofrecemos, incluyendo la de crear cuentas para sus pacientes. Creemos que implementar estas características nos permitirán ofrecer una aplicación útil para los profesionales de la salud y sus pacientes. Esto se confirmará cuando, al elegir su plan, el profesional de la salud mental sea capaz de crear cuentas para sus pacientes, citas médicas, asignar medicinas y hacer seguimiento al tratamiento del paciente. Por otro lado, el paciente debe poder registrar su estado emocional y físico.
+</td>
 </tr>
 <tr>
     <td colspan="5">Sprint 4 Velocity</td>
-    <td colspan="8"></td>
+    <td colspan="8">2</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8"></td>
+    <td colspan="8">92</td>
 </tr>
 </table>
 
@@ -1694,7 +1694,7 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
     <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
   </tr>
   <tr>
-    <td colspan="1">S03</td>
+    <td colspan="1">US03</td>
     <td colspan="2">Eliminar paciente a través de un RESTful API</td>
     <td colspan="1">TSK</td>
     <td colspan="2">Validación de paciente</td>
@@ -1704,7 +1704,7 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">S03</td>
+    <td colspan="1">US03</td>
     <td colspan="2">Eliminar paciente a través de un RESTful API</td>
     <td colspan="1">TSK</td>
     <td colspan="2">Crear el endpoint de la funcion de eliminar paciente</td>
