@@ -2399,6 +2399,36 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+##### SITE A EVALUAR:
+PsyMed
+
+##### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Registro de estados de animo
+2. Registro de funciones biológicas
+3. Registro de prescripción médica
+4. Registro de historial clínico
+5. Registro de citas
+6. Manejo de información de perfil personal
+7. Manejo de pacientes
+8. Visualización de Estadísticas
+9. Registro de tareas
+10. Registro de notas
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción                                                                                                                                                                                    |
+|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                                                                                        |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                                                                                                                                                                                              |
+
+##### TABLA RESUMEN:
+
+DESCRIPCIÓN DE PROBLEMAS:
 
 
 ## 5.4. Video About-the-Product.
