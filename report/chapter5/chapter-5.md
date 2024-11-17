@@ -2324,17 +2324,29 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 # Anexos
 
+
+## Anexo A:
+
+Organizacion GitHub: https://github.com/WX55-Closed-Source
+
+Enlace del landing page: https://wx55-closed-source.github.io/landing-page/
+
+Enlace del frontend: https://bright-fudge-23a4f1.netlify.app
+
+Enlace del backend:
+
+
+## Anexo B:
+
 Video TB1: https://www.youtube.com/watch?v=FlChiyIqaeE
 
 Video entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=1wXyUg
 
-Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU
-
 Video de About the team: https://youtu.be/h3OvwBko3jw ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EfuYS2r3_45BqbmKqrTTNJoBbL3Gch_0G8cZ--3z0IVLMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s8l8Cl
 
-Video de About the team: https://youtu.be/zHMf8n2zuTs ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EUbFeMjq56hDld6KmaYT0FoB2pulfZvB25NY4C-ND5xBuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wvGh2S
+Video de About the product: https://youtu.be/zHMf8n2zuTs ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EUbFeMjq56hDld6KmaYT0FoB2pulfZvB25NY4C-ND5xBuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wvGh2S
 
-Organizacion GitHub: https://github.com/WX55-Closed-Source
+Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU
 
 
 # Bibliografia
