@@ -2301,18 +2301,6 @@ identificados en el proyecto.
 
 ---
 
-### Notas adicionales:
-- **Repositorio**: [GitHub - ClosedSource/PsyMed](https://github.com/closedsource/psymed)
-- **Ejemplo de JSON Body (POST /professional-profiles)**:
-  ```json
-  {
-    "name": "Dr. John Doe",
-    "specialty": "Psychiatrist",
-    "experience": 10,
-    "licenseNumber": "1234567890"
-  }
-
-
 ### 5.4.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.4.1.8. Team Collaboration Insights during Sprint
@@ -2397,6 +2385,8 @@ Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c73
 - Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
 
 - AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
+
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
 
 - Spring Boot. (n.d.). Spring Boot Documentation. Retrieved from https://docs.spring.io/spring-boot/documentation.html#documentation.web
 
