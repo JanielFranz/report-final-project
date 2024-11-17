@@ -2505,7 +2505,7 @@ Enlace del landing page: https://wx55-closed-source.github.io/landing-page/
 
 Enlace del frontend: https://bright-fudge-23a4f1.netlify.app
 
-Enlace del backend: 
+Enlace del backend: https://psymed-production.up.railway.app/
 
 
 ## Anexo B:
