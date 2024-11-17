@@ -2331,6 +2331,53 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 ![backendcommits](/assets/sprint4/backend_commits.png)
 
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+| **Preguntas para profesionales de la salud mental**                          | **Preguntas para pacientes**                                         |
+|------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| ¿Qué tan intuitiva te pareció la navegación por la aplicación?              | ¿Qué tan intuitivo te pareció el diseño de la aplicación?           |
+| ¿Encontraste alguna funcionalidad difícil de usar o entender? ¿Cuál?        | ¿Cómo te ayudó la aplicación a llevar un registro de tu tratamiento o estado emocional? |
+| ¿Qué tan fácil fue completar las tareas principales, como registrar pacientes o realizar un seguimiento? | ¿Qué funcionalidad te resultó más útil y por qué?                  |
+| ¿Las funcionalidades ofrecidas cubren tus necesidades para gestionar pacientes? | ¿Te sientes más involucrado/a en tu tratamiento gracias a la aplicación? |
+| ¿Qué opinas del diseño visual de la aplicación?                             | ¿Hubo alguna funcionalidad que te pareció confusa o innecesaria?    |
+| ¿Cómo crees que la aplicación ha impactado tu forma de gestionar pacientes? | ¿Qué opinas del diseño de la aplicación? (colores, formas, etc.)    |
+| ¿Qué recomendarías para mejorar la experiencia en la aplicación?            | ¿Hay algo en la interfaz que te gustaría que cambiáramos para mejorar tu experiencia? |
+
+
+### 5.3.2. Registro de Entrevistas.
+
+##### Segmento Profesionales de la salud mental
+
+| Título               | Descripción                                                                                                                                                                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre               | Edson                                                                                                                                                                                                                                                                                                                       |
+| Apellido             | Sánchez                                                                                                                                                                                                                                                                                                                     |
+| Edad                 | 20                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | Breña                                                                                                                                                                                                                                                                                                                       |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211813_upc_edu_pe/EQso1YR0-h1OkfA6zLEc1dYBzrvpoGUgSqbRS33kidCV1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Da1fVY |
+| Inicio de entrevista | 7:46 minutos                                                                                                                                                                                                                                                                                                                |
+| Fin de entrevista    | 11:48 minutos                                                                                                                                                                                                                                                                                                               |
+
+##### Segmento Profesionales de pacientes
+
+| Título               | Descripción                                                                                                                                                                                                                                                                                                                 |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre               | Yared                                                                                                                                                                                                                                                                                                                       |
+| Apellido             | Riveros                                                                                                                                                                                                                                                                                                                     |
+| Edad                 | 21                                                                                                                                                                                                                                                                                                                          |
+| Distrito             | San Borja                                                                                                                                                                                                                                                                                                                   |
+| URL                  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EW2RS6faLUhPnEMsTpQBHV0BL4xlhry72qMqf_gztNbfvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=FF4NVA |
+| Inicio de entrevista | 4:59 minutos                                                                                                                                                                                                                                                                                                                |
+| Fin de entrevista    | 13:00 minutos                                                                                                                                                                                                                                                                                                               |
+
+### 5.3.3. Evaluaciones según heurísticas.
+
+## 5.4. Video About-the-Product.
+
+
 # Conclusiones 
 
 1. **Creciente Demanda de Soluciones**: Existe un interés creciente en tecnologías para la salud mental, lo que presenta una gran oportunidad para PsyMed.
@@ -2350,6 +2397,34 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 8. **Retroalimentación Continua**: Las reuniones de feedback han sido esenciales para hacer ajustes y mejoras a lo largo del desarrollo.
 
 9. **Manejo de Pendientes**: Estimar tiempos adicionales es importante para lidiar con tareas no planificadas y mantener los plazos.
+
+Video About-the-Team.
+
+
+
+# Bibliografia
+- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+
+- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
+
+- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
+
+- Guardamino Soto, B. (2024, 3 de julio). Minsa reporta más de 900 mil atenciones en salud mental en el 2024: ansiedad y depresión son las principales afecciones. Infobae Perú. Recuperado de https://www.infobae.com/peru/2024/07/03/minsa-reporta-mas-de-900-mil-atenciones-en-salud-mental-en-el-2024-ansiedad-y-depresion-son-las-principales-afecciones/
+
+- Defensoría del Pueblo. (n.d.). Estado peruano debe priorizar la atención de la salud mental. Recuperado de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
+
+- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
+
+- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
+
+- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
+
+- Spring Boot. (n.d.). Spring Boot Documentation. Retrieved from https://docs.spring.io/spring-boot/documentation.html#documentation.web
+
+- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
+
 
 # Anexos
 
@@ -2377,25 +2452,3 @@ Enlace del backend:
 | Video entrevista de validación | Video de entrevista al segmento profesionales de la salud mental  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211813_upc_edu_pe/EQso1YR0-h1OkfA6zLEc1dYBzrvpoGUgSqbRS33kidCV1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Da1fVY                                |
 | Video entrevista de validación | Video de entrevista al segmento pacientes                         | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EW2RS6faLUhPnEMsTpQBHV0BL4xlhry72qMqf_gztNbfvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hEbp2v                                |
 
-# Bibliografia
-- _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
-
-- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
-
-- Conventional Commits. (n.d.). *Conventional commits v1.0.0.* Retrieved from https://www.conventionalcommits.org/en/v1.0.0/
-
-- Chang-Gómez, M., & Chang-Gómez, M. Á. (2020). Bienestar en el trabajo de los profesionales de salud durante la pandemia de COVID-19: Revisión narrativa. *Revista Cubana de Salud Pública, 46*(4), e2146. https://doi.org/10.1590/rcsp.v46i4.2146
-
-- Guardamino Soto, B. (2024, 3 de julio). Minsa reporta más de 900 mil atenciones en salud mental en el 2024: ansiedad y depresión son las principales afecciones. Infobae Perú. Recuperado de https://www.infobae.com/peru/2024/07/03/minsa-reporta-mas-de-900-mil-atenciones-en-salud-mental-en-el-2024-ansiedad-y-depresion-son-las-principales-afecciones/
-
-- Defensoría del Pueblo. (n.d.). Estado peruano debe priorizar la atención de la salud mental. Recuperado de https://www.defensoria.gob.pe/defensoria-del-pueblo-estado-peruano-debe-priorizar-la-atencion-de-la-salud-mental/
-
-- Angular. (n.d.). *Angular Material components.* Retrieved from https://material.angular.io/components/categories
-
-- AngularJS. (n.d.). *AngularJS Material.* Retrieved from https://material.angularjs.org/latest/
-
-- BrowserStack. (n.d.). Responsive Web Design: A Complete Guide. Recuperado de https://www.browserstack.com/guide/responsive-web-design
-
-- Spring Boot. (n.d.). Spring Boot Documentation. Retrieved from https://docs.spring.io/spring-boot/documentation.html#documentation.web
-
-- Modyo. (n.d.). Domain-Driven Design (DDD) - Patrones de arquitectura. Retrieved from https://docs.modyo.com/es/architecture/patterns/ddd.html
