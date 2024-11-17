@@ -2216,18 +2216,68 @@ identificados en el proyecto.
         <th colspan="2">Commited on (Date)</th>
     </tr>
     <tr>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"patient-report"</td>
+        <td colspan="2">0f6f2cb</td>
+        <td colspan="2">refactor(patient-report)</td>
+        <td colspan="2">patient report application layer refactored</td>
+        <td colspan="2">15/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"patient-report"</td>
+        <td colspan="2">a170b92</td>
+        <td colspan="2">refactor(patient-report)</td>
+        <td colspan="2">patient report interface controller and other stuff refactored</td>
+        <td colspan="2">15/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">6c127a8</td>
+        <td colspan="2">fix(appointment-and-administration)</td>
+        <td colspan="2">acl contract created for dependency injection purposes</td>
+        <td colspan="2">15/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">042dcab</td>
+        <td colspan="2">fix(appointment-and-administration)</td>
+        <td colspan="2">rest controllers fixed</td>
+        <td colspan="2">15/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">WX55-Closed-Source/psymed-platform</td>
+        <td colspan="2">"appointment-and-administration"</td>
+        <td colspan="2">4df64a2</td>
+        <td colspan="2">fix(appointment-and-administration)</td>
+        <td colspan="2">domain layer fixed</td>
+        <td colspan="2">15/11/2024</td>
     </tr>
 </table>
 
 ### 5.4.1.4. Testing Suite Evidence for Sprint Review
 
 ### 5.4.1.5. Execution Evidence for Sprint Review
+
+**Gestión de Administración de Citas**: Optimiza la creación, edición y cancelación de citas, además de la gestión de recordatorios y disponibilidad del personal médico.
+
+**Gestión de IAM (Identity and Access Management)**: Administra la autenticación y autorización, incluyendo el control de roles y permisos para acceso seguro a la plataforma.
+
+**Gestión de Medicación**: Facilita el manejo de prescripciones, dosis y horarios para el seguimiento adecuado de los medicamentos asignados a los pacientes.
+
+**Gestión de Reportes de Pacientes**: Genera reportes detallados sobre la evolución y estado de los pacientes, apoyando el seguimiento clínico.
+
+**Gestión de Perfiles**: Administra los datos y preferencias de los perfiles de usuarios, tanto de pacientes como de profesionales.
+
+**Gestión de Notas de Sesión**: Permite registrar observaciones y diagnósticos en cada consulta para un mejor seguimiento del paciente.
+
+**Módulo Compartido**: Contiene recursos y utilidades reutilizables para mantener consistencia en la aplicación.
+
+**Gestión de Tratamientos**: Define y gestiona tratamientos, asegurando un seguimiento integral de los planes terapéuticos.
+
+**Gestión de Tratamiento y Planificación**: Optimiza la asignación y evaluación de tratamientos, maximizando la efectividad clínica.
 
 ### 5.4.1.6. Services Documentation Evidence for Sprint Review
 
