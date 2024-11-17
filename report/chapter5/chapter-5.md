@@ -2303,6 +2303,13 @@ identificados en el proyecto.
 
 ### 5.4.1.7. Software Deployment Evidence for Sprint Review
 
+Link del backend deployment: https://psymed-production.up.railway.app
+
+
+![backend_deployment_1](/assets/sprint4/backend_deployment.png)
+![backend_deployment_2](/assets/sprint4/backend_deployment2.png)
+
+
 ### 5.4.1.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
