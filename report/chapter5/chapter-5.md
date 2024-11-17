@@ -2281,6 +2281,38 @@ identificados en el proyecto.
 
 ### 5.4.1.6. Services Documentation Evidence for Sprint Review
 
+| **Endpoint**                                 | **Método** | **Descripción**                                    | **Parámetros**                      | **Respuesta**                                         | **Ejemplo**                                              |
+|----------------------------------------------|------------|----------------------------------------------------|------------------------------------|--------------------------------------------------------|----------------------------------------------------------|
+| `/api/v1/professional-profiles`              | POST       | Create a new professional profile                  | JSON Body - `CreateProfessionalProfileResource` | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input | `{"name": "Dr. John Doe", "specialty": "Psychiatrist"}` |
+| `/api/v1/professional-profiles/{profileId}`  | GET        | Retrieve a professional profile by its ID          | `{profileId} (Long)`               | `200 OK` - Profile found<br>`404 Not Found` - Profile not found | `{"id": 1, "name": "Dr. John Doe", "specialty": "Psychiatrist"}` |
+| `/api/v1/patient-profiles`                     | POST       | Create a new patient profile                       | JSON Body - `CreatePatientProfileResource` | `201 Created` - Profile created<br>`400 Bad Request` - Invalid input | `{"name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}` |
+| `/api/v1/patient-profiles/{profileId}`         | GET        | Retrieve a patient profile by its ID               | `{profileId} (Long)`               | `200 OK` - Profile found<br>`404 Not Found` - Profile not found | `{"id": 1, "name": "Jane Doe", "age": 30, "diagnosis": "Anxiety"}` |
+| `/api/v1/patient-profiles`                     | GET        | Retrieve all patient profiles                      | N/A                                | `200 OK` - List of profiles                                | `[{"id": 1, "name": "Jane Doe"}, {"id": 2, "name": "John Doe"}]` |
+| `/api/v1/patients/{patientId}/mood-states`               | POST       | Create a new mood state record for a patient            | `patientId (Long)`<br>JSON Body - `CreateMoodStateRecordResource` | `201 Created` - Mood state created<br>`400 Bad Request` - Invalid input | `{"date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}` |
+| `/api/v1/patients/{patientId}/mood-states`               | GET        | Retrieve all mood states for a specific patient         | `patientId (Long)`                         | `200 OK` - List of mood states<br>`404 Not Found` - Patient not found  | `[{"id": 1, "date": "2024-11-17", "mood": "Happy", "notes": "Feeling great today!"}]` |
+| `/api/v1/patients/{patientId}/biological-functions`       | POST       | Create a new biological function record for a patient     | `patientId (Long)`<br>JSON Body - `CreateBiologicalFunctionRecordResource` | `201 Created` - Biological function created<br>`400 Bad Request` - Invalid input | `{"date": "2024-11-17", "type": "Sleep", "value": "7 hours", "notes": "Slept well"}` |
+| `/api/v1/patients/{patientId}/biological-functions`       | GET        | Retrieve all biological function records for a specific patient | `patientId (Long)`                         | `200 OK` - List of biological functions<br>`404 Not Found` - Patient not found  | `[{"id": 1, "date": "2024-11-17", "type": "Sleep", "value": "7 hours"}]` |
+| `/api/v1/pills`                | POST        | Create a new medication                                 | JSON Body - `CreatePillResource`      | `201 Created` - Medication created<br>`400 Bad Request` - Invalid input<br>`404 Not Found` - Medication not found | `{"name": "Aspirin", "dosage": "500mg", "instructions": "Take one daily"}` |
+| `/api/v1/pills`                | GET         | Retrieve all medications                                | N/A                                   | `200 OK` - List of medications<br>`404 Not Found` - No medications found    | `[{"id": 1, "name": "Aspirin", "dosage": "500mg"}]`       |
+| `/api/v1/pills/{pillId}`       | DELETE      | Delete a medication by its ID                           | `pillId (Long)`                       | `200 OK` - Medication deleted<br>`404 Not Found` - Medication not found     | N/A                                                      |
+| `/api/v1/accounts/{accountId}`       | GET        | Retrieve account details by account ID       | `accountId (Long)`           | `200 OK` - Account found<br>`404 Not Found` - Account not found | `{"id": 1, "username": "johndoe", "email": "johndoe@example.com"}` |
+| `/api/v1/authentication/sign-in`         | POST       | Authenticate a user and generate a token               | JSON Body - `SignInResource`         | `200 OK` - User authenticated<br>`404 Not Found` - Invalid credentials | `{"username": "johndoe", "password": "password123"}`      |
+| `/api/v1/authentication/sign-up`         | POST       | Register a new user account                            | JSON Body - `SignUpResource`         | `201 Created` - Account created<br>`400 Bad Request` - Invalid input | `{"username": "janedoe", "email": "janedoe@example.com", "password": "securePass!"}` |
+
+---
+
+### Notas adicionales:
+- **Repositorio**: [GitHub - ClosedSource/PsyMed](https://github.com/closedsource/psymed)
+- **Ejemplo de JSON Body (POST /professional-profiles)**:
+  ```json
+  {
+    "name": "Dr. John Doe",
+    "specialty": "Psychiatrist",
+    "experience": 10,
+    "licenseNumber": "1234567890"
+  }
+
+
 ### 5.4.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.4.1.8. Team Collaboration Insights during Sprint
