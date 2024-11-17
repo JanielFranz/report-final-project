@@ -36,6 +36,13 @@ Contenido del código de front-end: https://github.com/WX55-Closed-Source/psymed
 ### TP1:
 ![](/assets/sprint2/insights-commits-sprint2.png)
 
+### TF:
+
+![report-insights](/assets/TF_report_insights.png)
+![landingpage-insights](/assets/TF_landingpage_insights.png)
+![frontend-insights](/assets/TF_frontend_insights.png)
+![backend-insights](/assets/TF_landingpage_insights.png)
+
 # Contenido
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
