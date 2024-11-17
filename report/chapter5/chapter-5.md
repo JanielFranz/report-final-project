@@ -2405,16 +2405,8 @@ PsyMed
 ##### TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Registro de estados de animo
-2. Registro de funciones biológicas
-3. Registro de prescripción médica
-4. Registro de historial clínico
-5. Registro de citas
-6. Manejo de información de perfil personal
-7. Manejo de pacientes
-8. Visualización de Estadísticas
-9. Registro de tareas
-10. Registro de notas
+1. Manejo de información de perfil personal.
+2. Visualización de página de bienvenida.
 
 ##### ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
@@ -2428,8 +2420,44 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 ##### TABLA RESUMEN:
 
-DESCRIPCIÓN DE PROBLEMAS:
+| # | Problema                                        | Escala de severidad | Heurística/Principio violado(a)                                                                                         |
+|---|-------------------------------------------------|---------------------|-------------------------------------------------------------------------------------------------------------------------|
+| 1 | Error al guardar edición de perfil del paciente | 2                   | Principio de "Prevención de errores", principio de "Recuperación de errores" y principio de "Consistencia y estándares"             |
+| 2 | Página principal sin una guía                   | 1                   | Principio de "Visibilidad del estado del sistema" y principio de "Reconocimiento en lugar de memorización"|
 
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+PROBLEMA #1: Error al guardar edición de perfil del paciente
+
+Severidad: 2
+
+Heurística violada: Principio de "Prevención de errores", principio de "Recuperación de errores" y principio de "Consistencia y estándares"
+
+Problema:
+
+Al momento de editar la información del paciente se produce un error de guardado y aparece un mensaje de error.
+No se llega a concretar la nueva información.
+
+![evidencia1](/assets/problema2.jpeg)
+
+Recomendación:
+La solución más viable es ofrecer una opción para reintentar o guardar los cambios sin perder la información ingresada.
+
+PROBLEMA #2: Página principal sin una guía
+
+Severidad: 1
+
+Heurística violada: Principio de "Visibilidad del estado del sistema" y principio de "Reconocimiento en lugar de memorización"
+
+Problema:
+
+Al momento de acceder a la página de bienvenida no hay ningún instructivo que te oriente hacia las diferentes funcionalidades de la aplicación.
+
+![evidencia2](/assets/problema1.jpeg)
+
+Recomendación:
+La manera de solucionar este problema y darle una mejor experiencia al usuario es incluir un onboarding o una breve introducción en la página principal para orientar al usuario.
+Además, sería útil incluir elementos visuales como indicadores, íconos destacados o texto explicativo.
 
 ## 5.4. Video About-the-Product.
 
