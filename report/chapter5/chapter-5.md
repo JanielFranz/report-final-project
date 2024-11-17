@@ -2270,7 +2270,7 @@ identificados en el proyecto.
 | `actualizar_diagnostico_paciente.feature`               | Actualiza el diagnóstico de un paciente.                | Technical Story TS14  |
 | `crear_diagnostico_paciente.feature`                    | Crea un diagnóstico para un paciente.                   | Technical Story TS15  |
 
-## Organización del Repositorio
+#### Organización del Repositorio
 
 Los archivos `.feature` están organizados en:
 https://github.com/WX55-Closed-Source/report-final-project
