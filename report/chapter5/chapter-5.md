@@ -2399,7 +2399,15 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+
+
 ## 5.4. Video About-the-Product.
+
+El video About The Product se realizó con la finalidad de dar una explicación visual sobre el proyecto PsyMed, los objetivos y alcances.
+El video se encuentra dentro del LandingPage de Psymed.
+![About the product](/assets/abouttheproduct.jpeg)
+Enlace a Landing Page PsyMed: https://wx55-closed-source.github.io/landing-page/
+Enlace al video: https://www.youtube.com/watch?v=zHMf8n2zuTs
 
 
 # Conclusiones 
@@ -2422,8 +2430,14 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 9. **Manejo de Pendientes**: Estimar tiempos adicionales es importante para lidiar con tareas no planificadas y mantener los plazos.
 
-Video About-the-Team.
+## Video About-the-Team.
 
+El video de About The Team se realizó con la finalidad de presentar a los desarrolladores del proyecto PsyMed.
+El video se encuentra dentro del LandingPage.
+
+![About the product](/assets/abouttheteam.jpeg)
+Enlace a Landing Page PsyMed: https://wx55-closed-source.github.io/landing-page/
+Enlace al video: https://youtu.be/h3OvwBko3jw
 
 
 # Bibliografia
