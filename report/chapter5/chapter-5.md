@@ -1693,107 +1693,517 @@ Nuestro enfoque es permitir a los profesionales de la salud registrarse en la ap
     <td colspan="2">Assigned to</td>
     <td colspan="1">Status (To-do / InProcess / To-Review / Done)</td>
   </tr>
+  <tr>
+    <td colspan="1">S03</td>
+    <td colspan="2">Eliminar paciente a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Validación de paciente</td>
+    <td colspan="3">Implementar la lógica para eliminar un paciente con validaciones</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">David</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">S03</td>
+    <td colspan="2">Eliminar paciente a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Crear el endpoint de la funcion de eliminar paciente</td>
+    <td colspan="3">Crear el endpoint para eliminar un paciente por medio del id</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">David</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS04</td>
+    <td colspan="2">Eliminar profesional de la salud mental a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Crear el endpoint de eliminación</td>
+    <td colspan="3">Crear el endpoint de eliminación (DELETE /api/profesionales/:id) en el controlador correspondiente</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS04</td>
+    <td colspan="2">Eliminar profesional de la salud mental a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Implementar la lógica de servicio</td>
+    <td colspan="3">Implementar la lógica de servicio para verificar la existencia del profesional antes de eliminarlo.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS04</td>
+    <td colspan="2">Eliminar profesional de la salud mental a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Documentar endpoint</td>
+    <td colspan="3">Definir y documentar el formato de la solicitud HTTP (método, parámetros de la URL) para la eliminación del profesional.</td>
+    <td colspan="1">2h</td>
+    <td colspan="2">Romina</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">TS08</td>
+    <td colspan="2">Recuperar datos estadísticos de funciones biológicas del paciente a través de un RESTful API</td>
+    <td colspan="1">TSK</td>
+    <td colspan="2">Crear capa de dominio para obtener estadísticas</td>
+    <td colspan="3">Crear capa  de dominio con lógica de estadísticas</td>
+    <td colspan="1">4h</td>
+    <td colspan="2">Franz</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td>TS08</td>
+    <td colspan="2">Recuperar datos estadísticos de funciones biológicas del paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de aplicación</td>
+    <td colspan="3">Crear capa de aplicación</td>
+    <td>1h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS08</td>
+    <td colspan="2">Recuperar datos estadísticos de funciones biológicas del paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de interfaz</td>
+    <td colspan="3">Crear capa de interfaz</td>
+    <td>1h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS10</td>
+    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de consumo de medicamentos</td>
+    <td colspan="3">Crear capa de consumo de medicamentos</td>
+    <td>2h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS10</td>
+    <td colspan="2">Recuperar datos de consumo de medicamentos válidos</td>
+    <td>TSK</td>
+    <td colspan="2">Crear validación de medicamentos</td>
+    <td colspan="3">Crear validación de medicamentos válidos</td>
+    <td>2h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
     <tr>
-        <td colspan="1">S03</td>
-        <td colspan="2">Eliminar paciente</td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Validación de paciente</td>
-        <td colspan="3">Implementar la lógica para eliminar un paciente con validaciones</td>
-        <td colspan="1">2h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
+    <td>TS12</td>
+    <td colspan="2">Actualizar apuntes de la sesión terapéutica a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de apuntes de sesión terapéutica</td>
+    <td colspan="3">Crear capa de apuntes de sesión terapéutica</td>
+    <td>1h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS12</td>
+    <td colspan="2">Actualizar apuntes de la sesión terapéutica a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear validación de la sesión terapéutica</td>
+    <td colspan="3">Crear validación de la sesión terapéutica</td>
+    <td>1h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS12</td>
+    <td colspan="2">Actualizar apuntes de la sesión terapéutica a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Modificar diagrama fisico de la base de datos</td>
+    <td colspan="3">Modificar diagrama fisico de la base de datos</td>
+    <td>2h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS13</td>
+    <td colspan="2">Añadir apuntes de la sesión terapéutica a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de apuntes de sesión terapéutica</td>
+    <td colspan="3">Crear capa de apuntes de sesión terapéutica</td>
+    <td>1h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS13</td>
+    <td colspan="2">Añadir apuntes de la sesión terapéutica a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear validación de la sesión terapéutica</td>
+    <td colspan="3">Crear validación de la sesión terapéutica</td>
+    <td>2h</td>
+    <td colspan="2">David</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS16</td>
+    <td colspan="2">Obtener recordatorio de actividades a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Modificar diagrama físico de la base de datos</td>
+    <td colspan="3">Modificar diagrama de la base de datos para usar el recordatorio de actividades</td>
+    <td>1h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS16</td>
+    <td colspan="2">Obtener recordatorio de actividades a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollar la solución en Java</td>
+    <td colspan="3">Desarrollar el sistema de recordatorio</td>
+    <td>6h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS18</td>
+    <td colspan="2">Obtener notificación cuando el terapeuta agregue o modifique información a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Modificar diagrama físico de la base de datos</td>
+    <td colspan="3">Modificar diagrama de la base de datos para emitir evento y notificación de actividades</td>
+    <td>1h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS18</td>
+    <td colspan="2">Obtener notificación cuando el terapeuta agregue o modifique información a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollar la solución en Java</td>
+    <td colspan="3">Desarrollar el sistema de notificación</td>
+    <td>4h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS20</td>
+    <td colspan="2">Registro de confirmación de consumo de pastillas a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollar endpoint POST</td>
+    <td colspan="3">Crear el endpoint para registrar la confirmación de consumo (POST /api/pacientes/{id_paciente}/medicamentos/{id_medicamento}/consumo).</td>
+    <td>5h</td>
+    <td colspan="2">Romina</td>
+    <td>Done</td>
+  </tr>
     <tr>
-        <td colspan="1"></td>
-        <td colspan="2"></td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Crear el endpoint</td>
-        <td colspan="3">Crear el endpoint para eliminar un paciente por medio del ID</td>
-        <td colspan="1">2h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
+    <td>TS20</td>
+    <td colspan="2">Registro de confirmación de consumo de pastillas a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollo de lógica para el servicio</td>
+    <td colspan="3">Implementar la lógica de servicio para verificar que el medicamento corresponde al paciente y que el registro de consumo es válido (por ejemplo, no duplicado).</td>
+    <td>4h</td>
+    <td colspan="2">Romina</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td colspan="2">Añadir historial médico de paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de dominio del historial médico</td>
+    <td colspan="3">Crear las entidades de historial clínico y status</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td colspan="2">Añadir historial médico de paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear capa de aplicación del historial médico</td>
+    <td colspan="3">Crear capa de aplicación del historial médico</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td colspan="2">Añadir historial médico de paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Crear interfaces del historial médico</td>
+    <td colspan="3">Crear interfaces del historial médico</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS06</td>
+    <td colspan="2">Añadir historial médico de paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar validaciones para el historial médico</td>
+    <td colspan="3">Agregar validaciones para el historial médico</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS11</td>
+    <td colspan="2">Actualizar información de consumo de pastillas</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar lógica de validación de pastilla</td>
+    <td colspan="3">Agregar lógica de validación de pastilla con sus campos</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS11</td>
+    <td colspan="2">Actualizar información de consumo de pastillas</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar endpoint</td>
+    <td colspan="3">Agregar el endpoint para modificar el status de la pastilla con el id</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS22</td>
+    <td colspan="2">Actualización de datos de acceso de un paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar lógica de validación de campos</td>
+    <td colspan="3">Agregar lógica de validación de campos del paciente para su modificación</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS22</td>
+    <td colspan="2">Actualización de datos de acceso de un paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar endpoint de modificación</td>
+    <td colspan="3">Agregar el endpoint de modificación con el id del paciente</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS23</td>
+    <td colspan="2">Actualización de información del profesional de salud mental a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar lógica de validación de campos</td>
+    <td colspan="3">Agregar lógica de validación de campos del profesional para su modificación</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS23</td>
+    <td colspan="2">Actualización de información del profesional de salud mental a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar endpoint de modificación</td>
+    <td colspan="3">Agregar el endpoint de modificación con el id del profesional</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS01</td>
+    <td colspan="2">Añadir paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar hasheo de contraseña</td>
+    <td colspan="3">Agregar hasheo a la contraseña del paciente</td>
+    <td>2h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td colspan="2">Añadir profesional de la salud mental a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Agregar hasheo de contraseña</td>
+    <td colspan="3">Agregar hasheo a la contraseña del profesional</td>
+    <td>2h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS02</td>
+    <td colspan="2">Añadir profesional de la salud mental a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Retornar token</td>
+    <td colspan="3">Retornar token después del registro del profesional</td>
+    <td>3h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td colspan="2">Inicio de sesión a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Retornar token</td>
+    <td colspan="3">Retornar token después del registro del profesional</td>
+    <td>3h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td colspan="2">Inicio de sesión a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Retornar id y rol en token</td>
+    <td colspan="3">Retornar id y rol en el payload del token del profesional</td>
+    <td>3h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS05</td>
+    <td colspan="2">Inicio de sesión a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Comprobar usuario y contraseña</td>
+    <td colspan="3">Comprobar usuario y contraseña durante el inicio de sesión</td>
+    <td>1h</td>
+    <td colspan="2">Franz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS15</td>
+    <td colspan="2">Crear diagnóstico del paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Capa de dominio e infraestructura</td>
+    <td colspan="3">Crear capa de dominio e infraestructura para el registro de diagnóstico</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>TS15</td>
+    <td colspan="2">Crear diagnóstico del paciente a través de un RESTful API</td>
+    <td>TSK</td>
+    <td colspan="2">Capa de aplicación e interfaz</td>
+    <td colspan="3">Crear capa de aplicación e interfaz para el diagnóstico</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
     <tr>
-        <td colspan="1">TS04</td>
-        <td colspan="2">Eliminar profesional</td>
-        <td colspan="1"></td>
-        <td colspan="2">Crear el endpoint de eliminación</td>
-        <td colspan="3">Crear el endpoint (DELETE /api/profesionales/:id)</td>
-        <td colspan="1">2h</td>
-        <td colspan="2">Romina</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1"></td>
-        <td colspan="2"></td>
-        <td colspan="1"></td>
-        <td colspan="2">Lógica de servicio</td>
-        <td colspan="3">Verificar la existencia del profesional antes de eliminarlo</td>
-        <td colspan="1"></td>
-        <td colspan="2">Romina</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1">TS08</td>
-        <td colspan="2">Recuperar estadísticas</td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Crear capa de dominio</td>
-        <td colspan="3">Crear capa de dominio con lógica de estadísticas</td>
-        <td colspan="1">4h</td>
-        <td colspan="2">Franz</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1"></td>
-        <td colspan="2"></td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Crear capa de aplicación</td>
-        <td colspan="3">Crear capa de aplicación para estadísticas</td>
-        <td colspan="1">1h</td>
-        <td colspan="2">Franz</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1">TS10</td>
-        <td colspan="2">Consumo de medicamentos</td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Crear capa de consumo</td>
-        <td colspan="3">Crear capa para gestionar consumo de medicamentos</td>
-        <td colspan="1">2h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1"></td>
-        <td colspan="2"></td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Validar medicamentos</td>
-        <td colspan="3">Crear validación de medicamentos válidos</td>
-        <td colspan="1">2h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1">TS12</td>
-        <td colspan="2">Actualizar apuntes</td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Crear capa de apuntes</td>
-        <td colspan="3">Crear capa para gestionar apuntes de sesiones</td>
-        <td colspan="1">1h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
-    <tr>
-        <td colspan="1"></td>
-        <td colspan="2"></td>
-        <td colspan="1">TSK</td>
-        <td colspan="2">Validar apuntes</td>
-        <td colspan="3">Crear validación de la sesión terapéutica</td>
-        <td colspan="1">1h</td>
-        <td colspan="2">David</td>
-        <td colspan="1">To-do</td>
-    </tr>
-  </table>
+    <td>US05</td>
+    <td colspan="2">Registro como profesional de la salud mental</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollo de formulario de registro</td>
+    <td colspan="3">Crear view para el registro como profesional de la salud mental con credenciales para la autenticación</td>
+    <td></td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US05</td>
+    <td colspan="2">Registro como profesional de la salud mental</td>
+    <td>TSK</td>
+    <td colspan="2">Validación de campos obligatorios en el formulario de registro.</td>
+    <td colspan="3">Validar lo campos en el formulario </td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td colspan="2">Inicio de sesión como pacientes</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollo de formulario de registro</td>
+    <td colspan="3">Crear la view de inicio de sesión como paciente</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US06</td>
+    <td colspan="2">Inicio de sesión como pacientes</td>
+    <td>TSK</td>
+    <td colspan="2">Validación de correo electrónico y contraseña</td>
+    <td colspan="3">Validación de los campos del formulario como credenciales repetidas y datos válidos</td>
+    <td>2h</td>
+    <td colspan="2">Valentino</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td colspan="2">Inicio de sesión como profesional de la salud mental</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollo de formulario de inicio de sesión</td>
+    <td colspan="3">Crear interfaz para que los profesionales ingresen sus credenciales</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US07</td>
+    <td colspan="2">Inicio de sesión como profesional de la salud mental</td>
+    <td>TSK</td>
+    <td colspan="2">Validación de correo electrónico y contraseña</td>
+    <td colspan="3">Asegurar que se ingresen todos los campos y estén en el formato correcto</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td colspan="2">Registro de información personal</td>
+    <td>TSK</td>
+    <td colspan="2">Desarrollo de formulario</td>
+    <td colspan="3">Crear interfaz para que los profesionales ingresen datos del paciente</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US08</td>
+    <td colspan="2">Registro de información personal</td>
+    <td>TSK</td>
+    <td colspan="2">Validación de campos obligatorios</td>
+    <td colspan="3">Verificar que todos los campos obligatorios estén completos y correctos</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td colspan="2">Recibir notificaciones de recordatorios de actividades</td>
+    <td>TSK</td>
+    <td colspan="2">Lógica para mostrar notificaciones</td>
+    <td colspan="3">Configurar la lógica para que las notificaciones se muestren en el tiempo correcto</td>
+    <td>3h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US18</td>
+    <td colspan="2">Recibir notificaciones de recordatorios de actividades</td>
+    <td>TSK</td>
+    <td colspan="2">Diseño de la interfaz para mostrar notificaciones</td>
+    <td colspan="3">Crear la interfaz donde aparecerán las notificaciones al usuario</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td colspan="2">Recibir notificaciones cuando el terapeuta agregue o modifique información</td>
+    <td>TSK</td>
+    <td colspan="2">Lógica para recibir y mostrar notificaciones en tiempo real</td>
+    <td colspan="3">Implementar lógica para mostrar notificaciones en tiempo real cuando el terapeuta actualiza información del paciente</td>
+    <td>3h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US20</td>
+    <td colspan="2">Recibir notificaciones cuando el terapeuta agregue o modifique información</td>
+    <td>TSK</td>
+    <td colspan="2">Diseño de la interfaz para visualizar las notificaciones</td>
+    <td colspan="3">Crear la interfaz para mostrar notificaciones de cambios en la información del paciente</td>
+    <td>2h</td>
+    <td colspan="2">Anatoly</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 ### 5.4.1.3. Development Evidence for Sprint Review
 <table>
