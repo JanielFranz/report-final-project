@@ -2259,6 +2259,23 @@ identificados en el proyecto.
 
 ### 5.4.1.4. Testing Suite Evidence for Sprint Review
 
+
+| Archivo `.feature`                                      | Descripción                                            | Relacionado con       |
+|---------------------------------------------------------|--------------------------------------------------------|-----------------------|
+| `visualizacion_imagenes_y_graficos.feature`             | Verifica la correcta visualización de imágenes y gráficos en la landing page. | User Story US03       |
+| `eliminar_profesional_salud_mental.feature`             | Pruebas para la eliminación de un profesional a través de un API. | Technical Story TS04  |
+| `recuperar_datos_estadisticos_funciones_biologicas.feature` | Recupera datos estadísticos de funciones biológicas de un paciente. | Technical Story TS08  |
+| `actualizar_apuntes_sesion_terapeutica.feature`         | Actualiza los apuntes de una sesión terapéutica.        | Technical Story TS12  |
+| `anadir_apuntes_sesion_terapeutica.feature`             | Añadir apuntes a una sesión terapéutica.                | Technical Story TS13  |
+| `actualizar_diagnostico_paciente.feature`               | Actualiza el diagnóstico de un paciente.                | Technical Story TS14  |
+| `crear_diagnostico_paciente.feature`                    | Crea un diagnóstico para un paciente.                   | Technical Story TS15  |
+
+## Organización del Repositorio
+
+Los archivos `.feature` están organizados en:
+https://github.com/WX55-Closed-Source/report-final-project
+
+
 ### 5.4.1.5. Execution Evidence for Sprint Review
 
 **Gestión de Administración de Citas**: Optimiza la creación, edición y cancelación de citas, además de la gestión de recordatorios y disponibilidad del personal médico.
@@ -2301,10 +2318,17 @@ identificados en el proyecto.
 
 ---
 
+Evidencias:
+
+[!service_documentation_evidence_1](/assets/sprint4/login_services_documentation.png)
+[!service_documentation_evidence_2](/assets/sprint4/login_services_documentation2.png)
+[!service_documentation_evidence_1](/assets/sprint4/patient_profiles_services_documentation.png)
+[!service_documentation_evidence_2](/assets/sprint4/patient_profiles_services_documentation2.png)
+[!service_documentation_evidence_1](/assets/sprint4/professional_profiles_services_documentation.png)
+[!service_documentation_evidence_2](/assets/sprint4/professional_profiles_services_documentation2.png)
 ### 5.4.1.7. Software Deployment Evidence for Sprint Review
 
 Link del backend deployment: https://psymed-production.up.railway.app
-
 
 ![backend_deployment_1](/assets/sprint4/backend_deployment.png)
 ![backend_deployment_2](/assets/sprint4/backend_deployment2.png)
