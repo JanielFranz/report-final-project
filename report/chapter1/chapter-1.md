@@ -168,15 +168,11 @@ Para superar este desafío, es esencial implementar soluciones tecnológicas que
 
 ## Lean UX Problem Statements
 
-*Estamos planificando el desarrollo de una plataforma de software para profesionales de la salud mental, diseñada para facilitar la gestión integrada y eficiente de la información de pacientes y médicos. Sin embargo, hemos identificado que las herramientas tecnológicas actuales en estas instituciones no están cumpliendo con las necesidades específicas de gestión, lo que causa un manejo fragmentado de los datos clínicos, dificultades para organizar y acceder a la información relevante durante las consultas, y problemas para programar y gestionar citas de manera eficiente. Esta situación genera una carga administrativa adicional para los profesionales de salud mental, aumenta el riesgo de errores en el manejo de la información clínica, y limita la capacidad de ofrecer un enfoque de tratamiento multidisciplinario.*
+El sistema de salud mental en Perú se enfrenta a una crisis debido a la sobrecarga administrativa que limita la capacidad de los profesionales para brindar atención directa a sus pacientes. La creciente demanda de servicios de salud mental, impulsada por trastornos como la depresión y la ansiedad, ha generado un colapso en la gestión de citas, historiales clínicos y comunicación entre médicos y pacientes. Esta situación ha resultado en una reducción en la calidad del servicio y en el acceso oportuno a la atención que los pacientes necesitan.
 
->*Con base en los resultados del análisis de las funcionalidades médicas en línea de 200 hospitales en América Latina y el Caribe, se puede concluir que si bien existe una adopción significativa de la agenda en línea y la visualización de exámenes médicos, la implementación de servicios de telemedicina y otras funcionalidades adicionales aún presenta un margen considerable para el desarrollo y la mejora.
--(s. f.).*
+¿Cómo podríamos desarrollar una solución tecnológica que automatice las tareas administrativas, libere tiempo para los profesionales de salud mental y, en última instancia, mejore el acceso y la calidad de la atención en el sistema de salud mental en Perú?
 
-*¿Cómo podríamos desarrollar esta plataforma para que los profesionales de la salud mental puedan organizar de manera más efectiva la información de sus pacientes, reducir la carga administrativa, y en última instancia, mejorar la calidad del servicio y la satisfacción de los pacientes, basándonos en criterios medibles como la eficiencia operativa, la precisión en el manejo de la información clínica, y la colaboración entre profesionales?*
-
-
-*Esta plataforma debe ser segura, fácil de usar, y capaz de integrar todas las funcionalidades necesarias para la gestión diaria en un solo lugar, permitiendo así una mejora significativa en la organización de las consultas, el acceso a la información y la coordinación entre los diferentes profesionales y abriendo la posibilidad para integraciones de IOT dentro de la institución.*
+Nuestra plataforma debe ser fácil de usar, integrando de manera eficiente la gestión de citas, historiales médicos y comunicación entre médicos y pacientes. Esto permitirá a los profesionales de salud mental enfocarse en lo que más importa: brindar atención de calidad a sus pacientes.
 
 
 ### **Customer Segments**
