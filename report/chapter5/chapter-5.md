@@ -2308,6 +2308,8 @@ Link del backend deployment: https://psymed-production.up.railway.app
 
 ![backend_deployment_1](/assets/sprint4/backend_deployment.png)
 ![backend_deployment_2](/assets/sprint4/backend_deployment2.png)
+![mysql_railway_deployment_1](/assets/sprint4/mysql_railway_deployment.png)
+![mysql_railway_deployment_2](/assets/sprint4/mysql_railway_deployment_2.png)
 
 
 ### 5.4.1.8. Team Collaboration Insights during Sprint
