@@ -2356,29 +2356,26 @@ Back-end: El backend está en constante mejoras, con una alta actividad orientad
 
 ## Anexo A:
 
-Organizacion GitHub: https://github.com/WX55-Closed-Source
+Organización GitHub: https://github.com/WX55-Closed-Source
 
 Enlace del landing page: https://wx55-closed-source.github.io/landing-page/
 
 Enlace del frontend: https://bright-fudge-23a4f1.netlify.app
 
-Enlace del backend:
+Enlace del backend: 
 
 
 ## Anexo B:
 
-Video TB1: https://www.youtube.com/watch?v=FlChiyIqaeE
-
-Video entrevistas: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=1wXyUg
-
-Video de About the team: https://youtu.be/h3OvwBko3jw ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EfuYS2r3_45BqbmKqrTTNJoBbL3Gch_0G8cZ--3z0IVLMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s8l8Cl
-
-Video de About the product: https://youtu.be/zHMf8n2zuTs ||  https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EUbFeMjq56hDld6KmaYT0FoB2pulfZvB25NY4C-ND5xBuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wvGh2S
-
-Video de Deployment: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU
-
-Video entrevista de validación: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211813_upc_edu_pe/EQso1YR0-h1OkfA6zLEc1dYBzrvpoGUgSqbRS33kidCV1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Da1fVY
-
+| Título                         | Descripción                                                       | Enlace                                                                                                                                                                                                                                                                                                                                              |
+|--------------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Video de exposición TB1        | Video explicativo de los avances de la entrega TB1                | https://www.youtube.com/watch?v=FlChiyIqaeE                                                                                                                                                                                                                                                                                                                |
+| Video entrevistas              | Video de recopilación de todas las entrevistas de ambos segmentos | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/ESKZeR1QZ9tMqVNWhCCyqFABPQqgTTVaG5g92D72SDbIrg?e=1wXyUg                                                                                                                                                                                                                            |
+| Video About The Team           | Video de presentación del equipo ClosedSource                     | https://youtu.be/h3OvwBko3jw - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EfuYS2r3_45BqbmKqrTTNJoBbL3Gch_0G8cZ--3z0IVLMw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=s8l8Cl |                                                                                                                                                                                                                                                                                                ||
+| Video About The Product        | Video explicativo acerca del producto PsyMed                      | https://youtu.be/zHMf8n2zuTs - https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EUbFeMjq56hDld6KmaYT0FoB2pulfZvB25NY4C-ND5xBuQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=wvGh2S |
+| Video de Deployment            | Video demostrativo del Deployment                                 | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211c736_upc_edu_pe/EXFlg7PItzRHsng8YK-2cf0Bc2g2GRhyyNFbBzJCEoe9Qg?e=rLm7TU                                                                                                                                                                                                                            |
+| Video entrevista de validación | Video de entrevista al segmento profesionales de la salud mental  | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211813_upc_edu_pe/EQso1YR0-h1OkfA6zLEc1dYBzrvpoGUgSqbRS33kidCV1w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Da1fVY                                |
+| Video entrevista de validación | Video de entrevista al segmento pacientes                         | https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213765_upc_edu_pe/EW2RS6faLUhPnEMsTpQBHV0BL4xlhry72qMqf_gztNbfvg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hEbp2v                                |
 
 # Bibliografia
 - _Digitalización de las instituciones hospitalarias._ (s/f). Cepal.org. Recuperado el 5 de septiembre de 2024, de https://desarrollodigital.cepal.org/es/datos-y-hechos/digitalizacion-de-las-instituciones-hospitalarias
