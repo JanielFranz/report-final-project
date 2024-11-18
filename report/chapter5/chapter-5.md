@@ -2341,7 +2341,7 @@ Para el desarrollo de este sprint, todos los miembros del equipo desarrollaron y
 
 Trello: Se están abordando validaciones, diseño responsivo, y despliegue tanto del frontend como del backend.
 
-![trello](/assets/sprint4/trello.png)
+![trello](/assets/sprint4/Trello.png)
 
 Landing page: El desarrollo ha tenido contribuciones moderadas, con ajustes en la estructura y optimización de la página.
 
